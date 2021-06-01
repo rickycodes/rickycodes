@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Check out what I'm currently working on
+#### 👀 Check out what I'm currently working on
 
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (5 days ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 weeks ago)
@@ -51,7 +51,7 @@
 
 - [Publishing my Website to the peer-to-peer Web](//ricky.codes/blog/posts/publishing-to-the-peer-to-peer-web/) (2 years ago)
 
-#### Elsewhere
+#### 🔗 Elsewhere
 
 - Twitter: https://twitter.com/rickycodes
 - Blog: https://ricky.codes/blog
