@@ -54,6 +54,7 @@
 
 #### 🔗 Elsewhere
 
+- Web: https://ricky.codes
 - Twitter: https://twitter.com/rickycodes
 - Blog: https://ricky.codes/blog
 
