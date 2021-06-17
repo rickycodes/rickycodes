@@ -2,9 +2,9 @@
 
 #### 👀 Check out what I'm currently working on
 
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (today)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 days ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (2 weeks ago)
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (3 weeks ago)
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (1 month ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 month ago)
 - [MetaMask/dapps](https://github.com/MetaMask/dapps) - home.metamask.io website (3 months ago)
@@ -30,7 +30,6 @@
 
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v9.6.1](https://github.com/MetaMask/metamask-extension/releases/tag/v9.6.1), 2 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v10.1.0](https://github.com/MetaMask/controllers/releases/tag/v10.1.0), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v2.4.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v2.4.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) ([v1.0](https://github.com/rickycodes/pve-no-subscription/releases/tag/v1.0), 6 months ago) - Proxmox VE No-Subscription Removal
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.3.9](https://github.com/rickycodes/card/releases/tag/v1.3.9), 8 months ago) - npx business card built with rust targeting wasm
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) ([v0.1.0](https://github.com/rickycodes/retrorecord/releases/tag/v0.1.0), 2 years ago) - 🎮 share screenshots and recrordings to twitter
