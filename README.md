@@ -28,6 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v.2.5.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v.2.5.0), today) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v9.6.1](https://github.com/MetaMask/metamask-extension/releases/tag/v9.6.1), 2 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v10.1.0](https://github.com/MetaMask/controllers/releases/tag/v10.1.0), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) ([v1.0](https://github.com/rickycodes/pve-no-subscription/releases/tag/v1.0), 6 months ago) - Proxmox VE No-Subscription Removal
@@ -36,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix prop type warning](https://github.com/MetaMask/metamask-mobile/pull/2821) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [@ethereumjs/tx-regression-test](https://github.com/MetaMask/metamask-mobile/pull/2797) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [update CHANGELOG.md](https://github.com/MetaMask/metamask-mobile/pull/2796) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [Add isInteraction: false](https://github.com/MetaMask/metamask-mobile/pull/2777) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
@@ -45,7 +47,6 @@
 - [Update ws per: https://www.npmjs.com/advisories/1748](https://github.com/facebook/react-native/pull/31648) on [facebook/react-native](https://github.com/facebook/react-native) (2 weeks ago)
 - [Bugfix/fix ws resolution](https://github.com/MetaMask/metamask-mobile/pull/2742) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Feature/simplify custom gas](https://github.com/MetaMask/metamask-mobile/pull/2738) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
-- [Add resolution for ws to address security vuln](https://github.com/MetaMask/metamask-mobile/pull/2737) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
