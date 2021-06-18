@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Don&#39;t render swap router address in recents](https://github.com/MetaMask/metamask-mobile/pull/2823) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [fix prop type warning](https://github.com/MetaMask/metamask-mobile/pull/2821) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [@ethereumjs/tx-regression-test](https://github.com/MetaMask/metamask-mobile/pull/2797) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 - [update CHANGELOG.md](https://github.com/MetaMask/metamask-mobile/pull/2796) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
@@ -46,7 +47,6 @@
 - [v2.5.0](https://github.com/MetaMask/metamask-mobile/pull/2748) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Update ws per: https://www.npmjs.com/advisories/1748](https://github.com/facebook/react-native/pull/31648) on [facebook/react-native](https://github.com/facebook/react-native) (2 weeks ago)
 - [Bugfix/fix ws resolution](https://github.com/MetaMask/metamask-mobile/pull/2742) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
-- [Feature/simplify custom gas](https://github.com/MetaMask/metamask-mobile/pull/2738) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
