@@ -37,7 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update tests](https://github.com/MetaMask/controllers/pull/495) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
+- [Update tests for draft gas controller](https://github.com/MetaMask/controllers/pull/495) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
 - [Don&#39;t render swap router address in recents](https://github.com/MetaMask/metamask-mobile/pull/2823) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Fix prop type warning](https://github.com/MetaMask/metamask-mobile/pull/2821) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [@ethereumjs/tx-regression-test](https://github.com/MetaMask/metamask-mobile/pull/2797) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
