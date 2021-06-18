@@ -38,7 +38,7 @@
 #### 🔨 My recent Pull Requests
 
 - [Don&#39;t render swap router address in recents](https://github.com/MetaMask/metamask-mobile/pull/2823) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
-- [fix prop type warning](https://github.com/MetaMask/metamask-mobile/pull/2821) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
+- [Fix prop type warning](https://github.com/MetaMask/metamask-mobile/pull/2821) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [@ethereumjs/tx-regression-test](https://github.com/MetaMask/metamask-mobile/pull/2797) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 - [update CHANGELOG.md](https://github.com/MetaMask/metamask-mobile/pull/2796) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 - [Add isInteraction: false](https://github.com/MetaMask/metamask-mobile/pull/2777) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
