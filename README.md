@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feature/eip1559 base edit gas fee screen add controller](https://github.com/MetaMask/metamask-mobile/pull/2841) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Update tests for draft gas controller](https://github.com/MetaMask/controllers/pull/495) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (4 days ago)
 - [Don&#39;t render swap router address in recents](https://github.com/MetaMask/metamask-mobile/pull/2823) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 - [Fix prop type warning](https://github.com/MetaMask/metamask-mobile/pull/2821) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
@@ -46,7 +47,6 @@
 - [Use MediaPlayer](https://github.com/MetaMask/metamask-mobile/pull/2759) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Feature/use @ethereumjs/tx](https://github.com/MetaMask/controllers/pull/489) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 - [v2.5.0](https://github.com/MetaMask/metamask-mobile/pull/2748) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
-- [Update ws per: https://www.npmjs.com/advisories/1748](https://github.com/facebook/react-native/pull/31648) on [facebook/react-native](https://github.com/facebook/react-native) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
