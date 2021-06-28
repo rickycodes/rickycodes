@@ -37,6 +37,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Try Eip1559](https://github.com/MetaMask/controllers/pull/497) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
 - [Feature/fix time formatting transactions](https://github.com/MetaMask/metamask-mobile/pull/2854) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [Feature/eip1559 base edit gas fee screen add controller](https://github.com/MetaMask/metamask-mobile/pull/2841) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
 - [Update tests for draft gas controller](https://github.com/MetaMask/controllers/pull/495) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
@@ -46,7 +47,6 @@
 - [update CHANGELOG.md](https://github.com/MetaMask/metamask-mobile/pull/2796) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Add isInteraction: false](https://github.com/MetaMask/metamask-mobile/pull/2777) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Use MediaPlayer](https://github.com/MetaMask/metamask-mobile/pull/2759) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
-- [Feature/use @ethereumjs/tx](https://github.com/MetaMask/controllers/pull/489) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
