@@ -2,9 +2,9 @@
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (today)
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 day ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 week ago)
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (3 weeks ago)
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (4 weeks ago)
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (1 month ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 month ago)
 - [MetaMask/dapps](https://github.com/MetaMask/dapps) - home.metamask.io website (3 months ago)
@@ -28,25 +28,25 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v10.2.0](https://github.com/MetaMask/controllers/releases/tag/v10.2.0), today) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v9.7.0](https://github.com/MetaMask/metamask-extension/releases/tag/v9.7.0), 5 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v.2.5.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v.2.5.0), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v10.2.0](https://github.com/MetaMask/controllers/releases/tag/v10.2.0), 1 day ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v9.7.0](https://github.com/MetaMask/metamask-extension/releases/tag/v9.7.0), 6 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v.2.5.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v.2.5.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) ([v1.0](https://github.com/rickycodes/pve-no-subscription/releases/tag/v1.0), 7 months ago) - Proxmox VE No-Subscription Removal
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.3.9](https://github.com/rickycodes/card/releases/tag/v1.3.9), 9 months ago) - npx business card built with rust targeting wasm
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) ([v0.1.0](https://github.com/rickycodes/retrorecord/releases/tag/v0.1.0), 2 years ago) - 🎮 share screenshots and recrordings to twitter
 
 #### 🔨 My recent Pull Requests
 
-- [v10.2.0](https://github.com/MetaMask/controllers/pull/503) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
-- [Try Eip1559](https://github.com/MetaMask/controllers/pull/497) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 days ago)
-- [Feature/fix time formatting transactions](https://github.com/MetaMask/metamask-mobile/pull/2854) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
+- [v10.2.0](https://github.com/MetaMask/controllers/pull/503) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 day ago)
+- [Try Eip1559](https://github.com/MetaMask/controllers/pull/497) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (3 days ago)
+- [Feature/fix time formatting transactions](https://github.com/MetaMask/metamask-mobile/pull/2854) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
 - [Feature/eip1559 base edit gas fee screen add controller](https://github.com/MetaMask/metamask-mobile/pull/2841) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Update tests for draft gas controller](https://github.com/MetaMask/controllers/pull/495) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Don&#39;t render swap router address in recents](https://github.com/MetaMask/metamask-mobile/pull/2823) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [Fix prop type warning](https://github.com/MetaMask/metamask-mobile/pull/2821) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
+- [Fix prop type warning](https://github.com/MetaMask/metamask-mobile/pull/2821) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [@ethereumjs/tx-regression-test](https://github.com/MetaMask/metamask-mobile/pull/2797) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [update CHANGELOG.md](https://github.com/MetaMask/metamask-mobile/pull/2796) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
-- [Add isInteraction: false](https://github.com/MetaMask/metamask-mobile/pull/2777) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
+- [Add isInteraction: false](https://github.com/MetaMask/metamask-mobile/pull/2777) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
