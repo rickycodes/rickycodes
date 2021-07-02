@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v11.0.0](https://github.com/MetaMask/controllers/releases/tag/v11.0.0), today) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v9.7.1](https://github.com/MetaMask/metamask-extension/releases/tag/v9.7.1), 1 day ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v10.2.0](https://github.com/MetaMask/controllers/releases/tag/v10.2.0), 2 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v.2.5.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v.2.5.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) ([v1.0](https://github.com/rickycodes/pve-no-subscription/releases/tag/v1.0), 7 months ago) - Proxmox VE No-Subscription Removal
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.3.9](https://github.com/rickycodes/card/releases/tag/v1.3.9), 9 months ago) - npx business card built with rust targeting wasm
