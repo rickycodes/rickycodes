@@ -2,7 +2,7 @@
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (3 days ago)
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (4 days ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 week ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (1 month ago)
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (1 month ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v11.0.0](https://github.com/MetaMask/controllers/releases/tag/v11.0.0), 1 day ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v9.7.1](https://github.com/MetaMask/metamask-extension/releases/tag/v9.7.1), 2 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v11.0.0](https://github.com/MetaMask/controllers/releases/tag/v11.0.0), 2 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v9.7.1](https://github.com/MetaMask/metamask-extension/releases/tag/v9.7.1), 3 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v.2.5.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v.2.5.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) ([v1.0](https://github.com/rickycodes/pve-no-subscription/releases/tag/v1.0), 7 months ago) - Proxmox VE No-Subscription Removal
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.3.9](https://github.com/rickycodes/card/releases/tag/v1.3.9), 9 months ago) - npx business card built with rust targeting wasm
@@ -37,8 +37,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [v10.2.0](https://github.com/MetaMask/controllers/pull/503) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (3 days ago)
-- [Try Eip1559](https://github.com/MetaMask/controllers/pull/497) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (5 days ago)
+- [v10.2.0](https://github.com/MetaMask/controllers/pull/503) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (4 days ago)
+- [Try Eip1559](https://github.com/MetaMask/controllers/pull/497) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (6 days ago)
 - [Feature/fix time formatting transactions](https://github.com/MetaMask/metamask-mobile/pull/2854) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Feature/eip1559 base edit gas fee screen add controller](https://github.com/MetaMask/metamask-mobile/pull/2841) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Update tests for draft gas controller](https://github.com/MetaMask/controllers/pull/495) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
