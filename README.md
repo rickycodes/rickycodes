@@ -28,7 +28,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v11.0.0](https://github.com/MetaMask/controllers/releases/tag/v11.0.0), 5 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v12.0.0](https://github.com/MetaMask/controllers/releases/tag/v12.0.0), today) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v9.7.1](https://github.com/MetaMask/metamask-extension/releases/tag/v9.7.1), 6 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v.2.5.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v.2.5.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/metamask-filecoin-developer-beta](https://github.com/MetaMask/metamask-filecoin-developer-beta) ([v9.3.0-beta.1](https://github.com/MetaMask/metamask-filecoin-developer-beta/releases/tag/v9.3.0-beta.1), 3 months ago) - The MetaMask Filecoin Developer Preview.
