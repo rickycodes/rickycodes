@@ -2,7 +2,7 @@
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (4 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (4 days ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (6 days ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (1 month ago)
@@ -38,7 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [EIP1559 speed up](https://github.com/MetaMask/controllers/pull/521) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 day ago)
+- [Add EIP1559 support for `speedUpTransaction` and `stopTransaction`](https://github.com/MetaMask/controllers/pull/521) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 day ago)
 - [Update `ethereumjs-tx` to `@ethereumjs/tx` to support EIP1559 transactions](https://github.com/MetaMask/web3-provider-engine/pull/377) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (5 days ago)
 - [v10.2.0](https://github.com/MetaMask/controllers/pull/503) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Try Eip1559](https://github.com/MetaMask/controllers/pull/497) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
