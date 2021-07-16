@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Account for speedUp](https://github.com/MetaMask/metamask-mobile/pull/2909) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Ver 16.0.3](https://github.com/MetaMask/web3-provider-engine/pull/381) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (1 day ago)
 - [Remove zero prefix from address.](https://github.com/MetaMask/web3-provider-engine/pull/380) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (1 day ago)
 - [Ver 16.0.2](https://github.com/MetaMask/web3-provider-engine/pull/379) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (2 days ago)
@@ -48,7 +49,6 @@
 - [Try Eip1559](https://github.com/MetaMask/controllers/pull/497) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 - [Feature/fix time formatting transactions](https://github.com/MetaMask/metamask-mobile/pull/2854) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 - [Feature/eip1559 base edit gas fee screen add controller](https://github.com/MetaMask/metamask-mobile/pull/2841) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
-- [Update tests for draft gas controller](https://github.com/MetaMask/controllers/pull/495) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
