@@ -39,7 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Account for speedUp](https://github.com/MetaMask/metamask-mobile/pull/2909) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
+- [Account for speedUp in transaction list](https://github.com/MetaMask/metamask-mobile/pull/2909) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 - [Ver 16.0.3](https://github.com/MetaMask/web3-provider-engine/pull/381) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (5 days ago)
 - [Remove zero prefix from address.](https://github.com/MetaMask/web3-provider-engine/pull/380) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (5 days ago)
 - [Ver 16.0.2](https://github.com/MetaMask/web3-provider-engine/pull/379) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (6 days ago)
