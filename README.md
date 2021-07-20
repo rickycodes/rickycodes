@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Use isEIP1559Transaction from controllers](https://github.com/MetaMask/metamask-mobile/pull/2918) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Account for speedUp in transaction list](https://github.com/MetaMask/metamask-mobile/pull/2909) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 - [Ver 16.0.3](https://github.com/MetaMask/web3-provider-engine/pull/381) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (5 days ago)
 - [Remove zero prefix from address.](https://github.com/MetaMask/web3-provider-engine/pull/380) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (5 days ago)
@@ -48,7 +49,6 @@
 - [v10.2.0](https://github.com/MetaMask/controllers/pull/503) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 - [Try Eip1559](https://github.com/MetaMask/controllers/pull/497) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (3 weeks ago)
 - [Feature/fix time formatting transactions](https://github.com/MetaMask/metamask-mobile/pull/2854) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
-- [Feature/eip1559 base edit gas fee screen add controller](https://github.com/MetaMask/metamask-mobile/pull/2841) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
