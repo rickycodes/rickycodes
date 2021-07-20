@@ -44,7 +44,7 @@
 - [Ver 16.0.3](https://github.com/MetaMask/web3-provider-engine/pull/381) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (5 days ago)
 - [Remove zero prefix from address.](https://github.com/MetaMask/web3-provider-engine/pull/380) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (5 days ago)
 - [Ver 16.0.2](https://github.com/MetaMask/web3-provider-engine/pull/379) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (6 days ago)
-- [Add EIP1559 support for `speedUpTransaction` and `stopTransaction`](https://github.com/MetaMask/controllers/pull/521) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
+- [Add EIP1559 support including `speedUpTransaction` and `stopTransaction`](https://github.com/MetaMask/controllers/pull/521) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Update `ethereumjs-tx` to `@ethereumjs/tx` to support EIP1559 transactions](https://github.com/MetaMask/web3-provider-engine/pull/377) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (1 week ago)
 - [v10.2.0](https://github.com/MetaMask/controllers/pull/503) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 - [Try Eip1559](https://github.com/MetaMask/controllers/pull/497) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (3 weeks ago)
