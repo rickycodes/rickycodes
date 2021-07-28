@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use this.getGasFeeEstimatesAndStartPolling](https://github.com/MetaMask/controllers/pull/546) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
 - [Release/14.0.1](https://github.com/MetaMask/controllers/pull/545) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
 - [Allow for speedUp and stop based on provided gasValues from consumer](https://github.com/MetaMask/controllers/pull/535) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (6 days ago)
 - [Reset polling onNetworkStateChange](https://github.com/MetaMask/controllers/pull/534) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (6 days ago)
@@ -48,7 +49,6 @@
 - [Remove zero prefix from address.](https://github.com/MetaMask/web3-provider-engine/pull/380) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (1 week ago)
 - [Ver 16.0.2](https://github.com/MetaMask/web3-provider-engine/pull/379) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (2 weeks ago)
 - [Add EIP1559 support including `speedUpTransaction` and `stopTransaction`](https://github.com/MetaMask/controllers/pull/521) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
-- [Update `ethereumjs-tx` to `@ethereumjs/tx` to support EIP1559 transactions](https://github.com/MetaMask/web3-provider-engine/pull/377) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
