@@ -39,6 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [bump controllers to v14.0.2](https://github.com/MetaMask/metamask-mobile/pull/2952) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [14.0.2](https://github.com/MetaMask/controllers/pull/547) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
 - [Fix `resetPolling` functionality](https://github.com/MetaMask/controllers/pull/546) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
 - [Release/14.0.1](https://github.com/MetaMask/controllers/pull/545) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
@@ -48,7 +49,6 @@
 - [Account for speedUp in transaction list](https://github.com/MetaMask/metamask-mobile/pull/2909) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Ver 16.0.3](https://github.com/MetaMask/web3-provider-engine/pull/381) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (1 week ago)
 - [Remove zero prefix from address.](https://github.com/MetaMask/web3-provider-engine/pull/380) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (1 week ago)
-- [Ver 16.0.2](https://github.com/MetaMask/web3-provider-engine/pull/379) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
