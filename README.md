@@ -2,8 +2,8 @@
 
 #### 👀 Check out what I'm currently working on
 
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (today)
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 week ago)
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) - A JavaScript library for composing Ethereum provider objects using middleware modules (1 week ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (1 month ago)
@@ -39,7 +39,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [use this.getGasFeeEstimatesAndStartPolling](https://github.com/MetaMask/controllers/pull/546) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
+- [Release/14.0.2](https://github.com/MetaMask/controllers/pull/547) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
+- [Fix `resetPolling` functionality](https://github.com/MetaMask/controllers/pull/546) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
 - [Release/14.0.1](https://github.com/MetaMask/controllers/pull/545) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
 - [Allow for speedUp and stop based on provided gasValues from consumer](https://github.com/MetaMask/controllers/pull/535) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (6 days ago)
 - [Reset polling onNetworkStateChange](https://github.com/MetaMask/controllers/pull/534) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (6 days ago)
@@ -48,7 +49,6 @@
 - [Ver 16.0.3](https://github.com/MetaMask/web3-provider-engine/pull/381) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (1 week ago)
 - [Remove zero prefix from address.](https://github.com/MetaMask/web3-provider-engine/pull/380) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (1 week ago)
 - [Ver 16.0.2](https://github.com/MetaMask/web3-provider-engine/pull/379) on [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) (2 weeks ago)
-- [Add EIP1559 support including `speedUpTransaction` and `stopTransaction`](https://github.com/MetaMask/controllers/pull/521) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
