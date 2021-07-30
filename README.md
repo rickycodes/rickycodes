@@ -2,8 +2,8 @@
 
 #### 👀 Check out what I'm currently working on
 
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (today)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 days ago)
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (2 days ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 week ago)
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) - A JavaScript library for composing Ethereum provider objects using middleware modules (2 weeks ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (1 month ago)
