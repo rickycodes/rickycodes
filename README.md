@@ -2,8 +2,8 @@
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (4 days ago)
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (6 days ago)
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (5 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 week ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (2 weeks ago)
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) - A JavaScript library for composing Ethereum provider objects using middleware modules (2 weeks ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (2 months ago)
@@ -28,10 +28,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v14.0.2](https://github.com/MetaMask/controllers/releases/tag/v14.0.2), 6 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v9.8.4](https://github.com/MetaMask/metamask-extension/releases/tag/v9.8.4), 6 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v14.0.2](https://github.com/MetaMask/controllers/releases/tag/v14.0.2), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v9.8.4](https://github.com/MetaMask/metamask-extension/releases/tag/v9.8.4), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([2.6.0](https://github.com/MetaMask/metamask-mobile/releases/tag/2.6.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/metamask-filecoin-developer-beta](https://github.com/MetaMask/metamask-filecoin-developer-beta) ([v9.3.0-beta.1](https://github.com/MetaMask/metamask-filecoin-developer-beta/releases/tag/v9.3.0-beta.1), 3 months ago) - The MetaMask Filecoin Developer Preview.
+- [MetaMask/metamask-filecoin-developer-beta](https://github.com/MetaMask/metamask-filecoin-developer-beta) ([v9.3.0-beta.1](https://github.com/MetaMask/metamask-filecoin-developer-beta/releases/tag/v9.3.0-beta.1), 4 months ago) - The MetaMask Filecoin Developer Preview.
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) ([v1.0](https://github.com/rickycodes/pve-no-subscription/releases/tag/v1.0), 8 months ago) - Proxmox VE No-Subscription Removal
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) ([v16.0.0](https://github.com/MetaMask/web3-provider-engine/releases/tag/v16.0.0), 10 months ago) - A JavaScript library for composing Ethereum provider objects using middleware modules
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.3.9](https://github.com/rickycodes/card/releases/tag/v1.3.9), 10 months ago) - npx business card built with rust targeting wasm
@@ -39,12 +39,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Update Changelog](https://github.com/MetaMask/controllers/pull/548) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (5 days ago)
-- [Upgrade Walletconnect](https://github.com/MetaMask/metamask-mobile/pull/2956) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
-- [bump controllers to v14.0.2](https://github.com/MetaMask/metamask-mobile/pull/2952) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
-- [14.0.2](https://github.com/MetaMask/controllers/pull/547) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (6 days ago)
-- [Fix `resetPolling` functionality](https://github.com/MetaMask/controllers/pull/546) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (6 days ago)
-- [Release/14.0.1](https://github.com/MetaMask/controllers/pull/545) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (6 days ago)
+- [Update Changelog](https://github.com/MetaMask/controllers/pull/548) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (6 days ago)
+- [Upgrade Walletconnect](https://github.com/MetaMask/metamask-mobile/pull/2956) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
+- [bump controllers to v14.0.2](https://github.com/MetaMask/metamask-mobile/pull/2952) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
+- [14.0.2](https://github.com/MetaMask/controllers/pull/547) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
+- [Fix `resetPolling` functionality](https://github.com/MetaMask/controllers/pull/546) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
+- [Release/14.0.1](https://github.com/MetaMask/controllers/pull/545) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Allow for speedUp and stop based on provided gasValues from consumer](https://github.com/MetaMask/controllers/pull/535) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Reset polling onNetworkStateChange](https://github.com/MetaMask/controllers/pull/534) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Use isEIP1559Transaction from controllers](https://github.com/MetaMask/metamask-mobile/pull/2918) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
