@@ -2,7 +2,7 @@
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 day ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (3 weeks ago)
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) - A JavaScript library for composing Ethereum provider objects using middleware modules (4 weeks ago)
@@ -28,9 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v14.2.0](https://github.com/MetaMask/controllers/releases/tag/v14.2.0), today) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.0.1](https://github.com/MetaMask/metamask-extension/releases/tag/v10.0.1), 1 day ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v14.1.0](https://github.com/MetaMask/controllers/releases/tag/v14.1.0), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([2.6.0](https://github.com/MetaMask/metamask-mobile/releases/tag/2.6.0), 4 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/metamask-filecoin-developer-beta](https://github.com/MetaMask/metamask-filecoin-developer-beta) ([v9.3.0-beta.1](https://github.com/MetaMask/metamask-filecoin-developer-beta/releases/tag/v9.3.0-beta.1), 4 months ago) - The MetaMask Filecoin Developer Preview.
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) ([v1.0](https://github.com/rickycodes/pve-no-subscription/releases/tag/v1.0), 8 months ago) - Proxmox VE No-Subscription Removal
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) ([v16.0.0](https://github.com/MetaMask/web3-provider-engine/releases/tag/v16.0.0), 10 months ago) - A JavaScript library for composing Ethereum provider objects using middleware modules
