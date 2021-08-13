@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix deep links bug related to branch updates](https://github.com/MetaMask/metamask-mobile/pull/3017) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Make decelerationRate normal](https://github.com/MetaMask/metamask-mobile/pull/3006) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [[FIX] Account for `txParams.data` when we sync](https://github.com/MetaMask/metamask-mobile/pull/2999) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
 - [Update Changelog](https://github.com/MetaMask/controllers/pull/548) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
@@ -47,7 +48,6 @@
 - [Fix `resetPolling` functionality](https://github.com/MetaMask/controllers/pull/546) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 - [Release/14.0.1](https://github.com/MetaMask/controllers/pull/545) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 - [Allow for speedUp and stop based on provided gasValues from consumer](https://github.com/MetaMask/controllers/pull/535) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (3 weeks ago)
-- [Reset polling onNetworkStateChange](https://github.com/MetaMask/controllers/pull/534) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
