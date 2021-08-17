@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feature/update recents](https://github.com/MetaMask/metamask-mobile/pull/3028) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Fix contact edit button](https://github.com/MetaMask/metamask-mobile/pull/3026) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [Fix deep links bug related to branch updates](https://github.com/MetaMask/metamask-mobile/pull/3017) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 - [Make decelerationRate normal](https://github.com/MetaMask/metamask-mobile/pull/3006) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
@@ -47,7 +48,6 @@
 - [bump controllers to v14.0.2](https://github.com/MetaMask/metamask-mobile/pull/2952) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [14.0.2](https://github.com/MetaMask/controllers/pull/547) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 - [Fix `resetPolling` functionality](https://github.com/MetaMask/controllers/pull/546) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
-- [Release/14.0.1](https://github.com/MetaMask/controllers/pull/545) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
