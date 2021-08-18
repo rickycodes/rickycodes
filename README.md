@@ -2,7 +2,7 @@
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 week ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 month ago)
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) - A JavaScript library for composing Ethereum provider objects using middleware modules (1 month ago)
@@ -39,7 +39,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[FIX] Turn login translation constants into functions](https://github.com/MetaMask/metamask-mobile/pull/3031) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
+- [[FIX] do not translate logic strings](https://github.com/MetaMask/metamask-mobile/pull/3031) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [Tidy util directory](https://github.com/MetaMask/metamask-mobile/pull/3030) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [[FEATURE] Update Recents](https://github.com/MetaMask/metamask-mobile/pull/3028) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [Fix contact edit button](https://github.com/MetaMask/metamask-mobile/pull/3026) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
