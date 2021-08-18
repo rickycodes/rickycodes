@@ -2,8 +2,8 @@
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (6 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 days ago)
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 week ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 month ago)
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) - A JavaScript library for composing Ethereum provider objects using middleware modules (1 month ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (2 months ago)
@@ -28,8 +28,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v14.2.0](https://github.com/MetaMask/controllers/releases/tag/v14.2.0), 5 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.0.1](https://github.com/MetaMask/metamask-extension/releases/tag/v10.0.1), 6 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v14.2.0](https://github.com/MetaMask/controllers/releases/tag/v14.2.0), 6 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.0.1](https://github.com/MetaMask/metamask-extension/releases/tag/v10.0.1), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-filecoin-developer-beta](https://github.com/MetaMask/metamask-filecoin-developer-beta) ([v9.3.0-beta.1](https://github.com/MetaMask/metamask-filecoin-developer-beta/releases/tag/v9.3.0-beta.1), 4 months ago) - The MetaMask Filecoin Developer Preview.
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) ([v1.0](https://github.com/rickycodes/pve-no-subscription/releases/tag/v1.0), 8 months ago) - Proxmox VE No-Subscription Removal
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) ([v16.0.0](https://github.com/MetaMask/web3-provider-engine/releases/tag/v16.0.0), 10 months ago) - A JavaScript library for composing Ethereum provider objects using middleware modules
@@ -38,16 +38,16 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[FIX] Turn login translation constants into functions](https://github.com/MetaMask/metamask-mobile/pull/3031) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
-- [Tidy util directory](https://github.com/MetaMask/metamask-mobile/pull/3030) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
-- [[FEATURE] Update Recents](https://github.com/MetaMask/metamask-mobile/pull/3028) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
-- [Fix contact edit button](https://github.com/MetaMask/metamask-mobile/pull/3026) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
-- [Fix deep links bug related to branch updates](https://github.com/MetaMask/metamask-mobile/pull/3017) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
-- [Make decelerationRate normal](https://github.com/MetaMask/metamask-mobile/pull/3006) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
-- [[FIX] Account for `txParams.data` when we sync](https://github.com/MetaMask/metamask-mobile/pull/2999) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
+- [[FIX] Turn login translation constants into functions](https://github.com/MetaMask/metamask-mobile/pull/3031) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
+- [Tidy util directory](https://github.com/MetaMask/metamask-mobile/pull/3030) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
+- [[FEATURE] Update Recents](https://github.com/MetaMask/metamask-mobile/pull/3028) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
+- [Fix contact edit button](https://github.com/MetaMask/metamask-mobile/pull/3026) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
+- [Fix deep links bug related to branch updates](https://github.com/MetaMask/metamask-mobile/pull/3017) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
+- [Make decelerationRate normal](https://github.com/MetaMask/metamask-mobile/pull/3006) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
+- [[FIX] Account for `txParams.data` when we sync](https://github.com/MetaMask/metamask-mobile/pull/2999) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Update Changelog](https://github.com/MetaMask/controllers/pull/548) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 - [Upgrade Walletconnect](https://github.com/MetaMask/metamask-mobile/pull/2956) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
-- [bump controllers to v14.0.2](https://github.com/MetaMask/metamask-mobile/pull/2952) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
+- [bump controllers to v14.0.2](https://github.com/MetaMask/metamask-mobile/pull/2952) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
