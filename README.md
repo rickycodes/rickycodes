@@ -38,6 +38,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [remove circle ci badge](https://github.com/MetaMask/metamask-mobile/pull/3060) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [[FIX] do not translate logic strings](https://github.com/MetaMask/metamask-mobile/pull/3031) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Tidy util directory](https://github.com/MetaMask/metamask-mobile/pull/3030) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [[FEATURE] Update Recents](https://github.com/MetaMask/metamask-mobile/pull/3028) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
@@ -47,7 +48,6 @@
 - [[FIX] Account for `txParams.data` when we sync](https://github.com/MetaMask/metamask-mobile/pull/2999) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Update Changelog](https://github.com/MetaMask/controllers/pull/548) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (4 weeks ago)
 - [Upgrade Walletconnect](https://github.com/MetaMask/metamask-mobile/pull/2956) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 weeks ago)
-- [bump controllers to v14.0.2](https://github.com/MetaMask/metamask-mobile/pull/2952) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
