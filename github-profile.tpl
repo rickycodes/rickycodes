@@ -33,7 +33,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 - Twitter: https://twitter.com/rickycodes
 - Blog: https://ricky.codes/blog
 
-### 📊 Stats
+#### 📊 Stats
 
 <p>
 <img src='https://github-readme-stats.vercel.app/api?username=rickycodes&show_icons=true&theme=dark&icon_color=eee' /><br />
