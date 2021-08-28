@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [Make Engine tsx](https://github.com/MetaMask/metamask-mobile/pull/3072) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [remove circle ci badge](https://github.com/MetaMask/metamask-mobile/pull/3060) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
 - [[FIX] do not translate logic strings](https://github.com/MetaMask/metamask-mobile/pull/3031) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Tidy util directory](https://github.com/MetaMask/metamask-mobile/pull/3030) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [[FEATURE] Update Recents](https://github.com/MetaMask/metamask-mobile/pull/3028) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [Fix contact edit button](https://github.com/MetaMask/metamask-mobile/pull/3026) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 
 #### 📜 My recent blog posts
 
