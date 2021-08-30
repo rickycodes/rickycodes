@@ -20,8 +20,8 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔭 Latest releases I've contributed to
 
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v15.0.0](https://github.com/MetaMask/controllers/releases/tag/v15.0.0), today) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.0.3](https://github.com/MetaMask/metamask-extension/releases/tag/v10.0.3), 4 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v14.2.0](https://github.com/MetaMask/controllers/releases/tag/v14.2.0), 2 weeks ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/metamask-filecoin-developer-beta](https://github.com/MetaMask/metamask-filecoin-developer-beta) ([v9.3.0-beta.1](https://github.com/MetaMask/metamask-filecoin-developer-beta/releases/tag/v9.3.0-beta.1), 4 months ago) - The MetaMask Filecoin Developer Preview.
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) ([v1.0](https://github.com/rickycodes/pve-no-subscription/releases/tag/v1.0), 9 months ago) - Proxmox VE No-Subscription Removal
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) ([v16.0.0](https://github.com/MetaMask/web3-provider-engine/releases/tag/v16.0.0), 11 months ago) - A JavaScript library for composing Ethereum provider objects using middleware modules
