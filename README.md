@@ -28,7 +28,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
-- [Make Engine tsx](https://github.com/MetaMask/metamask-mobile/pull/3072) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
+- [Make Engine ts](https://github.com/MetaMask/metamask-mobile/pull/3072) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [remove circle ci badge](https://github.com/MetaMask/metamask-mobile/pull/3060) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
 - [[FIX] do not translate logic strings](https://github.com/MetaMask/metamask-mobile/pull/3031) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Tidy util directory](https://github.com/MetaMask/metamask-mobile/pull/3030) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
