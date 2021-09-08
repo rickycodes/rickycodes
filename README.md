@@ -4,7 +4,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (5 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (6 days ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (4 weeks ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 month ago)
