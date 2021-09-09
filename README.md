@@ -4,7 +4,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (1 week ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (4 weeks ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 month ago)
@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [Update README.md](https://github.com/dweinstein/rs-google-play/pull/2) on [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) (today)
 - [Feature/variable speed up - WIP](https://github.com/MetaMask/metamask-mobile/pull/3106) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Make Engine ts](https://github.com/MetaMask/metamask-mobile/pull/3072) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [remove circle ci badge](https://github.com/MetaMask/metamask-mobile/pull/3060) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [[FIX] do not translate logic strings](https://github.com/MetaMask/metamask-mobile/pull/3031) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
-- [Tidy util directory](https://github.com/MetaMask/metamask-mobile/pull/3030) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
