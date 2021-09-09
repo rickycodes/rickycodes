@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [remove web3-provider-engine](https://github.com/MetaMask/metamask-mobile/pull/3111) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Update README.md](https://github.com/dweinstein/rs-google-play/pull/2) on [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) (today)
 - [Feature/variable speed up - WIP](https://github.com/MetaMask/metamask-mobile/pull/3106) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Make Engine ts](https://github.com/MetaMask/metamask-mobile/pull/3072) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [remove circle ci badge](https://github.com/MetaMask/metamask-mobile/pull/3060) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
-- [[FIX] do not translate logic strings](https://github.com/MetaMask/metamask-mobile/pull/3031) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
