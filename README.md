@@ -31,7 +31,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 - [Update README.md](https://github.com/MetaMask/metamask-mobile/pull/3115) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [remove web3-provider-engine](https://github.com/MetaMask/metamask-mobile/pull/3111) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Update README.md](https://github.com/dweinstein/rs-google-play/pull/2) on [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) (1 week ago)
-- [Feature/variable speed up - WIP](https://github.com/MetaMask/metamask-mobile/pull/3106) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
+- [Feature/variable speed up](https://github.com/MetaMask/metamask-mobile/pull/3106) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Make Engine ts](https://github.com/MetaMask/metamask-mobile/pull/3072) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 
 #### 📜 My recent blog posts
