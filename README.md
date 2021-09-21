@@ -4,7 +4,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 week ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (1 week ago)
 - [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) - Rust conversion (in-progress) of https://github.com/dweinstein/node-google-play. (1 week ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 month ago)
@@ -31,7 +31,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 - [Update README.md](https://github.com/MetaMask/metamask-mobile/pull/3115) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [remove web3-provider-engine](https://github.com/MetaMask/metamask-mobile/pull/3111) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Update README.md](https://github.com/dweinstein/rs-google-play/pull/2) on [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) (1 week ago)
-- [Feature/variable speed up](https://github.com/MetaMask/metamask-mobile/pull/3106) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
+- [[FEATURE] variable speed up/cancel](https://github.com/MetaMask/metamask-mobile/pull/3106) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Make Engine ts](https://github.com/MetaMask/metamask-mobile/pull/3072) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 
 #### 📜 My recent blog posts
