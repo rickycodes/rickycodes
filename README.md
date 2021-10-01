@@ -4,8 +4,8 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
-- [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recrordings to twitter (4 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
+- [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recrordings to twitter (5 days ago)
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (2 weeks ago)
 - [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) - Rust conversion (in-progress) of https://github.com/dweinstein/node-google-play. (3 weeks ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 month ago)
@@ -28,9 +28,9 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
-- [Revert &#34;Handle eth_signTypedData_v4 in wallet connect.&#34;](https://github.com/MetaMask/metamask-mobile/pull/3238) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
-- [Revert &#34;fixed: decode transfer data bug&#34;](https://github.com/MetaMask/metamask-mobile/pull/3236) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
-- [Update README.md](https://github.com/MetaMask/metamask-mobile/pull/3115) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
+- [Revert &#34;Handle eth_signTypedData_v4 in wallet connect.&#34;](https://github.com/MetaMask/metamask-mobile/pull/3238) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
+- [Revert &#34;fixed: decode transfer data bug&#34;](https://github.com/MetaMask/metamask-mobile/pull/3236) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
+- [Update README.md](https://github.com/MetaMask/metamask-mobile/pull/3115) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 - [remove web3-provider-engine](https://github.com/MetaMask/metamask-mobile/pull/3111) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 - [Update README.md](https://github.com/dweinstein/rs-google-play/pull/2) on [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) (3 weeks ago)
 
