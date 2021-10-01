@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [fix decode transfer data](https://github.com/MetaMask/metamask-mobile/pull/3243) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Revert &#34;Handle eth_signTypedData_v4 in wallet connect.&#34;](https://github.com/MetaMask/metamask-mobile/pull/3238) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [Revert &#34;fixed: decode transfer data bug&#34;](https://github.com/MetaMask/metamask-mobile/pull/3236) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [Update README.md](https://github.com/MetaMask/metamask-mobile/pull/3115) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 - [remove web3-provider-engine](https://github.com/MetaMask/metamask-mobile/pull/3111) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
-- [Update README.md](https://github.com/dweinstein/rs-google-play/pull/2) on [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
