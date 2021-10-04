@@ -4,7 +4,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recrordings to twitter (1 week ago)
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (3 weeks ago)
 - [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) - Rust conversion (in-progress) of https://github.com/dweinstein/node-google-play. (3 weeks ago)
@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [Feature/add license file](https://github.com/MetaMask/metamask-mobile/pull/3254) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [add cla.yml](https://github.com/MetaMask/metamask-mobile/pull/3251) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [Revert &#34;fix issues 2100&#34;](https://github.com/MetaMask/metamask-mobile/pull/3248) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [fix decode transfer data](https://github.com/MetaMask/metamask-mobile/pull/3243) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [Revert &#34;Handle eth_signTypedData_v4 in wallet connect.&#34;](https://github.com/MetaMask/metamask-mobile/pull/3238) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
-- [Revert &#34;fixed: decode transfer data bug&#34;](https://github.com/MetaMask/metamask-mobile/pull/3236) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 
 #### 📜 My recent blog posts
 
