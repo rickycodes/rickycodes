@@ -4,19 +4,19 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
+- [rickycodes/crowdin-sandbox](https://github.com/rickycodes/crowdin-sandbox) -  (today)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 days ago)
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recrordings to twitter (1 week ago)
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (3 weeks ago)
 - [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) - Rust conversion (in-progress) of https://github.com/dweinstein/node-google-play. (3 weeks ago)
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 month ago)
 
 #### 🌱 My latest projects
 
+- [rickycodes/crowdin-sandbox](https://github.com/rickycodes/crowdin-sandbox) - 
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm
 - [rickycodes/dat-proxy-browser](https://github.com/rickycodes/dat-proxy-browser) - Rough sketch of a decentralised (supporting DAT) mobile web browser built with react-native
-- [rickycodes/blog](https://github.com/rickycodes/blog) - an blog
 
 #### 🔭 Latest releases I've contributed to
 
