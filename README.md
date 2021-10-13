@@ -4,10 +4,10 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
-- [rickycodes/crowdin-sandbox](https://github.com/rickycodes/crowdin-sandbox) -  (6 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
+- [rickycodes/crowdin-sandbox](https://github.com/rickycodes/crowdin-sandbox) -  (1 week ago)
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recrordings to twitter (2 weeks ago)
-- [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (4 weeks ago)
+- [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (1 month ago)
 - [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) - Rust conversion (in-progress) of https://github.com/dweinstein/node-google-play. (1 month ago)
 
 #### 🌱 My latest projects
@@ -20,16 +20,16 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.2.2](https://github.com/MetaMask/metamask-extension/releases/tag/v10.2.2), 3 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v3.4.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v3.4.1), 3 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.2.2](https://github.com/MetaMask/metamask-extension/releases/tag/v10.2.2), 4 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v3.4.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v3.4.1), 4 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v17.0.0](https://github.com/MetaMask/controllers/releases/tag/v17.0.0), 2 weeks ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/metamask-filecoin-developer-beta](https://github.com/MetaMask/metamask-filecoin-developer-beta) ([v9.3.0-beta.1](https://github.com/MetaMask/metamask-filecoin-developer-beta/releases/tag/v9.3.0-beta.1), 6 months ago) - The MetaMask Filecoin Developer Preview.
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) ([v1.0](https://github.com/rickycodes/pve-no-subscription/releases/tag/v1.0), 10 months ago) - Proxmox VE No-Subscription Removal
 
 #### 🔨 My recent Pull Requests
 
-- [Handle eth_signTypedData_v4 in wallet connect.](https://github.com/MetaMask/metamask-mobile/pull/3291) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
-- [Address security advisories](https://github.com/MetaMask/metamask-mobile/pull/3280) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
+- [Handle eth_signTypedData_v4 in wallet connect.](https://github.com/MetaMask/metamask-mobile/pull/3291) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
+- [Address security advisories](https://github.com/MetaMask/metamask-mobile/pull/3280) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
 - [Feature/add license file](https://github.com/MetaMask/metamask-mobile/pull/3254) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [add cla.yml](https://github.com/MetaMask/metamask-mobile/pull/3251) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Revert &#34;fix issues 2100&#34;](https://github.com/MetaMask/metamask-mobile/pull/3248) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
