@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [GitHub Actions](https://github.com/MetaMask/metamask-mobile/pull/3298) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Handle eth_signTypedData_v4 in wallet connect.](https://github.com/MetaMask/metamask-mobile/pull/3291) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [Address security advisories](https://github.com/MetaMask/metamask-mobile/pull/3280) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 - [Feature/add license file](https://github.com/MetaMask/metamask-mobile/pull/3254) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [add cla.yml](https://github.com/MetaMask/metamask-mobile/pull/3251) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
-- [Revert &#34;fix issues 2100&#34;](https://github.com/MetaMask/metamask-mobile/pull/3248) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
