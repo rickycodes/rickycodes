@@ -4,10 +4,10 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (3 days ago)
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (4 days ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (4 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (5 days ago)
 - [rickycodes/crowdin-sandbox](https://github.com/rickycodes/crowdin-sandbox) -  (1 week ago)
-- [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recrordings to twitter (2 weeks ago)
+- [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recrordings to twitter (3 weeks ago)
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (1 month ago)
 
 #### 🌱 My latest projects
@@ -28,9 +28,9 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
-- [GitHub Actions](https://github.com/MetaMask/metamask-mobile/pull/3298) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
-- [Handle eth_signTypedData_v4 in wallet connect.](https://github.com/MetaMask/metamask-mobile/pull/3291) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
-- [Address security advisories](https://github.com/MetaMask/metamask-mobile/pull/3280) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
+- [GitHub Actions](https://github.com/MetaMask/metamask-mobile/pull/3298) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
+- [Handle eth_signTypedData_v4 in wallet connect.](https://github.com/MetaMask/metamask-mobile/pull/3291) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
+- [Address security advisories](https://github.com/MetaMask/metamask-mobile/pull/3280) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
 - [Feature/add license file](https://github.com/MetaMask/metamask-mobile/pull/3254) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [add cla.yml](https://github.com/MetaMask/metamask-mobile/pull/3251) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 
