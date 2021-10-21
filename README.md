@@ -20,7 +20,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.2.2](https://github.com/MetaMask/metamask-extension/releases/tag/v10.2.2), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.3.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.3.0), today) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v3.4.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v3.4.1), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v17.0.0](https://github.com/MetaMask/controllers/releases/tag/v17.0.0), 4 weeks ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/metamask-filecoin-developer-beta](https://github.com/MetaMask/metamask-filecoin-developer-beta) ([v9.3.0-beta.1](https://github.com/MetaMask/metamask-filecoin-developer-beta/releases/tag/v9.3.0-beta.1), 6 months ago) - The MetaMask Filecoin Developer Preview.
