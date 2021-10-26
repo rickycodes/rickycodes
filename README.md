@@ -4,7 +4,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (6 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (1 week ago)
 - [rickycodes/crowdin-sandbox](https://github.com/rickycodes/crowdin-sandbox) -  (2 weeks ago)
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recrordings to twitter (1 month ago)
