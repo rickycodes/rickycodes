@@ -4,8 +4,8 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (today)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (2 weeks ago)
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recrordings to twitter (1 month ago)
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (1 month ago)
 - [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) - Rust conversion (in-progress) of https://github.com/dweinstein/node-google-play. (1 month ago)
