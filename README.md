@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [Add lavamoat](https://github.com/MetaMask/metamask-mobile/pull/3367) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Add crowdin configuration and github action](https://github.com/MetaMask/metamask-extension/pull/12552) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 day ago)
 - [Add tgz-check shellscript](https://github.com/MetaMask/metamask-mobile/pull/3361) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 - [move cron over](https://github.com/rickycodes/metamask-extension/pull/4) on [rickycodes/metamask-extension](https://github.com/rickycodes/metamask-extension) (5 days ago)
 - [Use forEach for subscribe(s)](https://github.com/MetaMask/metamask-mobile/pull/3330) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [test](https://github.com/MetaMask/metamask-mobile/pull/3316) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 
 #### 📜 My recent blog posts
 
