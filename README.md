@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [patch validator via resolution](https://github.com/MetaMask/metamask-mobile/pull/3378) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [promote no-console rule to full error](https://github.com/MetaMask/metamask-mobile/pull/3369) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [Add lavamoat](https://github.com/MetaMask/metamask-mobile/pull/3367) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
 - [Add crowdin configuration and github action](https://github.com/MetaMask/metamask-extension/pull/12552) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (3 days ago)
 - [Add tgz-check shellscript](https://github.com/MetaMask/metamask-mobile/pull/3361) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
-- [move cron over](https://github.com/rickycodes/metamask-extension/pull/4) on [rickycodes/metamask-extension](https://github.com/rickycodes/metamask-extension) (1 week ago)
 
 #### 📜 My recent blog posts
 
