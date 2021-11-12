@@ -4,10 +4,10 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 days ago)
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (2 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 days ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (3 days ago)
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recrordings to twitter (1 month ago)
-- [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (1 month ago)
+- [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries (2 months ago)
 - [dweinstein/rs-google-play](https://github.com/dweinstein/rs-google-play) - Rust conversion (in-progress) of https://github.com/dweinstein/node-google-play. (2 months ago)
 
 #### 🌱 My latest projects
@@ -20,7 +20,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.5.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.5.0), 3 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.5.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.5.0), 4 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v19.0.0](https://github.com/MetaMask/controllers/releases/tag/v19.0.0), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v3.6.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v3.6.0), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) ([v1.0](https://github.com/rickycodes/pve-no-subscription/releases/tag/v1.0), 11 months ago) - Proxmox VE No-Subscription Removal
@@ -28,8 +28,8 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
-- [add github action for shellcheck](https://github.com/MetaMask/metamask-extension/pull/12647) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 day ago)
-- [allow sharp](https://github.com/MetaMask/metamask-mobile/pull/3392) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
+- [add github action for shellcheck](https://github.com/MetaMask/metamask-extension/pull/12647) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (2 days ago)
+- [allow sharp](https://github.com/MetaMask/metamask-mobile/pull/3392) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [patch validator via resolution](https://github.com/MetaMask/metamask-mobile/pull/3378) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [promote no-console rule to full error](https://github.com/MetaMask/metamask-mobile/pull/3369) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Add lavamoat](https://github.com/MetaMask/metamask-mobile/pull/3367) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
