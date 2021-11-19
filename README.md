@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [Get audit:ci job passing](https://github.com/MetaMask/metamask-mobile/pull/3440) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Fix goerli typo](https://github.com/MetaMask/metamask-mobile/pull/3418) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 - [Pin git dependencies to SHA to be safe](https://github.com/MetaMask/metamask-mobile/pull/3413) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Add github action for shellcheck](https://github.com/MetaMask/metamask-extension/pull/12647) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 week ago)
 - [allow sharp](https://github.com/MetaMask/metamask-mobile/pull/3392) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [patch validator via resolution](https://github.com/MetaMask/metamask-mobile/pull/3378) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
