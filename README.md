@@ -4,7 +4,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [rickycodes/kitties](https://github.com/rickycodes/kitties) - micro site to browse CryptoKitties (3 days ago)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (1 week ago)
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recrordings to twitter (1 month ago)
@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [patch json schema via resolution](https://github.com/MetaMask/metamask-mobile/pull/3445) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Update imrpove-yarn-audit and patch/ignore advisories ](https://github.com/MetaMask/metamask-mobile/pull/3440) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [Fix goerli typo](https://github.com/MetaMask/metamask-mobile/pull/3418) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Pin git dependencies to SHA to be safe](https://github.com/MetaMask/metamask-mobile/pull/3413) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Add github action for shellcheck](https://github.com/MetaMask/metamask-extension/pull/12647) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 week ago)
-- [allow sharp](https://github.com/MetaMask/metamask-mobile/pull/3392) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 
 #### 📜 My recent blog posts
 
