@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [Add crowdin configuration and github action](https://github.com/MetaMask/metamask-mobile/pull/3455) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Fix `this.existingTxId` always false](https://github.com/MetaMask/metamask-mobile/pull/3452) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [patch json schema via resolution](https://github.com/MetaMask/metamask-mobile/pull/3445) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
 - [Update imrpove-yarn-audit and patch/ignore advisories ](https://github.com/MetaMask/metamask-mobile/pull/3440) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
 - [Fix goerli typo](https://github.com/MetaMask/metamask-mobile/pull/3418) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [Pin git dependencies to SHA to be safe](https://github.com/MetaMask/metamask-mobile/pull/3413) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 
 #### 📜 My recent blog posts
 
