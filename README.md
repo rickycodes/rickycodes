@@ -44,11 +44,4 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 - Twitter: https://twitter.com/rickycodes
 - Blog: https://ricky.codes/blog
 
-#### 📊 Stats
-
-<p>
-<img src='https://github-readme-stats.vercel.app/api?username=rickycodes&show_icons=true&theme=dark&icon_color=eee' /><br />
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rickycodes&theme=dark' />
-</p>
-
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
