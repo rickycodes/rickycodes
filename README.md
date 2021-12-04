@@ -4,8 +4,8 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
+- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (today)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (2 days ago)
-- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (2 days ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 week ago)
 - [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) -  (1 week ago)
 - [MetaMask/action-publish-gh-pages](https://github.com/MetaMask/action-publish-gh-pages) -  (1 week ago)
