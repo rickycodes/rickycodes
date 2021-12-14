@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [Switch from `develop` to `main`](https://github.com/MetaMask/metamask-mobile/pull/3508) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Fix back button](https://github.com/MetaMask/metamask-mobile/pull/3500) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
 - [Make restore vault a form so an user can submit via keyboard](https://github.com/MetaMask/metamask-extension/pull/12989) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 week ago)
 - [Add test-ids constants file](https://github.com/MetaMask/metamask-mobile/pull/3462) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Clear the clipboard after the seed phrase is pasted](https://github.com/MetaMask/metamask-mobile/pull/3461) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
-- [add shellcheck action](https://github.com/MetaMask/action-create-release-pr/pull/82) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (2 weeks ago)
 
 #### 📜 My recent blog posts
 
