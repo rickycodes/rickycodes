@@ -7,7 +7,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (2 weeks ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (3 weeks ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 weeks ago)
-- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (4 weeks ago)
+- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (1 month ago)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (1 month ago)
 
 #### 🌱 My latest projects
@@ -32,7 +32,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 - [Use stripHexPrefix from ethereumjs-util and ditch ethjs-util](https://github.com/MetaMask/controllers/pull/663) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 - [Switch from `develop` to `main`](https://github.com/MetaMask/metamask-mobile/pull/3508) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Fix back button](https://github.com/MetaMask/metamask-mobile/pull/3500) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
-- [Make restore vault a form so an user can submit via keyboard](https://github.com/MetaMask/metamask-extension/pull/12989) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (3 weeks ago)
+- [Make restore vault a form so an user can submit via keyboard](https://github.com/MetaMask/metamask-extension/pull/12989) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
