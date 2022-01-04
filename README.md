@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [rename crowdin-bot to github-actions](https://github.com/MetaMask/metamask-extension/pull/13207) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (today)
 - [delete embedded png from 2key](https://github.com/MetaMask/contract-metadata/pull/984) on [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) (2 weeks ago)
 - [Use stripHexPrefix from ethereumjs-util and ditch ethjs-util](https://github.com/MetaMask/controllers/pull/663) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (3 weeks ago)
 - [Switch from `develop` to `main`](https://github.com/MetaMask/metamask-mobile/pull/3508) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 - [Fix back button](https://github.com/MetaMask/metamask-mobile/pull/3500) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
-- [Make restore vault a form so an user can submit via keyboard](https://github.com/MetaMask/metamask-extension/pull/12989) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
