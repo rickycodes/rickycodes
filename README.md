@@ -20,15 +20,15 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v23.1.0](https://github.com/MetaMask/controllers/releases/tag/v23.1.0), 1 day ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.8.2](https://github.com/MetaMask/metamask-extension/releases/tag/v10.8.2), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v23.1.0](https://github.com/MetaMask/controllers/releases/tag/v23.1.0), 2 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.8.2](https://github.com/MetaMask/metamask-extension/releases/tag/v10.8.2), 2 weeks ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v3.8.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v3.8.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.5.2](https://github.com/rickycodes/card/releases/tag/v1.5.2), 1 month ago) - npx business card built with rust targeting wasm
 - [MetaMask/action-publish-gh-pages](https://github.com/MetaMask/action-publish-gh-pages) ([v2.0.0](https://github.com/MetaMask/action-publish-gh-pages/releases/tag/v2.0.0), 1 month ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [rename crowdin-bot to github-actions](https://github.com/MetaMask/metamask-extension/pull/13207) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (today)
+- [rename crowdin-bot to github-actions](https://github.com/MetaMask/metamask-extension/pull/13207) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 day ago)
 - [delete embedded png from 2key](https://github.com/MetaMask/contract-metadata/pull/984) on [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) (2 weeks ago)
 - [Use stripHexPrefix from ethereumjs-util and ditch ethjs-util](https://github.com/MetaMask/controllers/pull/663) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (3 weeks ago)
 - [Switch from `develop` to `main`](https://github.com/MetaMask/metamask-mobile/pull/3508) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
