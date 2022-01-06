@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [don&#39;t run CLA bot on `l10n_crowdin_action` branch](https://github.com/MetaMask/metamask-extension/pull/13232) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (today)
 - [remove jq del step](https://github.com/MetaMask/metamask-mobile/pull/3540) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [rename crowdin-bot to github-actions](https://github.com/MetaMask/metamask-extension/pull/13207) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (2 days ago)
 - [delete embedded png from 2key](https://github.com/MetaMask/contract-metadata/pull/984) on [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) (3 weeks ago)
 - [Use stripHexPrefix from ethereumjs-util and ditch ethjs-util](https://github.com/MetaMask/controllers/pull/663) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (3 weeks ago)
-- [Switch from `develop` to `main`](https://github.com/MetaMask/metamask-mobile/pull/3508) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
