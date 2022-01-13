@@ -28,7 +28,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
-- [use GH_TOKEN instead](https://github.com/MetaMask/metamask-extension/pull/13307) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (today)
+- [use PAT for `GITHUB_TOKEN`](https://github.com/MetaMask/metamask-extension/pull/13307) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (today)
 - [New Crowdin translations by Github Action](https://github.com/rickycodes/metamask-extension/pull/2) on [rickycodes/metamask-extension](https://github.com/rickycodes/metamask-extension) (today)
 - [New Crowdin translations by Github Action](https://github.com/rickycodes/metamask-extension/pull/1) on [rickycodes/metamask-extension](https://github.com/rickycodes/metamask-extension) (today)
 - [don&#39;t run CLA bot on `l10n_crowdin_action` branch](https://github.com/MetaMask/metamask-extension/pull/13232) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 week ago)
