@@ -29,10 +29,10 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 #### 🔨 My recent Pull Requests
 
 - [use PAT for `GITHUB_TOKEN`](https://github.com/MetaMask/metamask-extension/pull/13307) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 day ago)
-- [New Crowdin translations by Github Action](https://github.com/rickycodes/metamask-extension/pull/2) on [rickycodes/metamask-extension](https://github.com/rickycodes/metamask-extension) (1 day ago)
-- [New Crowdin translations by Github Action](https://github.com/rickycodes/metamask-extension/pull/1) on [rickycodes/metamask-extension](https://github.com/rickycodes/metamask-extension) (1 day ago)
 - [don&#39;t run CLA bot on `l10n_crowdin_action` branch](https://github.com/MetaMask/metamask-extension/pull/13232) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 week ago)
 - [remove jq del step](https://github.com/MetaMask/metamask-mobile/pull/3540) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
+- [rename crowdin-bot to github-actions](https://github.com/MetaMask/metamask-extension/pull/13207) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 week ago)
+- [delete embedded png from 2key](https://github.com/MetaMask/contract-metadata/pull/984) on [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) (4 weeks ago)
 
 #### 📜 My recent blog posts
 
