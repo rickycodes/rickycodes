@@ -4,11 +4,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
+- [rmull/tinkup](https://github.com/rmull/tinkup) - Multiplatform firmware update utility for the RetroTINK family of retrogaming devices (2 days ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (5 days ago)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (1 week ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 month ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 month ago)
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -22,9 +22,9 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.5.3](https://github.com/rickycodes/card/releases/tag/v1.5.3), 1 week ago) - npx business card built with rust targeting wasm
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v25.0.0](https://github.com/MetaMask/controllers/releases/tag/v25.0.0), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [rmull/tinkup](https://github.com/rmull/tinkup) ([v1.0](https://github.com/rmull/tinkup/releases/tag/v1.0), 1 week ago) - Multiplatform firmware update utility for the RetroTINK family of retrogaming devices
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.8.2](https://github.com/MetaMask/metamask-extension/releases/tag/v10.8.2), 3 weeks ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v3.8.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v3.8.0), 1 month ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/action-publish-gh-pages](https://github.com/MetaMask/action-publish-gh-pages) ([v2.0.0](https://github.com/MetaMask/action-publish-gh-pages/releases/tag/v2.0.0), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
