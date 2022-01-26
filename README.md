@@ -4,7 +4,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 👀 Check out what I'm currently working on
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
 - [rmull/tinkup](https://github.com/rmull/tinkup) - Multiplatform firmware update utility for the RetroTINK family of retrogaming devices (1 week ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (1 week ago)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (2 weeks ago)
@@ -20,7 +20,7 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔭 Latest releases I've contributed to
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v25.1.0](https://github.com/MetaMask/controllers/releases/tag/v25.1.0), 1 day ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v25.1.0](https://github.com/MetaMask/controllers/releases/tag/v25.1.0), 2 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.5.3](https://github.com/rickycodes/card/releases/tag/v1.5.3), 2 weeks ago) - npx business card built with rust targeting wasm
 - [rmull/tinkup](https://github.com/rmull/tinkup) ([v1.0](https://github.com/rmull/tinkup/releases/tag/v1.0), 2 weeks ago) - Multiplatform firmware update utility for the RetroTINK family of retrogaming devices
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.8.2](https://github.com/MetaMask/metamask-extension/releases/tag/v10.8.2), 1 month ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
@@ -28,8 +28,8 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
-- [Patch recent disclosures](https://github.com/MetaMask/metamask-mobile/pull/3641) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
-- [add crowdin-bot to CLA allowlist](https://github.com/MetaMask/metamask-mobile/pull/3600) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
+- [Patch recent disclosures](https://github.com/MetaMask/metamask-mobile/pull/3641) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
+- [add crowdin-bot to CLA allowlist](https://github.com/MetaMask/metamask-mobile/pull/3600) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [print exception](https://github.com/rmull/tinkup/pull/2) on [rmull/tinkup](https://github.com/rmull/tinkup) (1 week ago)
 - [use PAT for `GITHUB_TOKEN`](https://github.com/MetaMask/metamask-extension/pull/13307) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 week ago)
 - [don&#39;t run CLA bot on `l10n_crowdin_action` branch](https://github.com/MetaMask/metamask-extension/pull/13232) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (2 weeks ago)
