@@ -28,11 +28,11 @@ I write software with one of those obnoxious clicky keyboards (he/him)
 
 #### 🔨 My recent Pull Requests
 
+- [add npm publish](https://github.com/MetaMask/action-publish-release/pull/43) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (today)
 - [Patch recent disclosures](https://github.com/MetaMask/metamask-mobile/pull/3641) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
 - [add crowdin-bot to CLA allowlist](https://github.com/MetaMask/metamask-mobile/pull/3600) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [print exception](https://github.com/rmull/tinkup/pull/2) on [rmull/tinkup](https://github.com/rmull/tinkup) (1 week ago)
 - [use PAT for `GITHUB_TOKEN`](https://github.com/MetaMask/metamask-extension/pull/13307) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (2 weeks ago)
-- [don&#39;t run CLA bot on `l10n_crowdin_action` branch](https://github.com/MetaMask/metamask-extension/pull/13232) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (3 weeks ago)
 
 #### 📜 My recent blog posts
 
