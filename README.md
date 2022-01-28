@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I write software with one of those obnoxious clicky keyboards (he/him) 
+I write software with one of those clicky keyboards (he/him)
+
+Interested in linux, type systems, rustlang, webassembly, the command line, tooling, automation, vintage hardware, retro gaming and the intersection of aesthetics and computing.
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
