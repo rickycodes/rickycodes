@@ -34,7 +34,7 @@ Interested in linux, type systems, rustlang, webassembly, the command line, tool
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
 - [Feature/fix android detox](https://github.com/MetaMask/metamask-mobile/pull/3700) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [Update crowdin workflow config](https://github.com/MetaMask/metamask-extension/pull/13494) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 week ago)
+- [Update crowdin workflow config](https://github.com/MetaMask/metamask-extension/pull/13494) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (2 weeks ago)
 - [Update crowdin_action.yml](https://github.com/MetaMask/metamask-mobile/pull/3679) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Add npm Publish](https://github.com/MetaMask/action-publish-release/pull/43) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (2 weeks ago)
 - [Patch recent disclosures](https://github.com/MetaMask/metamask-mobile/pull/3641) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
