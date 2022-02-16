@@ -24,7 +24,7 @@ Interested in linux, type systems, rustlang, webassembly, the command line, tool
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.9.3](https://github.com/MetaMask/metamask-extension/releases/tag/v10.9.3), today) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.10.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.10.0), today) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v4.0.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v4.0.1), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v25.1.0](https://github.com/MetaMask/controllers/releases/tag/v25.1.0), 3 weeks ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.5.3](https://github.com/rickycodes/card/releases/tag/v1.5.3), 1 month ago) - npx business card built with rust targeting wasm
