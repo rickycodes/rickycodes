@@ -6,8 +6,8 @@ Interested in linux, type systems, rustlang, webassembly, the command line, tool
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (today)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 week ago)
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (2 weeks ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (3 weeks ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 weeks ago)
 - [rmull/tinkup](https://github.com/rmull/tinkup) - Multiplatform firmware update utility for the RetroTINK family of retrogaming devices (1 month ago)
@@ -33,11 +33,11 @@ Interested in linux, type systems, rustlang, webassembly, the command line, tool
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Revert &#34;Add npm Publish&#34;](https://github.com/MetaMask/action-publish-release/pull/44) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (today)
 - [Add qualtrics](https://github.com/MetaMask/metamask-mobile/pull/3813) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [Feature/fix android detox](https://github.com/MetaMask/metamask-mobile/pull/3700) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Update crowdin workflow config](https://github.com/MetaMask/metamask-extension/pull/13494) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (3 weeks ago)
 - [Update crowdin_action.yml](https://github.com/MetaMask/metamask-mobile/pull/3679) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
-- [Add npm Publish](https://github.com/MetaMask/action-publish-release/pull/43) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (4 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
