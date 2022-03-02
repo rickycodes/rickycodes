@@ -33,11 +33,11 @@ Interested in linux, type systems, rustlang, webassembly, the command line, tool
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [wip `react-native` upgrade to `0.67.3`](https://github.com/MetaMask/metamask-mobile/pull/3842) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Update en.json](https://github.com/MetaMask/metamask-mobile/pull/3839) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Do not pin `google-play-deploy` job in Bitrise](https://github.com/MetaMask/metamask-mobile/pull/3836) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Add `./scripts/create-release.sh` to better automate releases](https://github.com/MetaMask/metamask-mobile/pull/3832) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Revert &#34;Add npm Publish&#34;](https://github.com/MetaMask/action-publish-release/pull/44) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (5 days ago)
-- [Add qualtrics](https://github.com/MetaMask/metamask-mobile/pull/3813) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
