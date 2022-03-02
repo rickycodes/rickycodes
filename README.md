@@ -6,10 +6,10 @@ Interested in linux, type systems, rustlang, webassembly, the command line, tool
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (5 days ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 week ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (3 weeks ago)
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 weeks ago)
 - [rmull/tinkup](https://github.com/rmull/tinkup) - Multiplatform firmware update utility for the RetroTINK family of retrogaming devices (1 month ago)
 </details>
 
