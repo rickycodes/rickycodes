@@ -50,6 +50,7 @@ Interested in linux, type systems, rustlang, webassembly, the command line, tool
 - Web: https://ricky.codes
 - Twitter: https://twitter.com/rickycodes
 - Blog: https://ricky.codes/blog
+</details>
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
-</details>
+
