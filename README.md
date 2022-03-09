@@ -6,7 +6,7 @@ Interested in linux, type systems, rustlang, webassembly, the command line, tool
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (5 days ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (5 days ago)
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (1 week ago)
