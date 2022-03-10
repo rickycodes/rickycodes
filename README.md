@@ -33,11 +33,11 @@ Interested in linux, type systems, rustlang, webassembly, the command line, tool
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Add OSS attribution](https://github.com/MetaMask/metamask-mobile/pull/3877) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Create release PR](https://github.com/MetaMask/metamask-mobile/pull/3868) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
 - [Initial Setup](https://github.com/MetaMask/action-npm-publish/pull/1) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 days ago)
 - [Add metamaskbot to crowdin_action config](https://github.com/MetaMask/metamask-mobile/pull/3862) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [Use negate](https://github.com/rickycodes/pve-no-subscription/pull/3) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (5 days ago)
-- [🌅](https://github.com/rickycodes/action-npm-publish/pull/1) on [rickycodes/action-npm-publish](https://github.com/rickycodes/action-npm-publish) (6 days ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
