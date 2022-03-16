@@ -33,11 +33,11 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Feature/confusables explanation](https://github.com/MetaMask/metamask-mobile/pull/3902) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Add OSS attribution](https://github.com/MetaMask/metamask-mobile/pull/3877) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
 - [Create release PR](https://github.com/MetaMask/metamask-mobile/pull/3868) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Initial Setup](https://github.com/MetaMask/action-npm-publish/pull/1) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
 - [Add metamaskbot to crowdin_action config](https://github.com/MetaMask/metamask-mobile/pull/3862) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [Use negate](https://github.com/rickycodes/pve-no-subscription/pull/3) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
