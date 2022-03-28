@@ -6,9 +6,9 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (2 days ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (2 days ago)
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 days ago)
 - [MetaMask/react-native-aes-crypto-forked](https://github.com/MetaMask/react-native-aes-crypto-forked) -  (1 week ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (3 weeks ago)
 </details>
@@ -33,7 +33,7 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Update pod install msg](https://github.com/MetaMask/metamask-mobile/pull/3958) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
+- [Update pod install echo](https://github.com/MetaMask/metamask-mobile/pull/3958) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
 - [exclude GHSA-xvch-5gv4-984h](https://github.com/MetaMask/metamask-mobile/pull/3936) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
 - [Add npm publish](https://github.com/MetaMask/controllers/pull/737) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Update package.json](https://github.com/MetaMask/react-native-aes-crypto-forked/pull/1) on [MetaMask/react-native-aes-crypto-forked](https://github.com/MetaMask/react-native-aes-crypto-forked) (1 week ago)
