@@ -33,11 +33,11 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Split CI into multiple jobs](https://github.com/MetaMask/metamask-mobile/pull/3975) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [remove test:attribution-check](https://github.com/MetaMask/metamask-mobile/pull/3968) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Update pod install echo](https://github.com/MetaMask/metamask-mobile/pull/3958) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [exclude GHSA-xvch-5gv4-984h](https://github.com/MetaMask/metamask-mobile/pull/3936) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Add npm publish](https://github.com/MetaMask/controllers/pull/737) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
-- [Update package.json](https://github.com/MetaMask/react-native-aes-crypto-forked/pull/1) on [MetaMask/react-native-aes-crypto-forked](https://github.com/MetaMask/react-native-aes-crypto-forked) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
