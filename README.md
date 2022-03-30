@@ -6,7 +6,7 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (4 days ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (4 days ago)
 - [MetaMask/react-native-aes-crypto-forked](https://github.com/MetaMask/react-native-aes-crypto-forked) -  (1 week ago)
@@ -33,11 +33,11 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [add new resolutions for plist, minimist and remove minimist exclude](https://github.com/MetaMask/metamask-mobile/pull/3987) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Split CI into multiple jobs](https://github.com/MetaMask/metamask-mobile/pull/3975) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [remove test:attribution-check](https://github.com/MetaMask/metamask-mobile/pull/3968) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [Update pod install echo](https://github.com/MetaMask/metamask-mobile/pull/3958) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 - [exclude GHSA-xvch-5gv4-984h](https://github.com/MetaMask/metamask-mobile/pull/3936) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [Add npm publish](https://github.com/MetaMask/controllers/pull/737) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
