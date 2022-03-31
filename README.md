@@ -33,11 +33,11 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Split CI into multiple jobs (#3975)](https://github.com/MetaMask/metamask-mobile/pull/4003) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [add new resolutions for plist, minimist and remove minimist exclude](https://github.com/MetaMask/metamask-mobile/pull/3987) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [Split CI into multiple jobs](https://github.com/MetaMask/metamask-mobile/pull/3975) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
 - [remove test:attribution-check](https://github.com/MetaMask/metamask-mobile/pull/3968) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
 - [Update pod install echo](https://github.com/MetaMask/metamask-mobile/pull/3958) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
-- [exclude GHSA-xvch-5gv4-984h](https://github.com/MetaMask/metamask-mobile/pull/3936) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
