@@ -33,7 +33,7 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Feature/improve create release](https://github.com/MetaMask/metamask-mobile/pull/4034) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
+- [improve create release](https://github.com/MetaMask/metamask-mobile/pull/4034) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Split CI into multiple jobs (#3975)](https://github.com/MetaMask/metamask-mobile/pull/4003) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
 - [add new resolutions for plist, minimist and remove minimist exclude](https://github.com/MetaMask/metamask-mobile/pull/3987) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
 - [Split CI into multiple jobs](https://github.com/MetaMask/metamask-mobile/pull/3975) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
