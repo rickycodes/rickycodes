@@ -24,7 +24,7 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.12.2](https://github.com/MetaMask/metamask-extension/releases/tag/v10.12.2), 6 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.12.4](https://github.com/MetaMask/metamask-extension/releases/tag/v10.12.4), today) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v27.1.1](https://github.com/MetaMask/controllers/releases/tag/v27.1.1), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.5.8](https://github.com/rickycodes/card/releases/tag/v1.5.8), 1 week ago) - npx business card built with rust targeting wasm
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v1.0.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v1.0.0), 1 week ago) - GitHub Action to publish to NPM
