@@ -33,7 +33,7 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Use crowdin/github-action@1.4.7](https://github.com/MetaMask/metamask-extension/pull/14381) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (today)
+- [Update `crowdin/github-action`](https://github.com/MetaMask/metamask-extension/pull/14381) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (today)
 - [Fix attribution url](https://github.com/MetaMask/metamask-mobile/pull/4047) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Remove `base_url` from crowdin.yml](https://github.com/MetaMask/metamask-extension/pull/14364) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 day ago)
 - [Improve create release](https://github.com/MetaMask/metamask-mobile/pull/4034) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
