@@ -6,11 +6,11 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (today)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (1 day ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 days ago)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (1 week ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 week ago)
-- [MetaMask/react-native-aes-crypto-forked](https://github.com/MetaMask/react-native-aes-crypto-forked) -  (2 weeks ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
