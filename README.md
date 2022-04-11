@@ -33,11 +33,11 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Update `crowdin/github-action`](https://github.com/MetaMask/metamask-mobile/pull/4068) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Use `github.sha` for publish jobs](https://github.com/MetaMask/controllers/pull/776) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (3 days ago)
 - [Update `crowdin/github-action`](https://github.com/MetaMask/metamask-extension/pull/14381) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (5 days ago)
 - [Fix attribution url](https://github.com/MetaMask/metamask-mobile/pull/4047) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
 - [Remove `base_url` from crowdin.yml](https://github.com/MetaMask/metamask-extension/pull/14364) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (6 days ago)
-- [Improve create release](https://github.com/MetaMask/metamask-mobile/pull/4034) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
