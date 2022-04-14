@@ -6,9 +6,9 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (today)
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (6 days ago)
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 day ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 days ago)
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (1 week ago)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (2 weeks ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (2 weeks ago)
 </details>
@@ -24,7 +24,7 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v4.4.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v4.4.0), 6 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v4.4.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v4.4.0), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.12.4](https://github.com/MetaMask/metamask-extension/releases/tag/v10.12.4), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v27.1.1](https://github.com/MetaMask/controllers/releases/tag/v27.1.1), 2 weeks ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.5.8](https://github.com/rickycodes/card/releases/tag/v1.5.8), 2 weeks ago) - npx business card built with rust targeting wasm
@@ -33,9 +33,9 @@ Interested in linux, biking, type systems, camping, rustlang, webassembly, the c
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Update publish instructions](https://github.com/MetaMask/controllers/pull/779) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 day ago)
-- [Update `crowdin/github-action`](https://github.com/MetaMask/metamask-mobile/pull/4068) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
-- [Use `github.sha` for publish jobs](https://github.com/MetaMask/controllers/pull/776) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (5 days ago)
+- [Update publish instructions](https://github.com/MetaMask/controllers/pull/779) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 days ago)
+- [Update `crowdin/github-action`](https://github.com/MetaMask/metamask-mobile/pull/4068) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
+- [Use `github.sha` for publish jobs](https://github.com/MetaMask/controllers/pull/776) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (6 days ago)
 - [Update `crowdin/github-action`](https://github.com/MetaMask/metamask-extension/pull/14381) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 week ago)
 - [Fix attribution url](https://github.com/MetaMask/metamask-mobile/pull/4047) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 </details>
