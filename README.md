@@ -2,7 +2,19 @@
 
 I write software with one of those clicky keyboards (he/him)
 
-Interested in linux, biking, type systems, camping, rustlang, webassembly, the command line, tooling, dos, automation, vintage hardware/software/industrial design, retro video gaming, and pinball!
+Interested in:
+- linux
+- cyling
+- type systems
+- camping
+- rustlang
+- webassembly
+- command line interface
+- tooling/automation
+- DOS
+- vintage hardware/software/industrial design
+- retro video gaming
+- and pinball!
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
