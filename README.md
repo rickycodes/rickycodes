@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [bump crowdin/github-action](https://github.com/MetaMask/metamask-mobile/pull/4128) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
+- [bump `actions/checkout` to `v3`](https://github.com/MetaMask/metamask-mobile/pull/4127) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [remove async vuln from resolutions and skip instead](https://github.com/MetaMask/metamask-mobile/pull/4124) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Update publish instructions](https://github.com/MetaMask/controllers/pull/779) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Update `crowdin/github-action`](https://github.com/MetaMask/metamask-mobile/pull/4068) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [Use `github.sha` for publish jobs](https://github.com/MetaMask/controllers/pull/776) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
-- [Update `crowdin/github-action`](https://github.com/MetaMask/metamask-extension/pull/14381) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
