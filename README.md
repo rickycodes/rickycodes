@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Feature/remove bitmask](https://github.com/MetaMask/metamask-mobile/pull/4134) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [bump crowdin/github-action](https://github.com/MetaMask/metamask-extension/pull/14475) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 day ago)
 - [bump crowdin/github-action](https://github.com/MetaMask/metamask-mobile/pull/4128) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [bump `actions/checkout` to `v3`](https://github.com/MetaMask/metamask-mobile/pull/4127) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [remove async vuln from resolutions and skip instead](https://github.com/MetaMask/metamask-mobile/pull/4124) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
-- [Update publish instructions](https://github.com/MetaMask/controllers/pull/779) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
