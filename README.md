@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [fix generate-static-assets](https://github.com/MetaMask/metamask-mobile/pull/4328) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [convert back to spaces](https://github.com/MetaMask/metamask-mobile/pull/4278) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
 - [patch cross-fetch instead of skipping](https://github.com/MetaMask/metamask-mobile/pull/4249) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Sort the languages in the language selector](https://github.com/MetaMask/metamask-mobile/pull/4186) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Adjust language mapping](https://github.com/MetaMask/metamask-mobile/pull/4157) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
-- [Feature/remove bitmask](https://github.com/MetaMask/metamask-extension/pull/14489) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (3 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
