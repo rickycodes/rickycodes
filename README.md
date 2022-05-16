@@ -7,7 +7,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (2 weeks ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (3 weeks ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 month ago)
