@@ -8,7 +8,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (2 weeks ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (3 weeks ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (3 weeks ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 month ago)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (1 month ago)
@@ -25,19 +25,19 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/action-publish-gh-pages](https://github.com/MetaMask/action-publish-gh-pages) ([v2.0.1](https://github.com/MetaMask/action-publish-gh-pages/releases/tag/v2.0.1), today) - 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v29.0.1](https://github.com/MetaMask/controllers/releases/tag/v29.0.1), 6 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.1.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.1.0), 6 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/action-publish-gh-pages](https://github.com/MetaMask/action-publish-gh-pages) ([v2.0.1](https://github.com/MetaMask/action-publish-gh-pages/releases/tag/v2.0.1), 1 day ago) - 
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v29.0.1](https://github.com/MetaMask/controllers/releases/tag/v29.0.1), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.1.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.1.0), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) ([v16.0.4](https://github.com/MetaMask/web3-provider-engine/releases/tag/v16.0.4), 2 weeks ago) - A JavaScript library for composing Ethereum provider objects using middleware modules
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.14.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.14.0), 2 weeks ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [remove default from create-release-pr workflow](https://github.com/MetaMask/metamask-mobile/pull/4356) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
-- [Fix subtitle mapping](https://github.com/MetaMask/metamask-mobile/pull/4349) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
-- [fix generate-static-assets](https://github.com/MetaMask/metamask-mobile/pull/4328) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
-- [convert back to spaces](https://github.com/MetaMask/metamask-mobile/pull/4278) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
+- [remove default from create-release-pr workflow](https://github.com/MetaMask/metamask-mobile/pull/4356) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
+- [Fix subtitle mapping](https://github.com/MetaMask/metamask-mobile/pull/4349) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
+- [fix generate-static-assets](https://github.com/MetaMask/metamask-mobile/pull/4328) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
+- [convert back to spaces](https://github.com/MetaMask/metamask-mobile/pull/4278) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [patch cross-fetch instead of skipping](https://github.com/MetaMask/metamask-mobile/pull/4249) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 </details>
 
