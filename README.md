@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Remove subtitles from translation files](https://github.com/MetaMask/metamask-mobile/pull/4394) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Only rely on setup](https://github.com/MetaMask/metamask-mobile/pull/4380) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
 - [Add --dry-run](https://github.com/MetaMask/action-npm-publish/pull/4) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 days ago)
 - [Feature/make hex data selectable](https://github.com/MetaMask/metamask-mobile/pull/4367) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [remove default from create-release-pr workflow](https://github.com/MetaMask/metamask-mobile/pull/4356) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [Fix subtitle mapping](https://github.com/MetaMask/metamask-mobile/pull/4349) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
