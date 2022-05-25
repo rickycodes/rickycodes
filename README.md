@@ -7,10 +7,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (today)
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
-- [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (3 days ago)
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (6 days ago)
+- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (1 day ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 days ago)
+- [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (4 days ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (1 week ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (1 month ago)
 </details>
 
@@ -25,18 +25,18 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [rickycodes/card](https://github.com/rickycodes/card) ([v1.5.9](https://github.com/rickycodes/card/releases/tag/v1.5.9), today) - npx business card built with rust targeting wasm
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.1.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.1.1), 1 day ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [rickycodes/card](https://github.com/rickycodes/card) ([v1.5.9](https://github.com/rickycodes/card/releases/tag/v1.5.9), 1 day ago) - npx business card built with rust targeting wasm
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.1.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.1.1), 2 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/action-publish-gh-pages](https://github.com/MetaMask/action-publish-gh-pages) ([v2.0.1](https://github.com/MetaMask/action-publish-gh-pages/releases/tag/v2.0.1), 1 week ago) - 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v29.0.1](https://github.com/MetaMask/controllers/releases/tag/v29.0.1), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v29.0.1](https://github.com/MetaMask/controllers/releases/tag/v29.0.1), 2 weeks ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/web3-provider-engine](https://github.com/MetaMask/web3-provider-engine) ([v16.0.4](https://github.com/MetaMask/web3-provider-engine/releases/tag/v16.0.4), 3 weeks ago) - A JavaScript library for composing Ethereum provider objects using middleware modules
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Only rely on setup](https://github.com/MetaMask/metamask-mobile/pull/4380) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
-- [Add --dry-run](https://github.com/MetaMask/action-npm-publish/pull/4) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 days ago)
-- [Feature/make hex data selectable](https://github.com/MetaMask/metamask-mobile/pull/4367) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
+- [Only rely on setup](https://github.com/MetaMask/metamask-mobile/pull/4380) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
+- [Add --dry-run](https://github.com/MetaMask/action-npm-publish/pull/4) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 days ago)
+- [Feature/make hex data selectable](https://github.com/MetaMask/metamask-mobile/pull/4367) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [remove default from create-release-pr workflow](https://github.com/MetaMask/metamask-mobile/pull/4356) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Fix subtitle mapping](https://github.com/MetaMask/metamask-mobile/pull/4349) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 </details>
