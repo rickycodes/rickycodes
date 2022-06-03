@@ -7,7 +7,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (6 days ago)
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 week ago)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (1 week ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 week ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 week ago)
@@ -34,7 +34,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [WIP monorepo](https://github.com/MetaMask/action-npm-publish/pull/5) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 days ago)
+- [WIP monorepo](https://github.com/MetaMask/action-npm-publish/pull/5) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 days ago)
 - [Add dry run publish just before actual publish](https://github.com/MetaMask/controllers/pull/842) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Add vtt files to crowdin config](https://github.com/MetaMask/metamask-mobile/pull/4397) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Remove subtitles from translation files](https://github.com/MetaMask/metamask-mobile/pull/4394) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
