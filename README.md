@@ -25,7 +25,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.14.7](https://github.com/MetaMask/metamask-extension/releases/tag/v10.14.7), 1 day ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.14.7](https://github.com/MetaMask/metamask-extension/releases/tag/v10.14.7), 2 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.6.0](https://github.com/rickycodes/card/releases/tag/v1.6.0), 1 week ago) - npx business card built with rust targeting wasm
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v1.1.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v1.1.0), 1 week ago) - GitHub Action to publish to NPM
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.1.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.1.1), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
@@ -34,7 +34,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [WIP monorepo](https://github.com/MetaMask/action-npm-publish/pull/5) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 days ago)
+- [WIP monorepo](https://github.com/MetaMask/action-npm-publish/pull/5) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (6 days ago)
 - [Add dry run publish just before actual publish](https://github.com/MetaMask/controllers/pull/842) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Add vtt files to crowdin config](https://github.com/MetaMask/metamask-mobile/pull/4397) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Remove subtitles from translation files](https://github.com/MetaMask/metamask-mobile/pull/4394) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
