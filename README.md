@@ -7,7 +7,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 week ago)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (1 week ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 week ago)
