@@ -34,7 +34,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Feature/crowdin subtitles](https://github.com/MetaMask/metamask-mobile/pull/4478) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
+- [Get added subtitles working](https://github.com/MetaMask/metamask-mobile/pull/4478) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Bring in subtitles from crowdin](https://github.com/MetaMask/metamask-mobile/pull/4477) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [remove secret_phrase_video_subtitle key](https://github.com/MetaMask/metamask-mobile/pull/4474) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [WIP monorepo](https://github.com/MetaMask/action-npm-publish/pull/5) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
