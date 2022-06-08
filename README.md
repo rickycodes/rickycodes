@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Bring in subtitles from crowdin](https://github.com/MetaMask/metamask-mobile/pull/4477) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [remove secret_phrase_video_subtitle key](https://github.com/MetaMask/metamask-mobile/pull/4474) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [WIP monorepo](https://github.com/MetaMask/action-npm-publish/pull/5) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
 - [Add dry run publish just before actual publish](https://github.com/MetaMask/controllers/pull/842) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Add vtt files to crowdin config](https://github.com/MetaMask/metamask-mobile/pull/4397) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
-- [Remove subtitles from translation files](https://github.com/MetaMask/metamask-mobile/pull/4394) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
