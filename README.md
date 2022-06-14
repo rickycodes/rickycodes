@@ -7,7 +7,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (4 days ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (2 weeks ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (2 weeks ago)
@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Add missing subtitles for secret recovery phrase](https://github.com/MetaMask/metamask-extension/pull/14943) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (today)
 - [Get added subtitles working](https://github.com/MetaMask/metamask-mobile/pull/4478) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
 - [Bring in subtitles from crowdin](https://github.com/MetaMask/metamask-mobile/pull/4477) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
 - [remove secret_phrase_video_subtitle key](https://github.com/MetaMask/metamask-mobile/pull/4474) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (6 days ago)
 - [WIP monorepo](https://github.com/MetaMask/action-npm-publish/pull/5) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 weeks ago)
-- [Add dry run publish just before actual publish](https://github.com/MetaMask/controllers/pull/842) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
