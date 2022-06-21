@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Allow for env variable to customise the simulator that gets launched on iOS](https://github.com/MetaMask/metamask-mobile/pull/4554) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [add scripts/browserstack-upload.js](https://github.com/MetaMask/metamask-mobile/pull/4494) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Add missing subtitles for secret recovery phrase](https://github.com/MetaMask/metamask-extension/pull/14943) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (1 week ago)
 - [Get added subtitles working](https://github.com/MetaMask/metamask-mobile/pull/4478) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Bring in subtitles from crowdin](https://github.com/MetaMask/metamask-mobile/pull/4477) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [remove secret_phrase_video_subtitle key](https://github.com/MetaMask/metamask-mobile/pull/4474) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
