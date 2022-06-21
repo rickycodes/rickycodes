@@ -7,8 +7,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (today)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (4 days ago)
-- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (5 days ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 week ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (3 weeks ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (3 weeks ago)
@@ -25,9 +25,9 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [rickycodes/card](https://github.com/rickycodes/card) ([v1.6.15](https://github.com/rickycodes/card/releases/tag/v1.6.15), today) - npx business card built with rust targeting wasm
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v30.0.2](https://github.com/MetaMask/controllers/releases/tag/v30.0.2), 1 day ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) ([v1.4.0](https://github.com/MetaMask/action-create-release-pr/releases/tag/v1.4.0), 3 days ago) - 
-- [rickycodes/card](https://github.com/rickycodes/card) ([v1.6.10](https://github.com/rickycodes/card/releases/tag/v1.6.10), 5 days ago) - npx business card built with rust targeting wasm
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.15.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.15.0), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.2.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.2.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 </details>
