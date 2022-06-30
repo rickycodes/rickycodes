@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Fix publishing configuration, closes #858](https://github.com/MetaMask/controllers/pull/863) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
 - [Get release version from `package.json`](https://github.com/MetaMask/action-publish-release/pull/46) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (2 days ago)
 - [Allow for env variable to customise the simulator that gets launched on iOS](https://github.com/MetaMask/metamask-mobile/pull/4554) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [add scripts/browserstack-upload.js](https://github.com/MetaMask/metamask-mobile/pull/4494) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Add missing subtitles for secret recovery phrase](https://github.com/MetaMask/metamask-extension/pull/14943) on [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) (2 weeks ago)
-- [Get added subtitles working](https://github.com/MetaMask/metamask-mobile/pull/4478) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
