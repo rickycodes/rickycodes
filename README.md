@@ -7,10 +7,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (today)
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (3 days ago)
-- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (5 days ago)
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (5 days ago)
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 day ago)
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (4 days ago)
+- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (6 days ago)
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (6 days ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 week ago)
 </details>
 
@@ -25,20 +25,20 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.0.0](https://github.com/MetaMask/action-publish-release/releases/tag/v2.0.0), 3 days ago) - 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.3.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.3.0), 5 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [rickycodes/card](https://github.com/rickycodes/card) ([v1.6.17](https://github.com/rickycodes/card/releases/tag/v1.6.17), 5 days ago) - npx business card built with rust targeting wasm
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v1.2.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v1.2.0), 5 days ago) - GitHub Action to publish to NPM
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v30.1.0](https://github.com/MetaMask/controllers/releases/tag/v30.1.0), 5 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.0.0](https://github.com/MetaMask/action-publish-release/releases/tag/v2.0.0), 4 days ago) - 
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.3.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.3.0), 6 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [rickycodes/card](https://github.com/rickycodes/card) ([v1.6.17](https://github.com/rickycodes/card/releases/tag/v1.6.17), 6 days ago) - npx business card built with rust targeting wasm
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v1.2.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v1.2.0), 6 days ago) - GitHub Action to publish to NPM
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v30.1.0](https://github.com/MetaMask/controllers/releases/tag/v30.1.0), 6 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Check Release](https://github.com/MetaMask/controllers/pull/873) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
+- [Check Release](https://github.com/MetaMask/controllers/pull/873) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 day ago)
 - [Fix publishing configuration, closes #858](https://github.com/MetaMask/controllers/pull/863) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
-- [Get release version from `package.json`](https://github.com/MetaMask/action-publish-release/pull/46) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (1 week ago)
-- [Allow for env variable to customise the simulator that gets launched on iOS](https://github.com/MetaMask/metamask-mobile/pull/4554) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
-- [add scripts/browserstack-upload.js](https://github.com/MetaMask/metamask-mobile/pull/4494) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
+- [Get release version from `package.json`](https://github.com/MetaMask/action-publish-release/pull/46) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (2 weeks ago)
+- [Allow for env variable to customise the simulator that gets launched on iOS](https://github.com/MetaMask/metamask-mobile/pull/4554) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
+- [add scripts/browserstack-upload.js](https://github.com/MetaMask/metamask-mobile/pull/4494) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
