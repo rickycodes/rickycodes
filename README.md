@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Add config for `MetaMask/action-npm-publish`](https://github.com/MetaMask/smart-transactions-controller/pull/85) on [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) (today)
 - [Add config for `MetaMask/action-npm-publish`](https://github.com/MetaMask/snaps-skunkworks/pull/626) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (1 day ago)
 - [turn check-release step into job](https://github.com/MetaMask/controllers/pull/874) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 days ago)
 - [Check Release](https://github.com/MetaMask/controllers/pull/873) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (3 days ago)
 - [Fix publishing configuration, closes #858](https://github.com/MetaMask/controllers/pull/863) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
-- [Get release version from `package.json`](https://github.com/MetaMask/action-publish-release/pull/46) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (2 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
