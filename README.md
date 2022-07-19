@@ -7,7 +7,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (6 days ago)
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 week ago)
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (1 week ago)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (1 week ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 week ago)
@@ -34,9 +34,9 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Add config for `MetaMask/action-npm-publish`](https://github.com/MetaMask/smart-transactions-controller/pull/85) on [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) (4 days ago)
-- [Add config for `MetaMask/action-npm-publish`](https://github.com/MetaMask/snaps-skunkworks/pull/626) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (5 days ago)
-- [turn check-release step into job](https://github.com/MetaMask/controllers/pull/874) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (6 days ago)
+- [Add config for `MetaMask/action-npm-publish`](https://github.com/MetaMask/smart-transactions-controller/pull/85) on [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) (5 days ago)
+- [Add config for `MetaMask/action-npm-publish`](https://github.com/MetaMask/snaps-skunkworks/pull/626) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (6 days ago)
+- [turn check-release step into job](https://github.com/MetaMask/controllers/pull/874) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Check Release](https://github.com/MetaMask/controllers/pull/873) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 week ago)
 - [Fix publishing configuration, closes #858](https://github.com/MetaMask/controllers/pull/863) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 </details>
