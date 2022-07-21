@@ -7,11 +7,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) - Monorepo for Snaps dependencies. (today)
 - [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) -  (1 day ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 week ago)
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (1 week ago)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (2 weeks ago)
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (2 weeks ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -25,11 +25,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) ([v0.18.1](https://github.com/MetaMask/snaps-skunkworks/releases/tag/v0.18.1), 3 days ago) - Monorepo for Snaps dependencies.
 - [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) ([v2.3.0](https://github.com/MetaMask/smart-transactions-controller/releases/tag/v2.3.0), 6 days ago) - 
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.0.0](https://github.com/MetaMask/action-publish-release/releases/tag/v2.0.0), 1 week ago) - 
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.3.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.3.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.6.17](https://github.com/rickycodes/card/releases/tag/v1.6.17), 2 weeks ago) - npx business card built with rust targeting wasm
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v1.2.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v1.2.0), 2 weeks ago) - GitHub Action to publish to NPM
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
