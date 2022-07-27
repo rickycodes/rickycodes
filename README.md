@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [get `.repository.url` from `package.json`](https://github.com/MetaMask/action-publish-release/pull/49) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (today)
 - [pin nvm to @1.3.0](https://github.com/MetaMask/metamask-mobile/pull/4700) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [housekeeping](https://github.com/MetaMask/action-npm-publish/pull/8) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
 - [housekeeping](https://github.com/MetaMask/action-npm-publish/pull/7) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
 - [Add config for `MetaMask/action-npm-publish`](https://github.com/MetaMask/smart-transactions-controller/pull/85) on [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) (1 week ago)
-- [Add config for `MetaMask/action-npm-publish`](https://github.com/MetaMask/snaps-skunkworks/pull/626) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (2 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
