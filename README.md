@@ -8,10 +8,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (today)
+- [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) -  (today)
 - [MetaMask/action-is-release](https://github.com/MetaMask/action-is-release) -  (4 days ago)
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 week ago)
 - [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) - Monorepo for Snaps dependencies. (1 week ago)
-- [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) -  (1 week ago)
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 week ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
