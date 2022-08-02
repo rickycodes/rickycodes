@@ -7,11 +7,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (today)
 - [MetaMask/action-is-release](https://github.com/MetaMask/action-is-release) -  (4 days ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 week ago)
 - [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) - Monorepo for Snaps dependencies. (1 week ago)
 - [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) -  (1 week ago)
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (3 weeks ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [use `MetaMask/action-is-release@v1.0`](https://github.com/MetaMask/smart-transactions-controller/pull/88) on [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) (today)
+- [use `MetaMask/action-is-release@v1.0`](https://github.com/MetaMask/snaps-skunkworks/pull/664) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (today)
 - [use `MetaMask/action-is-release@v1.0`](https://github.com/MetaMask/controllers/pull/883) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (4 days ago)
 - [use `MetaMask/action-check-version@v1.0`](https://github.com/MetaMask/controllers/pull/882) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (4 days ago)
 - [get `.repository.url` from `package.json`](https://github.com/MetaMask/action-publish-release/pull/49) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (6 days ago)
-- [pin nvm to @1.3.0](https://github.com/MetaMask/metamask-mobile/pull/4700) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [housekeeping](https://github.com/MetaMask/action-npm-publish/pull/8) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
