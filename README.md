@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Add release workflows](https://github.com/MetaMask/contract-metadata/pull/1071) on [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) (today)
 - [use `MetaMask/action-is-release@v1.0`](https://github.com/MetaMask/smart-transactions-controller/pull/88) on [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) (1 day ago)
 - [use `MetaMask/action-is-release@v1.0`](https://github.com/MetaMask/snaps-skunkworks/pull/664) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (1 day ago)
 - [use `MetaMask/action-is-release@v1.0`](https://github.com/MetaMask/controllers/pull/883) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (5 days ago)
 - [use `MetaMask/action-check-version@v1.0`](https://github.com/MetaMask/controllers/pull/882) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (5 days ago)
-- [get `.repository.url` from `package.json`](https://github.com/MetaMask/action-publish-release/pull/49) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
