@@ -7,11 +7,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (today)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 day ago)
 - [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) -  (1 day ago)
 - [MetaMask/action-is-release](https://github.com/MetaMask/action-is-release) -  (5 days ago)
 - [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) - Monorepo for Snaps dependencies. (1 week ago)
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 week ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Add release workflows](https://github.com/MetaMask/noble-secp256k1-compat-wrapper/pull/1) on [MetaMask/noble-secp256k1-compat-wrapper](https://github.com/MetaMask/noble-secp256k1-compat-wrapper) (today)
 - [Add release workflows](https://github.com/MetaMask/contract-metadata/pull/1071) on [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) (today)
 - [use `MetaMask/action-is-release@v1.0`](https://github.com/MetaMask/smart-transactions-controller/pull/88) on [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) (1 day ago)
 - [use `MetaMask/action-is-release@v1.0`](https://github.com/MetaMask/snaps-skunkworks/pull/664) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (1 day ago)
 - [use `MetaMask/action-is-release@v1.0`](https://github.com/MetaMask/controllers/pull/883) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (5 days ago)
-- [use `MetaMask/action-check-version@v1.0`](https://github.com/MetaMask/controllers/pull/882) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (5 days ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
