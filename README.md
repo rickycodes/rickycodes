@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [update `is-release` filter](https://github.com/MetaMask/controllers/pull/888) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
 - [Test](https://github.com/rickycodes/controllers/pull/9) on [rickycodes/controllers](https://github.com/rickycodes/controllers) (today)
 - [Test](https://github.com/rickycodes/controllers/pull/7) on [rickycodes/controllers](https://github.com/rickycodes/controllers) (today)
 - [Test](https://github.com/rickycodes/controllers/pull/5) on [rickycodes/controllers](https://github.com/rickycodes/controllers) (today)
 - [Test](https://github.com/rickycodes/controllers/pull/4) on [rickycodes/controllers](https://github.com/rickycodes/controllers) (today)
-- [Test](https://github.com/rickycodes/controllers/pull/3) on [rickycodes/controllers](https://github.com/rickycodes/controllers) (today)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
