@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [test again](https://github.com/rickycodes/controllers/pull/2) on [rickycodes/controllers](https://github.com/rickycodes/controllers) (today)
-- [Add release workflows](https://github.com/MetaMask/noble-secp256k1-compat-wrapper/pull/1) on [MetaMask/noble-secp256k1-compat-wrapper](https://github.com/MetaMask/noble-secp256k1-compat-wrapper) (1 week ago)
-- [Add release workflows](https://github.com/MetaMask/contract-metadata/pull/1071) on [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) (1 week ago)
-- [use `MetaMask/action-is-release@v1.0`](https://github.com/MetaMask/smart-transactions-controller/pull/88) on [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) (1 week ago)
-- [use `MetaMask/action-is-release@v1.0`](https://github.com/MetaMask/snaps-skunkworks/pull/664) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (1 week ago)
+- [Test](https://github.com/rickycodes/controllers/pull/9) on [rickycodes/controllers](https://github.com/rickycodes/controllers) (today)
+- [Test](https://github.com/rickycodes/controllers/pull/7) on [rickycodes/controllers](https://github.com/rickycodes/controllers) (today)
+- [Test](https://github.com/rickycodes/controllers/pull/5) on [rickycodes/controllers](https://github.com/rickycodes/controllers) (today)
+- [Test](https://github.com/rickycodes/controllers/pull/4) on [rickycodes/controllers](https://github.com/rickycodes/controllers) (today)
+- [Test](https://github.com/rickycodes/controllers/pull/3) on [rickycodes/controllers](https://github.com/rickycodes/controllers) (today)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
