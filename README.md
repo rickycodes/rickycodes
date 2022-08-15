@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Add release workflows](https://github.com/MetaMask/test-dapp/pull/188) on [MetaMask/test-dapp](https://github.com/MetaMask/test-dapp) (today)
 - [update `is-release` filter](https://github.com/MetaMask/noble-secp256k1-compat-wrapper/pull/8) on [MetaMask/noble-secp256k1-compat-wrapper](https://github.com/MetaMask/noble-secp256k1-compat-wrapper) (5 days ago)
 - [update `is-release` filter](https://github.com/MetaMask/contract-metadata/pull/1072) on [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) (5 days ago)
 - [update `is-release` filter](https://github.com/MetaMask/snaps-skunkworks/pull/677) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (5 days ago)
 - [update `is-release` filter](https://github.com/MetaMask/smart-transactions-controller/pull/89) on [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) (5 days ago)
-- [update `is-release` filter](https://github.com/MetaMask/controllers/pull/888) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (5 days ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
