@@ -7,11 +7,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (today)
 - [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) - Monorepo for Snaps dependencies. (today)
 - [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) -  (today)
 - [MetaMask/noble-secp256k1-compat-wrapper](https://github.com/MetaMask/noble-secp256k1-compat-wrapper) - A wrapper to directly resolve `ethereum-cryptography/secp256k1-compat` which uses the light and fast @noble/secp256k1 pure js implementation (1 day ago)
 - [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses. (5 days ago)
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (6 days ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Update README.md](https://github.com/rickycodes/pve-no-subscription/pull/6) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (today)
 - [Update `is-release` filter](https://github.com/MetaMask/snaps-skunkworks/pull/684) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (today)
 - [Update `is-release` filter](https://github.com/MetaMask/noble-secp256k1-compat-wrapper/pull/9) on [MetaMask/noble-secp256k1-compat-wrapper](https://github.com/MetaMask/noble-secp256k1-compat-wrapper) (today)
 - [Update `is-release` filter](https://github.com/MetaMask/contract-metadata/pull/1075) on [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) (today)
 - [Update `is-release` filter](https://github.com/MetaMask/smart-transactions-controller/pull/91) on [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) (today)
-- [Update `is-release` filter](https://github.com/MetaMask/controllers/pull/891) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
