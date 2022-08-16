@@ -9,9 +9,9 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (today)
 - [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) - Monorepo for Snaps dependencies. (today)
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (today)
 - [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) -  (today)
 - [MetaMask/noble-secp256k1-compat-wrapper](https://github.com/MetaMask/noble-secp256k1-compat-wrapper) - A wrapper to directly resolve `ethereum-cryptography/secp256k1-compat` which uses the light and fast @noble/secp256k1 pure js implementation (1 day ago)
-- [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses. (5 days ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
