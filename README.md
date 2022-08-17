@@ -8,10 +8,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
 - [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses. (today)
-- [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 day ago)
-- [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) - Monorepo for Snaps dependencies. (1 day ago)
+- [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (today)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 day ago)
-- [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) -  (1 day ago)
+- [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) - Monorepo for Snaps dependencies. (1 day ago)
+- [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 day ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Update `publish-release.yml` &#43; `README.md` to match `controllers`](https://github.com/MetaMask/metamask-module-template/pull/112) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (today)
 - [Update README.md](https://github.com/rickycodes/pve-no-subscription/pull/6) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (1 day ago)
 - [Update `is-release` filter](https://github.com/MetaMask/snaps-skunkworks/pull/684) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (1 day ago)
 - [Update `is-release` filter](https://github.com/MetaMask/noble-secp256k1-compat-wrapper/pull/9) on [MetaMask/noble-secp256k1-compat-wrapper](https://github.com/MetaMask/noble-secp256k1-compat-wrapper) (1 day ago)
 - [Update `is-release` filter](https://github.com/MetaMask/contract-metadata/pull/1075) on [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) (1 day ago)
-- [Update `is-release` filter](https://github.com/MetaMask/smart-transactions-controller/pull/91) on [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) (1 day ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
