@@ -7,11 +7,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (today)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 day ago)
 - [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (2 days ago)
 - [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses. (2 days ago)
-- [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (3 days ago)
-- [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) - Monorepo for Snaps dependencies. (3 days ago)
+- [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) -  (3 days ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
