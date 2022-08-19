@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Update README.md to include automated npm publishing](https://github.com/MetaMask/action-publish-release/pull/50) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (today)
 - [Update `publish-release.yml` &#43; `README.md` to match `controllers`](https://github.com/MetaMask/metamask-module-template/pull/112) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (2 days ago)
 - [Update README.md](https://github.com/rickycodes/pve-no-subscription/pull/6) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (3 days ago)
 - [Update `is-release` filter](https://github.com/MetaMask/snaps-skunkworks/pull/684) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (3 days ago)
 - [Update `is-release` filter](https://github.com/MetaMask/noble-secp256k1-compat-wrapper/pull/9) on [MetaMask/noble-secp256k1-compat-wrapper](https://github.com/MetaMask/noble-secp256k1-compat-wrapper) (3 days ago)
-- [Update `is-release` filter](https://github.com/MetaMask/contract-metadata/pull/1075) on [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) (3 days ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
