@@ -25,11 +25,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.18.4](https://github.com/MetaMask/metamask-extension/releases/tag/v10.18.4), today) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) ([v2.3.1](https://github.com/MetaMask/smart-transactions-controller/releases/tag/v2.3.1), 5 days ago) - 
 - [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) ([v0.19.1](https://github.com/MetaMask/snaps-skunkworks/releases/tag/v0.19.1), 5 days ago) - Monorepo for Snaps dependencies.
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.5.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.5.1), 6 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v30.3.0](https://github.com/MetaMask/controllers/releases/tag/v30.3.0), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) ([v1.36.0](https://github.com/MetaMask/contract-metadata/releases/tag/v1.36.0), 1 week ago) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses.
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
