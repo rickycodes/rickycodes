@@ -25,16 +25,16 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.6.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.6.0), 2 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) ([v0.20.0](https://github.com/MetaMask/snaps-skunkworks/releases/tag/v0.20.0), 2 days ago) - Monorepo for Snaps dependencies.
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.18.4](https://github.com/MetaMask/metamask-extension/releases/tag/v10.18.4), 3 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.6.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.6.0), 3 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) ([v0.20.0](https://github.com/MetaMask/snaps-skunkworks/releases/tag/v0.20.0), 3 days ago) - Monorepo for Snaps dependencies.
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.18.4](https://github.com/MetaMask/metamask-extension/releases/tag/v10.18.4), 4 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) ([v2.3.1](https://github.com/MetaMask/smart-transactions-controller/releases/tag/v2.3.1), 1 week ago) - 
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v30.3.0](https://github.com/MetaMask/controllers/releases/tag/v30.3.0), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [WIP Issue 45](https://github.com/MetaMask/action-publish-release/pull/51) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (2 days ago)
+- [WIP Issue 45](https://github.com/MetaMask/action-publish-release/pull/51) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (3 days ago)
 - [Update README.md to include automated npm publishing](https://github.com/MetaMask/action-publish-release/pull/50) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (1 week ago)
 - [Update `publish-release.yml` &#43; `README.md` to match `controllers`](https://github.com/MetaMask/metamask-module-template/pull/112) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (1 week ago)
 - [Update README.md](https://github.com/rickycodes/pve-no-subscription/pull/6) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (1 week ago)
