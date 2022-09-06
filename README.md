@@ -11,7 +11,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 weeks ago)
 - [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (2 weeks ago)
 - [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses. (2 weeks ago)
-- [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) -  (2 weeks ago)
+- [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) -  (3 weeks ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -37,8 +37,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [WIP Issue 45](https://github.com/MetaMask/action-publish-release/pull/51) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (1 week ago)
 - [Update README.md to include automated npm publishing](https://github.com/MetaMask/action-publish-release/pull/50) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (2 weeks ago)
 - [Update `publish-release.yml` &#43; `README.md` to match `controllers`](https://github.com/MetaMask/metamask-module-template/pull/112) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (2 weeks ago)
-- [Update README.md](https://github.com/rickycodes/pve-no-subscription/pull/6) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (2 weeks ago)
-- [Update `is-release` filter](https://github.com/MetaMask/snaps-skunkworks/pull/684) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (2 weeks ago)
+- [Update README.md](https://github.com/rickycodes/pve-no-subscription/pull/6) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (3 weeks ago)
+- [Update `is-release` filter](https://github.com/MetaMask/snaps-skunkworks/pull/684) on [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) (3 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
