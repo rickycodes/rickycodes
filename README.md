@@ -9,9 +9,9 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (3 weeks ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 weeks ago)
-- [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (3 weeks ago)
 - [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses. (3 weeks ago)
-- [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) -  (3 weeks ago)
+- [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (3 weeks ago)
+- [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (3 weeks ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
