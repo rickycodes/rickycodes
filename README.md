@@ -34,7 +34,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [WIP Issue 45](https://github.com/MetaMask/action-publish-release/pull/51) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (2 weeks ago)
+- [Support monorepos with independent versions](https://github.com/MetaMask/action-publish-release/pull/51) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (2 weeks ago)
 - [Update README.md to include automated npm publishing](https://github.com/MetaMask/action-publish-release/pull/50) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (3 weeks ago)
 - [Update `publish-release.yml` &#43; `README.md` to match `controllers`](https://github.com/MetaMask/metamask-module-template/pull/112) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (3 weeks ago)
 - [Update README.md](https://github.com/rickycodes/pve-no-subscription/pull/6) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (3 weeks ago)
