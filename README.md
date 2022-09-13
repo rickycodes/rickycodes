@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [build to dist](https://github.com/MetaMask/scure-bip39/pull/8) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (today)
+- [Build to dist](https://github.com/paulmillr/scure-bip39/pull/8) on [paulmillr/scure-bip39](https://github.com/paulmillr/scure-bip39) (today)
 - [add publishConfig](https://github.com/MetaMask/scure-bip39/pull/6) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (today)
 - [Support monorepos with independent versions](https://github.com/MetaMask/action-publish-release/pull/51) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (2 weeks ago)
 - [Update README.md to include automated npm publishing](https://github.com/MetaMask/action-publish-release/pull/50) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (3 weeks ago)
-- [Update `publish-release.yml` &#43; `README.md` to match `controllers`](https://github.com/MetaMask/metamask-module-template/pull/112) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (3 weeks ago)
-- [Update README.md](https://github.com/rickycodes/pve-no-subscription/pull/6) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (4 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
