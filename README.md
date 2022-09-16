@@ -7,10 +7,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (3 weeks ago)
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (4 weeks ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (4 weeks ago)
-- [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses. (4 weeks ago)
-- [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (4 weeks ago)
+- [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses. (1 month ago)
+- [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (1 month ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 month ago)
 </details>
 
@@ -25,19 +25,19 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.6.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.6.1), today) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) ([v2.3.2](https://github.com/MetaMask/smart-transactions-controller/releases/tag/v2.3.2), 2 days ago) - 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v31.0.0](https://github.com/MetaMask/controllers/releases/tag/v31.0.0), 6 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.6.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.6.1), 1 day ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) ([v2.3.2](https://github.com/MetaMask/smart-transactions-controller/releases/tag/v2.3.2), 3 days ago) - 
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v31.0.0](https://github.com/MetaMask/controllers/releases/tag/v31.0.0), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) ([v0.20.0](https://github.com/MetaMask/snaps-skunkworks/releases/tag/v0.20.0), 3 weeks ago) - Monorepo for Snaps dependencies.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.18.4](https://github.com/MetaMask/metamask-extension/releases/tag/v10.18.4), 3 weeks ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [update entry](https://github.com/MetaMask/scure-bip39/pull/10) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (2 days ago)
-- [build to dist](https://github.com/MetaMask/scure-bip39/pull/8) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (2 days ago)
-- [Build to dist](https://github.com/paulmillr/scure-bip39/pull/8) on [paulmillr/scure-bip39](https://github.com/paulmillr/scure-bip39) (2 days ago)
-- [add publishConfig](https://github.com/MetaMask/scure-bip39/pull/6) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (2 days ago)
+- [update entry](https://github.com/MetaMask/scure-bip39/pull/10) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (3 days ago)
+- [build to dist](https://github.com/MetaMask/scure-bip39/pull/8) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (3 days ago)
+- [Build to dist](https://github.com/paulmillr/scure-bip39/pull/8) on [paulmillr/scure-bip39](https://github.com/paulmillr/scure-bip39) (3 days ago)
+- [add publishConfig](https://github.com/MetaMask/scure-bip39/pull/6) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (3 days ago)
 - [Support monorepos with independent versions](https://github.com/MetaMask/action-publish-release/pull/51) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (3 weeks ago)
 </details>
 
