@@ -25,19 +25,19 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v31.1.0](https://github.com/MetaMask/controllers/releases/tag/v31.1.0), 2 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) ([v1.37.0](https://github.com/MetaMask/contract-metadata/releases/tag/v1.37.0), 2 days ago) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses.
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.6.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.6.1), 3 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) ([v2.3.2](https://github.com/MetaMask/smart-transactions-controller/releases/tag/v2.3.2), 5 days ago) - 
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v31.1.0](https://github.com/MetaMask/controllers/releases/tag/v31.1.0), 3 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) ([v1.37.0](https://github.com/MetaMask/contract-metadata/releases/tag/v1.37.0), 3 days ago) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses.
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.6.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.6.1), 4 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) ([v2.3.2](https://github.com/MetaMask/smart-transactions-controller/releases/tag/v2.3.2), 6 days ago) - 
 - [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) ([v0.20.0](https://github.com/MetaMask/snaps-skunkworks/releases/tag/v0.20.0), 3 weeks ago) - Monorepo for Snaps dependencies.
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [update entry](https://github.com/MetaMask/scure-bip39/pull/10) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (5 days ago)
-- [build to dist](https://github.com/MetaMask/scure-bip39/pull/8) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (5 days ago)
-- [Build to dist](https://github.com/paulmillr/scure-bip39/pull/8) on [paulmillr/scure-bip39](https://github.com/paulmillr/scure-bip39) (5 days ago)
-- [add publishConfig](https://github.com/MetaMask/scure-bip39/pull/6) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (5 days ago)
+- [update entry](https://github.com/MetaMask/scure-bip39/pull/10) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (6 days ago)
+- [build to dist](https://github.com/MetaMask/scure-bip39/pull/8) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (6 days ago)
+- [Build to dist](https://github.com/paulmillr/scure-bip39/pull/8) on [paulmillr/scure-bip39](https://github.com/paulmillr/scure-bip39) (6 days ago)
+- [add publishConfig](https://github.com/MetaMask/scure-bip39/pull/6) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (6 days ago)
 - [Support monorepos with independent versions](https://github.com/MetaMask/action-publish-release/pull/51) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (3 weeks ago)
 </details>
 
