@@ -25,11 +25,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.19.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.19.0), 1 day ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) ([v0.21.0](https://github.com/MetaMask/snaps-skunkworks/releases/tag/v0.21.0), 1 day ago) - Monorepo for Snaps dependencies.
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v31.1.0](https://github.com/MetaMask/controllers/releases/tag/v31.1.0), 5 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) ([v1.37.0](https://github.com/MetaMask/contract-metadata/releases/tag/v1.37.0), 5 days ago) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses.
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.6.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.6.1), 6 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.19.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.19.0), 2 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) ([v0.21.0](https://github.com/MetaMask/snaps-skunkworks/releases/tag/v0.21.0), 2 days ago) - Monorepo for Snaps dependencies.
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v31.1.0](https://github.com/MetaMask/controllers/releases/tag/v31.1.0), 6 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) ([v1.37.0](https://github.com/MetaMask/contract-metadata/releases/tag/v1.37.0), 6 days ago) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses.
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.6.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.6.1), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
@@ -38,7 +38,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [build to dist](https://github.com/MetaMask/scure-bip39/pull/8) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (1 week ago)
 - [Build to dist](https://github.com/paulmillr/scure-bip39/pull/8) on [paulmillr/scure-bip39](https://github.com/paulmillr/scure-bip39) (1 week ago)
 - [add publishConfig](https://github.com/MetaMask/scure-bip39/pull/6) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (1 week ago)
-- [Support monorepos with independent versions](https://github.com/MetaMask/action-publish-release/pull/51) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (3 weeks ago)
+- [Support monorepos with independent versions](https://github.com/MetaMask/action-publish-release/pull/51) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (4 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
