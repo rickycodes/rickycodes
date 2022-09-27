@@ -34,11 +34,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [update default ios simulator](https://github.com/MetaMask/metamask-mobile/pull/5033) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [update entry](https://github.com/MetaMask/scure-bip39/pull/10) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (2 weeks ago)
 - [build to dist](https://github.com/MetaMask/scure-bip39/pull/8) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (2 weeks ago)
 - [Build to dist](https://github.com/paulmillr/scure-bip39/pull/8) on [paulmillr/scure-bip39](https://github.com/paulmillr/scure-bip39) (2 weeks ago)
 - [add publishConfig](https://github.com/MetaMask/scure-bip39/pull/6) on [MetaMask/scure-bip39](https://github.com/MetaMask/scure-bip39) (2 weeks ago)
-- [Support monorepos with independent versions](https://github.com/MetaMask/action-publish-release/pull/51) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (1 month ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
