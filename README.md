@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Add slack-github-action](https://github.com/MetaMask/controllers/pull/928) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
 - [Move scripts to matrix](https://github.com/MetaMask/metamask-mobile/pull/5076) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Run tests in parallel](https://github.com/MetaMask/metamask-mobile/pull/5061) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [patch vm2 via resolution](https://github.com/MetaMask/metamask-mobile/pull/5058) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [only run ci on main](https://github.com/MetaMask/metamask-mobile/pull/5057) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [Update default iOS simulator](https://github.com/MetaMask/metamask-mobile/pull/5033) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
