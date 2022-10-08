@@ -6,11 +6,11 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (today)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (5 days ago)
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (1 month ago)
 - [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (1 month ago)
 - [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses. (1 month ago)
-- [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) - Monorepo for Snaps dependencies. (1 month ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [make replacement case insensitive](https://github.com/rickycodes/pve-no-subscription/pull/8) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (today)
 - [Add slack-github-action](https://github.com/MetaMask/controllers/pull/928) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 days ago)
 - [Move scripts to matrix](https://github.com/MetaMask/metamask-mobile/pull/5076) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Run tests in parallel](https://github.com/MetaMask/metamask-mobile/pull/5061) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [patch vm2 via resolution](https://github.com/MetaMask/metamask-mobile/pull/5058) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [only run ci on main](https://github.com/MetaMask/metamask-mobile/pull/5057) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
