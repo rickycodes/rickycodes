@@ -24,7 +24,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/snaps-skunkworks](https://github.com/MetaMask/snaps-skunkworks) ([v0.22.1](https://github.com/MetaMask/snaps-skunkworks/releases/tag/v0.22.1), 2 days ago) - Monorepo for Snaps dependencies.
+- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.22.1](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.22.1), 2 days ago) - Monorepo for Snaps dependencies.
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.8.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.8.0), 6 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.20.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.20.0), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v31.2.0](https://github.com/MetaMask/controllers/releases/tag/v31.2.0), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
