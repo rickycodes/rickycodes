@@ -6,11 +6,11 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) -  (today)
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (today)
+- [MetaMask/action-is-release](https://github.com/MetaMask/action-is-release) -  (today)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (today)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (2 weeks ago)
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 weeks ago)
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (2 months ago)
-- [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses. (2 months ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [upgrade yarn to version 3](https://github.com/MetaMask/metamask-mobile/pull/5147) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
+- [Bump actions](https://github.com/MetaMask/action-create-release-pr/pull/98) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (today)
+- [Bump actions](https://github.com/MetaMask/action-publish-release/pull/53) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (today)
+- [Bump actions](https://github.com/MetaMask/action-require-additional-reviewer/pull/47) on [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) (today)
 - [Deprecate set-output and bump `actions/checkout`](https://github.com/MetaMask/action-is-release/pull/2) on [MetaMask/action-is-release](https://github.com/MetaMask/action-is-release) (today)
-- [Bump actions](https://github.com/MetaMask/controllers/pull/944) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 day ago)
-- [Bump actions](https://github.com/MetaMask/metamask-mobile/pull/5144) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
-- [make replacement case insensitive](https://github.com/rickycodes/pve-no-subscription/pull/8) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (2 weeks ago)
-- [Add slack-github-action](https://github.com/MetaMask/controllers/pull/928) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
