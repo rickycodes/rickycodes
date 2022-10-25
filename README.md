@@ -26,15 +26,15 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.8.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.8.1), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v32.0.2](https://github.com/MetaMask/controllers/releases/tag/v32.0.2), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.22.2](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.22.2), 1 week ago) - Monorepo for Snaps dependencies.
+- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.22.2](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.22.2), 2 weeks ago) - Monorepo for Snaps dependencies.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.20.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.20.0), 3 weeks ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) ([v2.0.0](https://github.com/MetaMask/contract-metadata/releases/tag/v2.0.0), 1 month ago) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses.
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Bump actions](https://github.com/MetaMask/controllers/pull/944) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (today)
-- [Bump actions](https://github.com/MetaMask/metamask-mobile/pull/5144) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
+- [Bump actions](https://github.com/MetaMask/controllers/pull/944) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 day ago)
+- [Bump actions](https://github.com/MetaMask/metamask-mobile/pull/5144) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [make replacement case insensitive](https://github.com/rickycodes/pve-no-subscription/pull/8) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (2 weeks ago)
 - [Add slack-github-action](https://github.com/MetaMask/controllers/pull/928) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 - [Move scripts to matrix](https://github.com/MetaMask/metamask-mobile/pull/5076) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
