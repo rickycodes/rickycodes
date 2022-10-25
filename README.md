@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Deprecate set-output](https://github.com/MetaMask/action-is-release/pull/2) on [MetaMask/action-is-release](https://github.com/MetaMask/action-is-release) (today)
 - [Bump actions](https://github.com/MetaMask/controllers/pull/944) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 day ago)
 - [Bump actions](https://github.com/MetaMask/metamask-mobile/pull/5144) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [make replacement case insensitive](https://github.com/rickycodes/pve-no-subscription/pull/8) on [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) (2 weeks ago)
 - [Add slack-github-action](https://github.com/MetaMask/controllers/pull/928) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
-- [Move scripts to matrix](https://github.com/MetaMask/metamask-mobile/pull/5076) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
