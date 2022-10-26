@@ -33,7 +33,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [remove set-output](https://github.com/MetaMask/action-create-release-pr/pull/100) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (today)
+- [Remove `set-output`](https://github.com/MetaMask/action-create-release-pr/pull/100) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (today)
 - [upgrade yarn to version 3](https://github.com/MetaMask/metamask-mobile/pull/5147) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [Bump actions](https://github.com/MetaMask/action-create-release-pr/pull/98) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (1 day ago)
 - [Bump actions](https://github.com/MetaMask/action-publish-release/pull/53) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (1 day ago)
