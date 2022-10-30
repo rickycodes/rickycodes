@@ -6,11 +6,11 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests. (2 days ago)
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 days ago)
-- [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) -  (2 days ago)
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (2 days ago)
-- [rickycodes/win98config](https://github.com/rickycodes/win98config) -  (3 days ago)
+- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests. (3 days ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 days ago)
+- [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) -  (3 days ago)
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (3 days ago)
+- [rickycodes/win98config](https://github.com/rickycodes/win98config) -  (4 days ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -24,20 +24,20 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.21.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.21.0), today) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.9.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.9.0), 2 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) ([v1.0.4](https://github.com/MetaMask/action-require-additional-reviewer/releases/tag/v1.0.4), 3 days ago) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests.
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.0.1](https://github.com/MetaMask/action-publish-release/releases/tag/v2.0.1), 3 days ago) - 
-- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.22.3](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.22.3), 4 days ago) - Monorepo for Snaps dependencies.
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.21.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.21.0), 1 day ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.9.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.9.0), 3 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) ([v1.0.4](https://github.com/MetaMask/action-require-additional-reviewer/releases/tag/v1.0.4), 4 days ago) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests.
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.0.1](https://github.com/MetaMask/action-publish-release/releases/tag/v2.0.1), 4 days ago) - 
+- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.22.3](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.22.3), 5 days ago) - Monorepo for Snaps dependencies.
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Remove `set-output`](https://github.com/MetaMask/action-publish-release/pull/55) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (2 days ago)
-- [Remove `set-output`](https://github.com/MetaMask/action-require-additional-reviewer/pull/49) on [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) (2 days ago)
-- [Remove `set-output`](https://github.com/MetaMask/action-create-release-pr/pull/100) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (3 days ago)
-- [upgrade yarn to version 3](https://github.com/MetaMask/metamask-mobile/pull/5147) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
-- [Bump actions](https://github.com/MetaMask/action-create-release-pr/pull/98) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (4 days ago)
+- [Remove `set-output`](https://github.com/MetaMask/action-publish-release/pull/55) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (3 days ago)
+- [Remove `set-output`](https://github.com/MetaMask/action-require-additional-reviewer/pull/49) on [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) (3 days ago)
+- [Remove `set-output`](https://github.com/MetaMask/action-create-release-pr/pull/100) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (4 days ago)
+- [upgrade yarn to version 3](https://github.com/MetaMask/metamask-mobile/pull/5147) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 days ago)
+- [Bump actions](https://github.com/MetaMask/action-create-release-pr/pull/98) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (5 days ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
