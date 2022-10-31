@@ -6,10 +6,10 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests. (4 days ago)
+- [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) -  (today)
+- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests. (today)
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (today)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (4 days ago)
-- [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) -  (4 days ago)
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (4 days ago)
 - [rickycodes/win98config](https://github.com/rickycodes/win98config) -  (5 days ago)
 </details>
 
@@ -24,11 +24,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) ([v1.0.5](https://github.com/MetaMask/action-require-additional-reviewer/releases/tag/v1.0.5), today) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests.
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.0.2](https://github.com/MetaMask/action-publish-release/releases/tag/v2.0.2), today) - 
+- [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) ([v1.4.2](https://github.com/MetaMask/action-create-release-pr/releases/tag/v1.4.2), today) - 
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.21.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.21.0), 2 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.9.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.9.0), 4 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) ([v1.0.4](https://github.com/MetaMask/action-require-additional-reviewer/releases/tag/v1.0.4), 5 days ago) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests.
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.0.1](https://github.com/MetaMask/action-publish-release/releases/tag/v2.0.1), 5 days ago) - 
-- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.22.3](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.22.3), 6 days ago) - Monorepo for Snaps dependencies.
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
