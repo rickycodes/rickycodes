@@ -6,11 +6,11 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/win98config](https://github.com/rickycodes/win98config) -  (today)
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (1 day ago)
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (2 days ago)
-- [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) -  (3 days ago)
-- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests. (3 days ago)
+- [rickycodes/win98config](https://github.com/rickycodes/win98config) -  (1 day ago)
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (2 days ago)
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (3 days ago)
+- [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) -  (4 days ago)
+- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests. (4 days ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -24,18 +24,18 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.21.1](https://github.com/MetaMask/metamask-extension/releases/tag/v10.21.1), 3 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) ([v1.4.3](https://github.com/MetaMask/action-create-release-pr/releases/tag/v1.4.3), 3 days ago) - 
-- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) ([v1.0.5](https://github.com/MetaMask/action-require-additional-reviewer/releases/tag/v1.0.5), 3 days ago) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests.
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.0.2](https://github.com/MetaMask/action-publish-release/releases/tag/v2.0.2), 3 days ago) - 
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.21.1](https://github.com/MetaMask/metamask-extension/releases/tag/v10.21.1), 4 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) ([v1.4.3](https://github.com/MetaMask/action-create-release-pr/releases/tag/v1.4.3), 4 days ago) - 
+- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) ([v1.0.5](https://github.com/MetaMask/action-require-additional-reviewer/releases/tag/v1.0.5), 4 days ago) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests.
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.0.2](https://github.com/MetaMask/action-publish-release/releases/tag/v2.0.2), 4 days ago) - 
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.9.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.9.0), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Feature/slack announce](https://github.com/MetaMask/action-npm-publish/pull/9) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (today)
-- [Bump actions](https://github.com/MetaMask/controllers/pull/946) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (3 days ago)
-- [Bump `@actions/core`](https://github.com/MetaMask/action-create-release-pr/pull/102) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (3 days ago)
+- [Feature/slack announce](https://github.com/MetaMask/action-npm-publish/pull/9) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 day ago)
+- [Bump actions](https://github.com/MetaMask/controllers/pull/946) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (4 days ago)
+- [Bump `@actions/core`](https://github.com/MetaMask/action-create-release-pr/pull/102) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (4 days ago)
 - [Remove `set-output`](https://github.com/MetaMask/action-publish-release/pull/55) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (1 week ago)
 - [Remove `set-output`](https://github.com/MetaMask/action-require-additional-reviewer/pull/49) on [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) (1 week ago)
 </details>
