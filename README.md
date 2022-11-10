@@ -24,11 +24,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.1.0](https://github.com/MetaMask/action-publish-release/releases/tag/v2.1.0), today) - 
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v2.0.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v2.0.0), today) - GitHub Action to publish to NPM
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.9.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.9.1), 1 day ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v33.0.0](https://github.com/MetaMask/controllers/releases/tag/v33.0.0), 2 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.21.2](https://github.com/MetaMask/metamask-extension/releases/tag/v10.21.2), 3 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.23.0](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.23.0), 3 days ago) - Monorepo for Snaps dependencies.
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
