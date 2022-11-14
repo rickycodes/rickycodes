@@ -10,7 +10,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [rickycodes/win98config](https://github.com/rickycodes/win98config) -  (1 week ago)
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (1 week ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 week ago)
-- [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) -  (2 weeks ago)
+- [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests. (2 weeks ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
