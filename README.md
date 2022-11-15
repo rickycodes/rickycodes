@@ -9,7 +9,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 week ago)
 - [rickycodes/win98config](https://github.com/rickycodes/win98config) -  (1 week ago)
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (1 week ago)
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (1 week ago)
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (2 weeks ago)
 - [MetaMask/action-require-additional-reviewer](https://github.com/MetaMask/action-require-additional-reviewer) - A GitHub Action that can be used to require additional reviewers of automatically created Pull Requests. (2 weeks ago)
 </details>
 
@@ -24,16 +24,16 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.10.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.10.0), today) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.22.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.22.0), 3 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.1.0](https://github.com/MetaMask/action-publish-release/releases/tag/v2.1.0), 4 days ago) - 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v2.0.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v2.0.0), 4 days ago) - GitHub Action to publish to NPM
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v33.0.0](https://github.com/MetaMask/controllers/releases/tag/v33.0.0), 6 days ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.10.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.10.0), 1 day ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.22.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.22.0), 4 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.1.0](https://github.com/MetaMask/action-publish-release/releases/tag/v2.1.0), 5 days ago) - 
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v2.0.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v2.0.0), 5 days ago) - GitHub Action to publish to NPM
+- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v33.0.0](https://github.com/MetaMask/controllers/releases/tag/v33.0.0), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Require clean working directory](https://github.com/MetaMask/metamask-mobile/pull/5240) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
+- [Require clean working directory](https://github.com/MetaMask/metamask-mobile/pull/5240) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 day ago)
 - [Feature/slack announce](https://github.com/MetaMask/action-npm-publish/pull/9) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
 - [Bump actions](https://github.com/MetaMask/controllers/pull/946) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (2 weeks ago)
 - [Bump `@actions/core`](https://github.com/MetaMask/action-create-release-pr/pull/102) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (2 weeks ago)
