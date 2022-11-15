@@ -24,11 +24,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) ([v3.0.0](https://github.com/MetaMask/smart-transactions-controller/releases/tag/v3.0.0), today) - 
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.10.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.10.0), 1 day ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.22.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.22.0), 4 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v2.1.0](https://github.com/MetaMask/action-publish-release/releases/tag/v2.1.0), 5 days ago) - 
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v2.0.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v2.0.0), 5 days ago) - GitHub Action to publish to NPM
-- [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v33.0.0](https://github.com/MetaMask/controllers/releases/tag/v33.0.0), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
