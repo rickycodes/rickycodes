@@ -6,7 +6,7 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 week ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (today)
 - [rickycodes/win98config](https://github.com/rickycodes/win98config) -  (1 week ago)
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (2 weeks ago)
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets (2 weeks ago)
