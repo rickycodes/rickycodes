@@ -9,13 +9,13 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 day ago)
 - [MetaMask/react-native-aes-crypto-forked](https://github.com/MetaMask/react-native-aes-crypto-forked) -  (4 days ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 week ago)
-- [rickycodes/win98config](https://github.com/rickycodes/win98config) -  (3 weeks ago)
+- [rickycodes/win98config](https://github.com/rickycodes/win98config) - Example multi-boot setup for window98 (3 weeks ago)
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) -  (3 weeks ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
 
-- [rickycodes/win98config](https://github.com/rickycodes/win98config) - 
+- [rickycodes/win98config](https://github.com/rickycodes/win98config) - Example multi-boot setup for window98
 - [rickycodes/kitties](https://github.com/rickycodes/kitties) - micro site to browse CryptoKitties
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal
 - [rickycodes/ftse-rs](https://github.com/rickycodes/ftse-rs) - scrape and filter hl.co.uk market summaries
