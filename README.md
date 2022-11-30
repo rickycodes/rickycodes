@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [use npm for dependencies](https://github.com/MetaMask/metamask-mobile/pull/5324) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Require clean working directory](https://github.com/MetaMask/metamask-mobile/pull/5240) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 weeks ago)
 - [Feature/slack announce](https://github.com/MetaMask/action-npm-publish/pull/9) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 weeks ago)
 - [Bump actions](https://github.com/MetaMask/controllers/pull/946) on [MetaMask/controllers](https://github.com/MetaMask/controllers) (1 month ago)
 - [Bump `@actions/core`](https://github.com/MetaMask/action-create-release-pr/pull/102) on [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) (1 month ago)
-- [Remove `set-output`](https://github.com/MetaMask/action-publish-release/pull/55) on [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) (1 month ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
