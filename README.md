@@ -6,11 +6,11 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 day ago)
+- [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (1 day ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (6 days ago)
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (2 weeks ago)
 - [MetaMask/react-native-aes-crypto-forked](https://github.com/MetaMask/react-native-aes-crypto-forked) -  (3 weeks ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (4 weeks ago)
-- [rickycodes/win98config](https://github.com/rickycodes/win98config) - Example multi-boot setup for window98 (1 month ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
