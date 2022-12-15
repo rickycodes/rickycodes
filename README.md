@@ -6,7 +6,7 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (2 days ago)
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (today)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (2 days ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (1 week ago)
 - [MetaMask/react-native-aes-crypto-forked](https://github.com/MetaMask/react-native-aes-crypto-forked) -  (3 weeks ago)
@@ -24,11 +24,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v2.1.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v2.1.0), today) - GitHub Action to publish to NPM
 - [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.26.2](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.26.2), 2 days ago) - Monorepo for Snaps dependencies.
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.12.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.12.1), 3 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.23.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.23.0), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/controllers](https://github.com/MetaMask/controllers) ([v37.0.0](https://github.com/MetaMask/controllers/releases/tag/v37.0.0), 1 week ago) - Collection of platform-agnostic modules for creating secure data models for cryptocurrency wallets
-- [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) ([v2.1.0](https://github.com/MetaMask/contract-metadata/releases/tag/v2.1.0), 3 weeks ago) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses.
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
