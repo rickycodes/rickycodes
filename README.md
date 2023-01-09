@@ -33,7 +33,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [remove extra zero balance account potentially created from seeking ahead](https://github.com/MetaMask/metamask-mobile/pull/5459) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 days ago)
+- [remove extra zero balance account potentially created from seeking ahead](https://github.com/MetaMask/metamask-mobile/pull/5459) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
 - [Use SHA instead of tag for action consumption](https://github.com/MetaMask/action-npm-publish/pull/21) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 weeks ago)
 - [Add step to &#34;Update shorthand major version tag&#34;](https://github.com/MetaMask/action-npm-publish/pull/20) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 weeks ago)
 - [Add release workflows](https://github.com/MetaMask/action-npm-publish/pull/15) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 weeks ago)
