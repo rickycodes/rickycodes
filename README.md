@@ -24,11 +24,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) ([v2.2.0](https://github.com/MetaMask/contract-metadata/releases/tag/v2.2.0), today) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.23.3](https://github.com/MetaMask/metamask-extension/releases/tag/v10.23.3), 1 day ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/smart-transactions-controller](https://github.com/MetaMask/smart-transactions-controller) ([v3.1.0](https://github.com/MetaMask/smart-transactions-controller/releases/tag/v3.1.0), 1 day ago) - 
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v5.12.3](https://github.com/MetaMask/metamask-mobile/releases/tag/v5.12.3), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v3.0.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v3.0.0), 2 weeks ago) - GitHub Action to publish to NPM
-- [MetaMask/core](https://github.com/MetaMask/core) ([v38.0.0](https://github.com/MetaMask/core/releases/tag/v38.0.0), 3 weeks ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
