@@ -24,9 +24,9 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/core](https://github.com/MetaMask/core) ([v43.0.0](https://github.com/MetaMask/core/releases/tag/v43.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.30.0](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.30.0), today) - Monorepo for Snaps dependencies.
 - [rickycodes/misterfpga_font_randomizer](https://github.com/rickycodes/misterfpga_font_randomizer) ([v1.0.0](https://github.com/rickycodes/misterfpga_font_randomizer/releases/tag/v1.0.0), 4 days ago) - randomise the font setting for MiSTer FPGA
-- [MetaMask/core](https://github.com/MetaMask/core) ([v42.0.0](https://github.com/MetaMask/core/releases/tag/v42.0.0), 5 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.25.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.25.0), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-desktop](https://github.com/MetaMask/metamask-desktop) ([@metamask/desktop@0.2.0](https://github.com/MetaMask/metamask-desktop/releases/tag/%40metamask/desktop%400.2.0), 2 weeks ago) - 🖥️ The MetaMask Desktop app is a companion app that improves the overall performance of the MetaMask Extension Flask build
 </details>
