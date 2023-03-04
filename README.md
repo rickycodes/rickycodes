@@ -6,7 +6,7 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/misterfpga_font_randomizer](https://github.com/rickycodes/misterfpga_font_randomizer) - randomise the font setting for MiSTer FPGA (3 days ago)
+- [rickycodes/misterfpga_font_randomizer](https://github.com/rickycodes/misterfpga_font_randomizer) - randomise the font setting for MiSTer FPGA (4 days ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 month ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (2 months ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (2 months ago)
@@ -24,11 +24,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-desktop](https://github.com/MetaMask/metamask-desktop) ([@metamask/desktop@0.3.0](https://github.com/MetaMask/metamask-desktop/releases/tag/%40metamask/desktop%400.3.0), 4 days ago) - 🖥️ The MetaMask Desktop app is a companion app that improves the overall performance of the MetaMask Extension Flask build
+- [MetaMask/metamask-desktop](https://github.com/MetaMask/metamask-desktop) ([@metamask/desktop@0.3.0](https://github.com/MetaMask/metamask-desktop/releases/tag/%40metamask/desktop%400.3.0), 5 days ago) - 🖥️ The MetaMask Desktop app is a companion app that improves the overall performance of the MetaMask Extension Flask build
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.0.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.0.1), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/core](https://github.com/MetaMask/core) ([v43.0.0](https://github.com/MetaMask/core/releases/tag/v43.0.0), 1 week ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.30.0](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.30.0), 1 week ago) - Monorepo for Snaps dependencies.
-- [rickycodes/misterfpga_font_randomizer](https://github.com/rickycodes/misterfpga_font_randomizer) ([v1.0.0](https://github.com/rickycodes/misterfpga_font_randomizer/releases/tag/v1.0.0), 1 week ago) - randomise the font setting for MiSTer FPGA
+- [rickycodes/misterfpga_font_randomizer](https://github.com/rickycodes/misterfpga_font_randomizer) ([v1.0.0](https://github.com/rickycodes/misterfpga_font_randomizer/releases/tag/v1.0.0), 2 weeks ago) - randomise the font setting for MiSTer FPGA
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
