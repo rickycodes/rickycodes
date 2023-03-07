@@ -6,7 +6,7 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/misterfpga_font_randomizer](https://github.com/rickycodes/misterfpga_font_randomizer) - randomise the font setting for MiSTer FPGA (2 days ago)
+- [rickycodes/misterfpga_font_randomizer](https://github.com/rickycodes/misterfpga_font_randomizer) - randomise the font setting for MiSTer FPGA (3 days ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (1 month ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (2 months ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (2 months ago)
@@ -33,7 +33,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [remove extra zero balance account potentially created from seeking ahead](https://github.com/MetaMask/metamask-mobile/pull/5459) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 month ago)
+- [remove extra zero balance account potentially created from seeking ahead](https://github.com/MetaMask/metamask-mobile/pull/5459) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 months ago)
 - [Use SHA instead of tag for action consumption](https://github.com/MetaMask/action-npm-publish/pull/21) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
 - [Add step to &#34;Update shorthand major version tag&#34;](https://github.com/MetaMask/action-npm-publish/pull/20) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
 - [Add release workflows](https://github.com/MetaMask/action-npm-publish/pull/15) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
