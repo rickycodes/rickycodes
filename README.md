@@ -9,7 +9,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [rickycodes/misterfpga_font_randomizer](https://github.com/rickycodes/misterfpga_font_randomizer) - randomise the font setting for MiSTer FPGA (1 week ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 months ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (2 months ago)
-- [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (2 months ago)
+- [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (3 months ago)
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites (3 months ago)
 </details>
 
@@ -24,7 +24,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-desktop](https://github.com/MetaMask/metamask-desktop) ([@metamask/desktop@0.3.0](https://github.com/MetaMask/metamask-desktop/releases/tag/%40metamask/desktop%400.3.0), 1 week ago) - 🖥️ The MetaMask Desktop app is a companion app that improves the overall performance of the MetaMask Extension Flask build
+- [MetaMask/metamask-desktop](https://github.com/MetaMask/metamask-desktop) ([@metamask/desktop@0.3.0](https://github.com/MetaMask/metamask-desktop/releases/tag/%40metamask/desktop%400.3.0), 2 weeks ago) - 🖥️ The MetaMask Desktop app is a companion app that improves the overall performance of the MetaMask Extension Flask build
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.0.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.0.1), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/core](https://github.com/MetaMask/core) ([v43.0.0](https://github.com/MetaMask/core/releases/tag/v43.0.0), 2 weeks ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.30.0](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.30.0), 2 weeks ago) - Monorepo for Snaps dependencies.
@@ -36,7 +36,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [remove extra zero balance account potentially created from seeking ahead](https://github.com/MetaMask/metamask-mobile/pull/5459) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (2 months ago)
 - [Use SHA instead of tag for action consumption](https://github.com/MetaMask/action-npm-publish/pull/21) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
 - [Add step to &#34;Update shorthand major version tag&#34;](https://github.com/MetaMask/action-npm-publish/pull/20) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
-- [Add release workflows](https://github.com/MetaMask/action-npm-publish/pull/15) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
+- [Add release workflows](https://github.com/MetaMask/action-npm-publish/pull/15) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
 - [Use npm for dependencies](https://github.com/MetaMask/metamask-mobile/pull/5324) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 months ago)
 </details>
 
