@@ -24,7 +24,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.26.2](https://github.com/MetaMask/metamask-extension/releases/tag/v10.26.2), 4 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.27.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.27.0), today) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) ([v2.3.1](https://github.com/MetaMask/contract-metadata/releases/tag/v2.3.1), 1 week ago) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses.
 - [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.31.0](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.31.0), 1 week ago) - Monorepo for Snaps dependencies.
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.1.2](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.1.2), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
