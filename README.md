@@ -24,10 +24,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.32.0](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.32.0), today) - Monorepo for Snaps dependencies.
-- [MetaMask/core](https://github.com/MetaMask/core) ([v44.0.0](https://github.com/MetaMask/core/releases/tag/v44.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.2.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.2.0), 5 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.27.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.27.0), 5 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.32.0](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.32.0), 1 day ago) - Monorepo for Snaps dependencies.
+- [MetaMask/core](https://github.com/MetaMask/core) ([v44.0.0](https://github.com/MetaMask/core/releases/tag/v44.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.2.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.2.0), 6 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.27.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.27.0), 6 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) ([v2.3.1](https://github.com/MetaMask/contract-metadata/releases/tag/v2.3.1), 1 week ago) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses.
 </details>
 
@@ -37,7 +37,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [Use SHA instead of tag for action consumption](https://github.com/MetaMask/action-npm-publish/pull/21) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
 - [Add step to &#34;Update shorthand major version tag&#34;](https://github.com/MetaMask/action-npm-publish/pull/20) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
 - [Add release workflows](https://github.com/MetaMask/action-npm-publish/pull/15) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
-- [Use npm for dependencies](https://github.com/MetaMask/metamask-mobile/pull/5324) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 months ago)
+- [Use npm for dependencies](https://github.com/MetaMask/metamask-mobile/pull/5324) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 months ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
