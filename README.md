@@ -6,7 +6,7 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/misterfpga_font_randomizer](https://github.com/rickycodes/misterfpga_font_randomizer) - randomise the font setting for MiSTer FPGA (4 weeks ago)
+- [rickycodes/misterfpga_font_randomizer](https://github.com/rickycodes/misterfpga_font_randomizer) - randomise the font setting for MiSTer FPGA (1 month ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 months ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (3 months ago)
 - [rickycodes/pve-no-subscription](https://github.com/rickycodes/pve-no-subscription) - Proxmox VE No-Subscription Removal (3 months ago)
@@ -24,8 +24,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.32.2](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.32.2), 3 days ago) - Monorepo for Snaps dependencies.
-- [MetaMask/core](https://github.com/MetaMask/core) ([v44.0.0](https://github.com/MetaMask/core/releases/tag/v44.0.0), 4 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.32.2](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.32.2), 4 days ago) - Monorepo for Snaps dependencies.
+- [MetaMask/core](https://github.com/MetaMask/core) ([v44.0.0](https://github.com/MetaMask/core/releases/tag/v44.0.0), 5 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.2.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.2.0), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.27.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.27.0), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/contract-metadata](https://github.com/MetaMask/contract-metadata) ([v2.3.1](https://github.com/MetaMask/contract-metadata/releases/tag/v2.3.1), 2 weeks ago) - A mapping of ethereum contract addresses to broadly accepted icons for those addresses.
