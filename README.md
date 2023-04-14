@@ -24,7 +24,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.28.3](https://github.com/MetaMask/metamask-extension/releases/tag/v10.28.3), 1 day ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.28.3](https://github.com/MetaMask/metamask-extension/releases/tag/v10.28.3), 2 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.3.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.3.0), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/core](https://github.com/MetaMask/core) ([v45.0.0](https://github.com/MetaMask/core/releases/tag/v45.0.0), 1 week ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v3.1.1](https://github.com/MetaMask/action-npm-publish/releases/tag/v3.1.1), 1 week ago) - GitHub Action to publish to NPM
@@ -34,8 +34,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
 - [remove extra zero balance account potentially created from seeking ahead](https://github.com/MetaMask/metamask-mobile/pull/5459) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 months ago)
-- [Use SHA instead of tag for action consumption](https://github.com/MetaMask/action-npm-publish/pull/21) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
-- [Add step to &#34;Update shorthand major version tag&#34;](https://github.com/MetaMask/action-npm-publish/pull/20) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
+- [Use SHA instead of tag for action consumption](https://github.com/MetaMask/action-npm-publish/pull/21) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
+- [Add step to &#34;Update shorthand major version tag&#34;](https://github.com/MetaMask/action-npm-publish/pull/20) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
 - [Add release workflows](https://github.com/MetaMask/action-npm-publish/pull/15) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
 - [Use npm for dependencies](https://github.com/MetaMask/metamask-mobile/pull/5324) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 months ago)
 </details>
