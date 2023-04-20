@@ -24,7 +24,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v46.0.0](https://github.com/MetaMask/core/releases/tag/v46.0.0), 6 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/core](https://github.com/MetaMask/core) ([v47.0.0](https://github.com/MetaMask/core/releases/tag/v47.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.28.3](https://github.com/MetaMask/metamask-extension/releases/tag/v10.28.3), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.3.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.3.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v3.1.1](https://github.com/MetaMask/action-npm-publish/releases/tag/v3.1.1), 2 weeks ago) - GitHub Action to publish to NPM
