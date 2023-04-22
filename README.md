@@ -6,7 +6,7 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/win98config](https://github.com/rickycodes/win98config) - Example multi-boot setup for window98 (6 days ago)
+- [rickycodes/win98config](https://github.com/rickycodes/win98config) - Example multi-boot setup for window98 (1 week ago)
 - [rickycodes/misterfpga_font_randomizer](https://github.com/rickycodes/misterfpga_font_randomizer) - randomise the font setting for MiSTer FPGA (1 month ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 months ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (4 months ago)
@@ -24,8 +24,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v48.0.0](https://github.com/MetaMask/core/releases/tag/v48.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.29.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.29.0), 1 day ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/core](https://github.com/MetaMask/core) ([v48.0.0](https://github.com/MetaMask/core/releases/tag/v48.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.29.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.29.0), 2 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.3.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.3.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v3.1.1](https://github.com/MetaMask/action-npm-publish/releases/tag/v3.1.1), 2 weeks ago) - GitHub Action to publish to NPM
 - [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) ([v1.5.0](https://github.com/MetaMask/action-create-release-pr/releases/tag/v1.5.0), 2 weeks ago) - 
