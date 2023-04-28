@@ -24,9 +24,9 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.4.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.4.0), today) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/core](https://github.com/MetaMask/core) ([v49.0.0](https://github.com/MetaMask/core/releases/tag/v49.0.0), 2 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.29.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.29.0), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.3.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.3.0), 3 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v3.1.1](https://github.com/MetaMask/action-npm-publish/releases/tag/v3.1.1), 3 weeks ago) - GitHub Action to publish to NPM
 - [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) ([v1.5.0](https://github.com/MetaMask/action-create-release-pr/releases/tag/v1.5.0), 3 weeks ago) - 
 </details>
