@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Update publish-release.yml](https://github.com/MetaMask/core/pull/1328) on [MetaMask/core](https://github.com/MetaMask/core) (today)
 - [remove extra zero balance account potentially created from seeking ahead](https://github.com/MetaMask/metamask-mobile/pull/5459) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 months ago)
 - [Use SHA instead of tag for action consumption](https://github.com/MetaMask/action-npm-publish/pull/21) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
 - [Add step to &#34;Update shorthand major version tag&#34;](https://github.com/MetaMask/action-npm-publish/pull/20) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
 - [Add release workflows](https://github.com/MetaMask/action-npm-publish/pull/15) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
-- [Use npm for dependencies](https://github.com/MetaMask/metamask-mobile/pull/5324) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (5 months ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
