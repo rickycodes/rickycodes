@@ -33,7 +33,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Improvements](https://github.com/MetaMask/action-npm-publish/pull/37) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 days ago)
+- [Add options for customising Slack announce message](https://github.com/MetaMask/action-npm-publish/pull/37) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 days ago)
 - [Use MetaMaskBot avatar for `icon_url` in Slack message](https://github.com/MetaMask/action-npm-publish/pull/36) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 days ago)
 - [announce on the dry-run, not the actual deploy](https://github.com/MetaMask/core/pull/1332) on [MetaMask/core](https://github.com/MetaMask/core) (6 days ago)
 - [Update publish-release.yml](https://github.com/MetaMask/core/pull/1328) on [MetaMask/core](https://github.com/MetaMask/core) (1 week ago)
