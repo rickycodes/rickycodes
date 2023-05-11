@@ -24,10 +24,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.33.1-flask.1](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.33.1-flask.1), today) - Monorepo for Snaps dependencies.
 - [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) ([v2.0.0](https://github.com/MetaMask/action-create-release-pr/releases/tag/v2.0.0), 1 day ago) - 
 - [MetaMask/core](https://github.com/MetaMask/core) ([v52.0.0](https://github.com/MetaMask/core/releases/tag/v52.0.0), 2 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.30.1](https://github.com/MetaMask/metamask-extension/releases/tag/v10.30.1), 6 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.33.0-flask.1](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.33.0-flask.1), 1 week ago) - Monorepo for Snaps dependencies.
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v3.0.0](https://github.com/MetaMask/action-publish-release/releases/tag/v3.0.0), 1 week ago) - 
 </details>
 
