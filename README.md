@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Remove `target-name-text` step](https://github.com/MetaMask/action-npm-publish/pull/39) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (today)
 - [Add options for customising Slack announce message](https://github.com/MetaMask/action-npm-publish/pull/37) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 days ago)
 - [Use MetaMaskBot avatar for `icon_url` in Slack message](https://github.com/MetaMask/action-npm-publish/pull/36) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (6 days ago)
 - [announce on the dry-run, not the actual deploy](https://github.com/MetaMask/core/pull/1332) on [MetaMask/core](https://github.com/MetaMask/core) (1 week ago)
 - [Update publish-release.yml](https://github.com/MetaMask/core/pull/1328) on [MetaMask/core](https://github.com/MetaMask/core) (1 week ago)
-- [remove extra zero balance account potentially created from seeking ahead](https://github.com/MetaMask/metamask-mobile/pull/5459) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 months ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
