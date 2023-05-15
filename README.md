@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Add Slack webhook config](https://github.com/MetaMask/metamask-module-template/pull/196) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (today)
 - [Add new input to support customising the Slack channel](https://github.com/MetaMask/action-npm-publish/pull/40) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 days ago)
 - [Re-enable the slack bot](https://github.com/MetaMask/core/pull/1368) on [MetaMask/core](https://github.com/MetaMask/core) (3 days ago)
 - [Remove `target-name-text` step](https://github.com/MetaMask/action-npm-publish/pull/39) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 days ago)
 - [Add options for customising Slack announce message](https://github.com/MetaMask/action-npm-publish/pull/37) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (6 days ago)
-- [Use MetaMaskBot avatar for `icon_url` in Slack message](https://github.com/MetaMask/action-npm-publish/pull/36) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
