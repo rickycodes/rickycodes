@@ -24,7 +24,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.30.3](https://github.com/MetaMask/metamask-extension/releases/tag/v10.30.3), 1 day ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.30.4](https://github.com/MetaMask/metamask-extension/releases/tag/v10.30.4), today) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v3.2.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v3.2.0), 4 days ago) - GitHub Action to publish to NPM
 - [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.33.1-flask.1](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.33.1-flask.1), 5 days ago) - Monorepo for Snaps dependencies.
 - [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) ([v2.0.0](https://github.com/MetaMask/action-create-release-pr/releases/tag/v2.0.0), 6 days ago) - 
