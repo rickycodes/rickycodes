@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Remove restore build](https://github.com/MetaMask/metamask-mobile/pull/6442) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (today)
 - [Add Slack webhook config](https://github.com/MetaMask/metamask-module-template/pull/196) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (4 days ago)
 - [Add new input to support customising the Slack channel](https://github.com/MetaMask/action-npm-publish/pull/40) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
 - [Re-enable the slack bot](https://github.com/MetaMask/core/pull/1368) on [MetaMask/core](https://github.com/MetaMask/core) (1 week ago)
 - [Remove `target-name-text` step](https://github.com/MetaMask/action-npm-publish/pull/39) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
-- [Add options for customising Slack announce message](https://github.com/MetaMask/action-npm-publish/pull/37) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
