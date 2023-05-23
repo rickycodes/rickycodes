@@ -24,16 +24,16 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.30.4](https://github.com/MetaMask/metamask-extension/releases/tag/v10.30.4), 6 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.30.4](https://github.com/MetaMask/metamask-extension/releases/tag/v10.30.4), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v3.2.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v3.2.0), 1 week ago) - GitHub Action to publish to NPM
 - [MetaMask/snaps-monorepo](https://github.com/MetaMask/snaps-monorepo) ([v0.33.1-flask.1](https://github.com/MetaMask/snaps-monorepo/releases/tag/v0.33.1-flask.1), 1 week ago) - Monorepo for Snaps dependencies.
 - [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) ([v2.0.0](https://github.com/MetaMask/action-create-release-pr/releases/tag/v2.0.0), 1 week ago) - 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v52.0.0](https://github.com/MetaMask/core/releases/tag/v52.0.0), 1 week ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/core](https://github.com/MetaMask/core) ([v52.0.0](https://github.com/MetaMask/core/releases/tag/v52.0.0), 2 weeks ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [feat(ci): Remove `restore-build` steps](https://github.com/MetaMask/metamask-mobile/pull/6442) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (3 days ago)
+- [feat(ci): Remove `restore-build` steps](https://github.com/MetaMask/metamask-mobile/pull/6442) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (4 days ago)
 - [Add Slack webhook config](https://github.com/MetaMask/metamask-module-template/pull/196) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (1 week ago)
 - [Add new input to support customising the Slack channel](https://github.com/MetaMask/action-npm-publish/pull/40) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
 - [Re-enable the slack bot](https://github.com/MetaMask/core/pull/1368) on [MetaMask/core](https://github.com/MetaMask/core) (1 week ago)
