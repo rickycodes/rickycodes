@@ -7,9 +7,9 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (today)
+- [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (today)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 days ago)
 - [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (1 week ago)
-- [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (2 weeks ago)
 - [rickycodes/win98config](https://github.com/rickycodes/win98config) - Example multi-boot setup for window98 (1 month ago)
 </details>
 
