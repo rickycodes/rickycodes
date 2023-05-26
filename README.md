@@ -24,11 +24,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/core](https://github.com/MetaMask/core) ([v53.0.0](https://github.com/MetaMask/core/releases/tag/v53.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.5.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.5.0), today) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.31.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.31.0), today) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-desktop](https://github.com/MetaMask/metamask-desktop) ([v0.1.0](https://github.com/MetaMask/metamask-desktop/releases/tag/v0.1.0), today) - 🖥️ The MetaMask Desktop app is a companion app that improves the overall performance of the MetaMask Extension Flask build
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v3.2.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v3.2.0), 2 weeks ago) - GitHub Action to publish to NPM
-- [MetaMask/snaps](https://github.com/MetaMask/snaps) ([v0.33.1-flask.1](https://github.com/MetaMask/snaps/releases/tag/v0.33.1-flask.1), 2 weeks ago) - Extend the functionality of MetaMask using Snaps
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
