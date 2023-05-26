@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Improve dry run output](https://github.com/MetaMask/action-npm-publish/pull/42) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (today)
 - [only run `final-text` if `slack-webhook-url` is defined](https://github.com/MetaMask/action-npm-publish/pull/41) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 days ago)
 - [fix(ci): Remove `restore-build` steps](https://github.com/MetaMask/metamask-mobile/pull/6442) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
 - [Add Slack webhook config](https://github.com/MetaMask/metamask-module-template/pull/196) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (1 week ago)
 - [Add new input to support customising the Slack channel](https://github.com/MetaMask/action-npm-publish/pull/40) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 weeks ago)
-- [Re-enable the slack bot](https://github.com/MetaMask/core/pull/1368) on [MetaMask/core](https://github.com/MetaMask/core) (2 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
