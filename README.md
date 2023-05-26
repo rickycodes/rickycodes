@@ -6,7 +6,7 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (2 days ago)
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (today)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 days ago)
 - [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (1 week ago)
 - [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (2 weeks ago)
@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [4.0.0](https://github.com/MetaMask/action-npm-publish/pull/46) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (today)
+- [Add functionality for subteams](https://github.com/MetaMask/action-npm-publish/pull/44) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (today)
 - [Improve dry run output](https://github.com/MetaMask/action-npm-publish/pull/42) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (today)
 - [only run `final-text` if `slack-webhook-url` is defined](https://github.com/MetaMask/action-npm-publish/pull/41) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 days ago)
 - [fix(ci): Remove `restore-build` steps](https://github.com/MetaMask/metamask-mobile/pull/6442) on [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) (1 week ago)
-- [Add Slack webhook config](https://github.com/MetaMask/metamask-module-template/pull/196) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (1 week ago)
-- [Add new input to support customising the Slack channel](https://github.com/MetaMask/action-npm-publish/pull/40) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 weeks ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
