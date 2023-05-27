@@ -6,9 +6,9 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (today)
-- [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (today)
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 days ago)
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 day ago)
+- [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (1 day ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (4 days ago)
 - [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (1 week ago)
 - [rickycodes/win98config](https://github.com/rickycodes/win98config) - Example multi-boot setup for window98 (1 month ago)
 </details>
@@ -24,20 +24,20 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v4.0.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v4.0.0), today) - GitHub Action to publish to NPM
-- [MetaMask/core](https://github.com/MetaMask/core) ([v53.0.0](https://github.com/MetaMask/core/releases/tag/v53.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.5.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.5.0), today) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.31.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.31.0), today) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/metamask-desktop](https://github.com/MetaMask/metamask-desktop) ([v0.1.0](https://github.com/MetaMask/metamask-desktop/releases/tag/v0.1.0), today) - 🖥️ The MetaMask Desktop app is a companion app that improves the overall performance of the MetaMask Extension Flask build
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v4.0.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v4.0.0), 1 day ago) - GitHub Action to publish to NPM
+- [MetaMask/core](https://github.com/MetaMask/core) ([v53.0.0](https://github.com/MetaMask/core/releases/tag/v53.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.5.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.5.0), 1 day ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.31.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.31.0), 1 day ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-desktop](https://github.com/MetaMask/metamask-desktop) ([v0.1.0](https://github.com/MetaMask/metamask-desktop/releases/tag/v0.1.0), 1 day ago) - 🖥️ The MetaMask Desktop app is a companion app that improves the overall performance of the MetaMask Extension Flask build
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Make use of the new subteam functionality](https://github.com/MetaMask/core/pull/1398) on [MetaMask/core](https://github.com/MetaMask/core) (today)
-- [4.0.0](https://github.com/MetaMask/action-npm-publish/pull/46) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (today)
-- [Add functionality for subteams](https://github.com/MetaMask/action-npm-publish/pull/44) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (today)
-- [Improve dry run output](https://github.com/MetaMask/action-npm-publish/pull/42) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (today)
-- [only run `final-text` if `slack-webhook-url` is defined](https://github.com/MetaMask/action-npm-publish/pull/41) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 days ago)
+- [Make use of the new subteam functionality](https://github.com/MetaMask/core/pull/1398) on [MetaMask/core](https://github.com/MetaMask/core) (1 day ago)
+- [4.0.0](https://github.com/MetaMask/action-npm-publish/pull/46) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 day ago)
+- [Add functionality for subteams](https://github.com/MetaMask/action-npm-publish/pull/44) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 day ago)
+- [Improve dry run output](https://github.com/MetaMask/action-npm-publish/pull/42) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 day ago)
+- [only run `final-text` if `slack-webhook-url` is defined](https://github.com/MetaMask/action-npm-publish/pull/41) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 days ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
