@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Make use of the new subteam functionality](https://github.com/MetaMask/metamask-module-template/pull/200) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (today)
+- [Make use of the new subteam functionality](https://github.com/MetaMask/KeyringController/pull/232) on [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) (today)
 - [Make use of the new subteam functionality](https://github.com/MetaMask/core/pull/1398) on [MetaMask/core](https://github.com/MetaMask/core) (1 day ago)
 - [4.0.0](https://github.com/MetaMask/action-npm-publish/pull/46) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 day ago)
 - [Add functionality for subteams](https://github.com/MetaMask/action-npm-publish/pull/44) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 day ago)
-- [Improve dry run output](https://github.com/MetaMask/action-npm-publish/pull/42) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 day ago)
-- [only run `final-text` if `slack-webhook-url` is defined](https://github.com/MetaMask/action-npm-publish/pull/41) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 days ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
