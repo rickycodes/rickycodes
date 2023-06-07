@@ -24,10 +24,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v55.0.0](https://github.com/MetaMask/core/releases/tag/v55.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.31.1](https://github.com/MetaMask/metamask-extension/releases/tag/v10.31.1), 4 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/snaps](https://github.com/MetaMask/snaps) ([v0.34.1-flask.1](https://github.com/MetaMask/snaps/releases/tag/v0.34.1-flask.1), 4 days ago) - Extend the functionality of MetaMask using Snaps
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.6.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.6.0), 5 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/core](https://github.com/MetaMask/core) ([v55.0.0](https://github.com/MetaMask/core/releases/tag/v55.0.0), 2 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.31.1](https://github.com/MetaMask/metamask-extension/releases/tag/v10.31.1), 5 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/snaps](https://github.com/MetaMask/snaps) ([v0.34.1-flask.1](https://github.com/MetaMask/snaps/releases/tag/v0.34.1-flask.1), 5 days ago) - Extend the functionality of MetaMask using Snaps
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v6.6.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v6.6.0), 6 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v11.0.0](https://github.com/MetaMask/KeyringController/releases/tag/v11.0.0), 1 week ago) - A module for managing groups of Ethereum accounts and using them.
 </details>
 
