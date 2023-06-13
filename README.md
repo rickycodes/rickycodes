@@ -10,7 +10,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) - A module for managing groups of Ethereum accounts and using them. (2 weeks ago)
 - [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (2 weeks ago)
 - [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (2 weeks ago)
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 weeks ago)
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (3 weeks ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
