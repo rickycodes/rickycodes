@@ -24,11 +24,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v63.0.0](https://github.com/MetaMask/core/releases/tag/v63.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v3.1.0](https://github.com/MetaMask/action-publish-release/releases/tag/v3.1.0), today) - 
+- [MetaMask/core](https://github.com/MetaMask/core) ([v64.0.0](https://github.com/MetaMask/core/releases/tag/v64.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v12.0.0](https://github.com/MetaMask/KeyringController/releases/tag/v12.0.0), 1 day ago) - A module for managing groups of Ethereum accounts and using them.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.33.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.33.0), 6 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.1.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.1.0), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/snaps](https://github.com/MetaMask/snaps) ([v0.35.2-flask.1](https://github.com/MetaMask/snaps/releases/tag/v0.35.2-flask.1), 1 week ago) - Extend the functionality of MetaMask using Snaps
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
