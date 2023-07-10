@@ -24,7 +24,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/snaps](https://github.com/MetaMask/snaps) ([v0.36.0-flask.1](https://github.com/MetaMask/snaps/releases/tag/v0.36.0-flask.1), today) - Extend the functionality of MetaMask using Snaps
+- [MetaMask/snaps](https://github.com/MetaMask/snaps) ([v0.36.1-flask.1](https://github.com/MetaMask/snaps/releases/tag/v0.36.1-flask.1), today) - Extend the functionality of MetaMask using Snaps
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.33.1](https://github.com/MetaMask/metamask-extension/releases/tag/v10.33.1), 3 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.2.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.2.0), 4 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v3.1.0](https://github.com/MetaMask/action-publish-release/releases/tag/v3.1.0), 4 days ago) - 
