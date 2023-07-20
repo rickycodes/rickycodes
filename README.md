@@ -24,7 +24,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/snaps](https://github.com/MetaMask/snaps) ([v1.0.0](https://github.com/MetaMask/snaps/releases/tag/v1.0.0), today) - Extend the functionality of MetaMask using Snaps
+- [MetaMask/snaps](https://github.com/MetaMask/snaps) ([v2.0.0](https://github.com/MetaMask/snaps/releases/tag/v2.0.0), today) - Extend the functionality of MetaMask using Snaps
 - [MetaMask/core](https://github.com/MetaMask/core) ([v67.0.0](https://github.com/MetaMask/core/releases/tag/v67.0.0), 2 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v13.0.0](https://github.com/MetaMask/KeyringController/releases/tag/v13.0.0), 2 days ago) - A module for managing groups of Ethereum accounts and using them.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.34.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.34.0), 6 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
