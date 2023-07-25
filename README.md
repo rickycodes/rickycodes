@@ -9,7 +9,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 month ago)
 - [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (1 month ago)
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) - A module for managing groups of Ethereum accounts and using them. (1 month ago)
-- [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (1 month ago)
+- [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (2 months ago)
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) - Mobile web browser providing access to websites that use the Ethereum blockchain (2 months ago)
 </details>
 
@@ -24,10 +24,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.3.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.3.0), today) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/snaps](https://github.com/MetaMask/snaps) ([v2.0.0](https://github.com/MetaMask/snaps/releases/tag/v2.0.0), 4 days ago) - Extend the functionality of MetaMask using Snaps
-- [MetaMask/core](https://github.com/MetaMask/core) ([v67.0.0](https://github.com/MetaMask/core/releases/tag/v67.0.0), 6 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v13.0.0](https://github.com/MetaMask/KeyringController/releases/tag/v13.0.0), 6 days ago) - A module for managing groups of Ethereum accounts and using them.
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.3.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.3.0), 1 day ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/snaps](https://github.com/MetaMask/snaps) ([v2.0.0](https://github.com/MetaMask/snaps/releases/tag/v2.0.0), 5 days ago) - Extend the functionality of MetaMask using Snaps
+- [MetaMask/core](https://github.com/MetaMask/core) ([v67.0.0](https://github.com/MetaMask/core/releases/tag/v67.0.0), 1 week ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v13.0.0](https://github.com/MetaMask/KeyringController/releases/tag/v13.0.0), 1 week ago) - A module for managing groups of Ethereum accounts and using them.
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v10.34.0](https://github.com/MetaMask/metamask-extension/releases/tag/v10.34.0), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 </details>
 
@@ -36,8 +36,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/48) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 month ago)
 - [Make use of the new subteam functionality](https://github.com/MetaMask/metamask-module-template/pull/200) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (1 month ago)
 - [Make use of the new subteam functionality](https://github.com/MetaMask/KeyringController/pull/232) on [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) (1 month ago)
-- [Make use of the new subteam functionality](https://github.com/MetaMask/core/pull/1398) on [MetaMask/core](https://github.com/MetaMask/core) (1 month ago)
-- [4.0.0](https://github.com/MetaMask/action-npm-publish/pull/46) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 month ago)
+- [Make use of the new subteam functionality](https://github.com/MetaMask/core/pull/1398) on [MetaMask/core](https://github.com/MetaMask/core) (2 months ago)
+- [4.0.0](https://github.com/MetaMask/action-npm-publish/pull/46) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
