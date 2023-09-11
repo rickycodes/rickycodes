@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/54) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (today)
 - [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/48) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
 - [Make use of the new subteam functionality](https://github.com/MetaMask/metamask-module-template/pull/200) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (3 months ago)
 - [Make use of the new subteam functionality](https://github.com/MetaMask/KeyringController/pull/232) on [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) (3 months ago)
 - [Make use of the new subteam functionality](https://github.com/MetaMask/core/pull/1398) on [MetaMask/core](https://github.com/MetaMask/core) (3 months ago)
-- [4.0.0](https://github.com/MetaMask/action-npm-publish/pull/46) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
