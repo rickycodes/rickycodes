@@ -6,7 +6,7 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (6 days ago)
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (today)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (1 week ago)
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) - A module for managing groups of Ethereum accounts and using them. (3 months ago)
 - [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (3 months ago)
@@ -33,11 +33,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/56) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (today)
 - [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/55) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
 - [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/54) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
 - [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/48) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
 - [Make use of the new subteam functionality](https://github.com/MetaMask/metamask-module-template/pull/200) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (3 months ago)
-- [Make use of the new subteam functionality](https://github.com/MetaMask/KeyringController/pull/232) on [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) (3 months ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
