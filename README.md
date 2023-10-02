@@ -6,7 +6,7 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 week ago)
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (2 weeks ago)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (3 weeks ago)
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) - A module for managing groups of Ethereum accounts and using them. (4 months ago)
 - [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (4 months ago)
@@ -24,18 +24,18 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v11.1.1](https://github.com/MetaMask/metamask-extension/releases/tag/v11.1.1), 2 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/core](https://github.com/MetaMask/core) ([v80.0.0](https://github.com/MetaMask/core/releases/tag/v80.0.0), 2 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v3.2.1](https://github.com/MetaMask/action-publish-release/releases/tag/v3.2.1), 2 days ago) - 
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v11.1.1](https://github.com/MetaMask/metamask-extension/releases/tag/v11.1.1), 3 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/core](https://github.com/MetaMask/core) ([v80.0.0](https://github.com/MetaMask/core/releases/tag/v80.0.0), 3 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v3.2.1](https://github.com/MetaMask/action-publish-release/releases/tag/v3.2.1), 3 days ago) - 
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.7.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.7.0), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v13.0.1](https://github.com/MetaMask/KeyringController/releases/tag/v13.0.1), 2 weeks ago) - A module for managing groups of Ethereum accounts and using them.
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/56) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
-- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/55) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 weeks ago)
-- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/54) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 weeks ago)
+- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/56) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 weeks ago)
+- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/55) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 weeks ago)
+- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/54) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 weeks ago)
 - [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/48) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
 - [Make use of the new subteam functionality](https://github.com/MetaMask/metamask-module-template/pull/200) on [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) (4 months ago)
 </details>
