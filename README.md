@@ -28,7 +28,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v11.1.2](https://github.com/MetaMask/metamask-extension/releases/tag/v11.1.2), 1 week ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.8.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.8.0), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v14.0.0](https://github.com/MetaMask/KeyringController/releases/tag/v14.0.0), 1 week ago) - A module for managing groups of Ethereum accounts and using them.
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v3.2.1](https://github.com/MetaMask/action-publish-release/releases/tag/v3.2.1), 1 week ago) - 
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v3.2.1](https://github.com/MetaMask/action-publish-release/releases/tag/v3.2.1), 2 weeks ago) - 
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
