@@ -24,11 +24,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v11.3.0](https://github.com/MetaMask/metamask-extension/releases/tag/v11.3.0), today) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/core](https://github.com/MetaMask/core) ([v82.0.0](https://github.com/MetaMask/core/releases/tag/v82.0.0), 6 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v11.3.0](https://github.com/MetaMask/metamask-extension/releases/tag/v11.3.0), 1 day ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/core](https://github.com/MetaMask/core) ([v82.0.0](https://github.com/MetaMask/core/releases/tag/v82.0.0), 1 week ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.8.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.8.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v14.0.0](https://github.com/MetaMask/KeyringController/releases/tag/v14.0.0), 2 weeks ago) - A module for managing groups of Ethereum accounts and using them.
-- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v3.2.1](https://github.com/MetaMask/action-publish-release/releases/tag/v3.2.1), 2 weeks ago) - 
+- [MetaMask/action-publish-release](https://github.com/MetaMask/action-publish-release) ([v3.2.1](https://github.com/MetaMask/action-publish-release/releases/tag/v3.2.1), 3 weeks ago) - 
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
