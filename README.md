@@ -24,10 +24,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.9.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.9.0), today) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/action-create-release-pr](https://github.com/MetaMask/action-create-release-pr) ([v3.0.0](https://github.com/MetaMask/action-create-release-pr/releases/tag/v3.0.0), today) - 
 - [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v11.3.0](https://github.com/MetaMask/metamask-extension/releases/tag/v11.3.0), 4 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
 - [MetaMask/core](https://github.com/MetaMask/core) ([v82.0.0](https://github.com/MetaMask/core/releases/tag/v82.0.0), 1 week ago) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.8.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.8.0), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v14.0.0](https://github.com/MetaMask/KeyringController/releases/tag/v14.0.0), 2 weeks ago) - A module for managing groups of Ethereum accounts and using them.
 </details>
 
