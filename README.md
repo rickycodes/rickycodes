@@ -24,10 +24,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v89.0.0](https://github.com/MetaMask/core/releases/tag/v89.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.10.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.10.0), today) - Transaction validation using blockaid&#39;s PPOM
-- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v11.4.1](https://github.com/MetaMask/metamask-extension/releases/tag/v11.4.1), 4 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.9.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.9.1), 6 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/core](https://github.com/MetaMask/core) ([v89.0.0](https://github.com/MetaMask/core/releases/tag/v89.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.10.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.10.0), 1 day ago) - Transaction validation using blockaid&#39;s PPOM
+- [MetaMask/metamask-extension](https://github.com/MetaMask/metamask-extension) ([v11.4.1](https://github.com/MetaMask/metamask-extension/releases/tag/v11.4.1), 5 days ago) - :globe_with_meridians: :electric_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.9.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.9.1), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v14.0.0](https://github.com/MetaMask/KeyringController/releases/tag/v14.0.0), 1 month ago) - A module for managing groups of Ethereum accounts and using them.
 </details>
 
