@@ -24,9 +24,9 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v17.0.0](https://github.com/MetaMask/KeyringController/releases/tag/v17.0.0), today) - A module for managing groups of Ethereum accounts and using them.
-- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.22.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.22.0), today) - Transaction validation using blockaid&#39;s PPOM
-- [MetaMask/core](https://github.com/MetaMask/core) ([v109.0.0](https://github.com/MetaMask/core/releases/tag/v109.0.0), 4 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v17.0.0](https://github.com/MetaMask/KeyringController/releases/tag/v17.0.0), 1 day ago) - A module for managing groups of Ethereum accounts and using them.
+- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.22.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.22.0), 1 day ago) - Transaction validation using blockaid&#39;s PPOM
+- [MetaMask/core](https://github.com/MetaMask/core) ([v109.0.0](https://github.com/MetaMask/core/releases/tag/v109.0.0), 5 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.12.5](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.12.5), 2 weeks ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v4.0.1](https://github.com/MetaMask/action-npm-publish/releases/tag/v4.0.1), 6 months ago) - GitHub Action to publish to NPM
 </details>
