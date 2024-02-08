@@ -24,10 +24,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.15.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.15.0), 2 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/core](https://github.com/MetaMask/core) ([v115.0.0](https://github.com/MetaMask/core/releases/tag/v115.0.0), 5 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.23.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.23.0), 1 day ago) - Transaction validation using blockaid&#39;s PPOM
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.15.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.15.0), 3 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/core](https://github.com/MetaMask/core) ([v115.0.0](https://github.com/MetaMask/core/releases/tag/v115.0.0), 6 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v17.0.1](https://github.com/MetaMask/KeyringController/releases/tag/v17.0.1), 2 weeks ago) - A module for managing groups of Ethereum accounts and using them.
-- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.22.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.22.0), 2 weeks ago) - Transaction validation using blockaid&#39;s PPOM
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v4.0.1](https://github.com/MetaMask/action-npm-publish/releases/tag/v4.0.1), 6 months ago) - GitHub Action to publish to NPM
 </details>
 
@@ -35,8 +35,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 - [Ping `metamask-npm-publishers` properly](https://github.com/MetaMask/ppom-validator/pull/75) on [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) (3 months ago)
 - [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/56) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
-- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/55) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
-- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/54) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
+- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/55) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 months ago)
+- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/54) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 months ago)
 - [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/48) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (8 months ago)
 </details>
 
