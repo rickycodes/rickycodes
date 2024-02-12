@@ -24,10 +24,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.24.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.24.0), 3 days ago) - Transaction validation using blockaid&#39;s PPOM
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.15.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.15.0), 6 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.24.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.24.0), 4 days ago) - Transaction validation using blockaid&#39;s PPOM
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.15.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.15.0), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/core](https://github.com/MetaMask/core) ([v115.0.0](https://github.com/MetaMask/core/releases/tag/v115.0.0), 1 week ago) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v17.0.1](https://github.com/MetaMask/KeyringController/releases/tag/v17.0.1), 2 weeks ago) - A module for managing groups of Ethereum accounts and using them.
+- [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v17.0.1](https://github.com/MetaMask/KeyringController/releases/tag/v17.0.1), 3 weeks ago) - A module for managing groups of Ethereum accounts and using them.
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v4.0.1](https://github.com/MetaMask/action-npm-publish/releases/tag/v4.0.1), 7 months ago) - GitHub Action to publish to NPM
 </details>
 
