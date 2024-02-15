@@ -7,7 +7,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) - Transaction validation using blockaid&#39;s PPOM (3 months ago)
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (4 months ago)
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (5 months ago)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (5 months ago)
 - [MetaMask/metamask-module-template](https://github.com/MetaMask/metamask-module-template) - A simple template repository for starting new modules in the latest MetaMask fashion. (8 months ago)
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) - A module for managing groups of Ethereum accounts and using them. (8 months ago)
@@ -24,7 +24,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.24.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.24.0), 6 days ago) - Transaction validation using blockaid&#39;s PPOM
+- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.24.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.24.0), 1 week ago) - Transaction validation using blockaid&#39;s PPOM
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.15.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.15.0), 1 week ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/core](https://github.com/MetaMask/core) ([v115.0.0](https://github.com/MetaMask/core/releases/tag/v115.0.0), 1 week ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v17.0.1](https://github.com/MetaMask/KeyringController/releases/tag/v17.0.1), 3 weeks ago) - A module for managing groups of Ethereum accounts and using them.
@@ -34,7 +34,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
 - [Ping `metamask-npm-publishers` properly](https://github.com/MetaMask/ppom-validator/pull/75) on [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) (3 months ago)
-- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/56) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
+- [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/56) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 months ago)
 - [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/55) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 months ago)
 - [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/54) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 months ago)
 - [Update README.md](https://github.com/MetaMask/action-npm-publish/pull/48) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (8 months ago)
