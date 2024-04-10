@@ -24,8 +24,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.19.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.19.1), today) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/core](https://github.com/MetaMask/core) ([v135.0.0](https://github.com/MetaMask/core/releases/tag/v135.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.19.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.19.0), 6 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.29.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.29.0), 2 weeks ago) - Transaction validation using blockaid&#39;s PPOM
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v17.0.1](https://github.com/MetaMask/KeyringController/releases/tag/v17.0.1), 2 months ago) - A module for managing groups of Ethereum accounts and using them.
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v4.0.1](https://github.com/MetaMask/action-npm-publish/releases/tag/v4.0.1), 9 months ago) - GitHub Action to publish to NPM
