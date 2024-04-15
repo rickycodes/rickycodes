@@ -24,7 +24,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v136.0.0](https://github.com/MetaMask/core/releases/tag/v136.0.0), 3 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/core](https://github.com/MetaMask/core) ([v137.0.0](https://github.com/MetaMask/core/releases/tag/v137.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.19.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.19.1), 5 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.29.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.29.0), 3 weeks ago) - Transaction validation using blockaid&#39;s PPOM
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v17.0.1](https://github.com/MetaMask/KeyringController/releases/tag/v17.0.1), 2 months ago) - A module for managing groups of Ethereum accounts and using them.
