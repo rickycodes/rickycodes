@@ -24,7 +24,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v139.0.0](https://github.com/MetaMask/core/releases/tag/v139.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/core](https://github.com/MetaMask/core) ([v140.0.0](https://github.com/MetaMask/core/releases/tag/v140.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.0.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.0.0), 2 days ago) - GitHub Action to publish to NPM
 - [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.20.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.20.0), 2 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.29.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.29.0), 3 weeks ago) - Transaction validation using blockaid&#39;s PPOM
