@@ -24,8 +24,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.20.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.20.1), 1 day ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/core](https://github.com/MetaMask/core) ([v144.0.0](https://github.com/MetaMask/core/releases/tag/v144.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.20.1](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.20.1), 2 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/core](https://github.com/MetaMask/core) ([v144.0.0](https://github.com/MetaMask/core/releases/tag/v144.0.0), 2 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.0.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.0.0), 1 week ago) - GitHub Action to publish to NPM
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.29.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.29.0), 1 month ago) - Transaction validation using blockaid&#39;s PPOM
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v17.0.1](https://github.com/MetaMask/KeyringController/releases/tag/v17.0.1), 3 months ago) - A module for managing groups of Ethereum accounts and using them.
@@ -33,7 +33,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Improve Dry Run Output](https://github.com/MetaMask/action-npm-publish/pull/64) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 weeks ago)
+- [Improve Dry Run Output](https://github.com/MetaMask/action-npm-publish/pull/64) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 month ago)
 - [Disallow publishing packages with version 0.0.0](https://github.com/MetaMask/action-npm-publish/pull/63) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 month ago)
 - [Disallow publishing packages with version 0.0.0](https://github.com/MetaMask/action-npm-publish/pull/61) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
 - [Ping `metamask-npm-publishers` properly](https://github.com/MetaMask/ppom-validator/pull/75) on [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) (6 months ago)
