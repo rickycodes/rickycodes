@@ -24,10 +24,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v4.0.2](https://github.com/MetaMask/action-npm-publish/releases/tag/v4.0.2), today) - GitHub Action to publish to NPM
-- [MetaMask/core](https://github.com/MetaMask/core) ([v148.0.0](https://github.com/MetaMask/core/releases/tag/v148.0.0), 2 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.21.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.21.0), 2 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
-- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.30.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.30.0), 5 days ago) - Transaction validation using blockaid&#39;s PPOM
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v4.0.2](https://github.com/MetaMask/action-npm-publish/releases/tag/v4.0.2), 1 day ago) - GitHub Action to publish to NPM
+- [MetaMask/core](https://github.com/MetaMask/core) ([v148.0.0](https://github.com/MetaMask/core/releases/tag/v148.0.0), 3 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/metamask-mobile](https://github.com/MetaMask/metamask-mobile) ([v7.21.0](https://github.com/MetaMask/metamask-mobile/releases/tag/v7.21.0), 3 days ago) - Mobile web browser providing access to websites that use the Ethereum blockchain
+- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.30.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.30.0), 6 days ago) - Transaction validation using blockaid&#39;s PPOM
 - [MetaMask/KeyringController](https://github.com/MetaMask/KeyringController) ([v17.0.1](https://github.com/MetaMask/KeyringController/releases/tag/v17.0.1), 3 months ago) - A module for managing groups of Ethereum accounts and using them.
 </details>
 
