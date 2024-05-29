@@ -23,7 +23,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v155.0.0](https://github.com/MetaMask/core/releases/tag/v155.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/core](https://github.com/MetaMask/core) ([v156.0.0](https://github.com/MetaMask/core/releases/tag/v156.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.1.2](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.1.2), 2 weeks ago) - GitHub Action to publish to NPM
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.30.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.30.0), 3 weeks ago) - Transaction validation using blockaid&#39;s PPOM
 </details>
