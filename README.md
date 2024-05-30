@@ -23,14 +23,14 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v157.0.0](https://github.com/MetaMask/core/releases/tag/v157.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/core](https://github.com/MetaMask/core) ([v157.0.0](https://github.com/MetaMask/core/releases/tag/v157.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.1.2](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.1.2), 2 weeks ago) - GitHub Action to publish to NPM
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.30.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.30.0), 3 weeks ago) - Transaction validation using blockaid&#39;s PPOM
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [remove default channel](https://github.com/MetaMask/action-npm-publish/pull/73) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 weeks ago)
+- [remove default channel](https://github.com/MetaMask/action-npm-publish/pull/73) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 weeks ago)
 - [Improve Dry Run Output](https://github.com/MetaMask/action-npm-publish/pull/64) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
 - [Disallow publishing packages with version 0.0.0](https://github.com/MetaMask/action-npm-publish/pull/63) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
 - [Disallow publishing packages with version 0.0.0](https://github.com/MetaMask/action-npm-publish/pull/61) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
