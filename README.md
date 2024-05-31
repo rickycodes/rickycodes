@@ -30,11 +30,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
+- [Only show packages in the dry run that need publishing](https://github.com/MetaMask/action-npm-publish/pull/90) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (today)
 - [remove default channel](https://github.com/MetaMask/action-npm-publish/pull/73) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 weeks ago)
 - [Improve Dry Run Output](https://github.com/MetaMask/action-npm-publish/pull/64) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
 - [Disallow publishing packages with version 0.0.0](https://github.com/MetaMask/action-npm-publish/pull/63) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
 - [Disallow publishing packages with version 0.0.0](https://github.com/MetaMask/action-npm-publish/pull/61) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
-- [Ping `metamask-npm-publishers` properly](https://github.com/MetaMask/ppom-validator/pull/75) on [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) (7 months ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
