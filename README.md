@@ -6,7 +6,7 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (3 weeks ago)
+- [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (4 weeks ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 month ago)
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) - Transaction validation using blockaid&#39;s PPOM (7 months ago)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (9 months ago)
@@ -23,9 +23,9 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.31.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.31.0), 5 days ago) - Transaction validation using blockaid&#39;s PPOM
-- [MetaMask/core](https://github.com/MetaMask/core) ([v160.0.0](https://github.com/MetaMask/core/releases/tag/v160.0.0), 6 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.1.2](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.1.2), 3 weeks ago) - GitHub Action to publish to NPM
+- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.31.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.31.0), 6 days ago) - Transaction validation using blockaid&#39;s PPOM
+- [MetaMask/core](https://github.com/MetaMask/core) ([v160.0.0](https://github.com/MetaMask/core/releases/tag/v160.0.0), 1 week ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.1.2](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.1.2), 4 weeks ago) - GitHub Action to publish to NPM
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
