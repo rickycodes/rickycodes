@@ -23,7 +23,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v165.0.0](https://github.com/MetaMask/core/releases/tag/v165.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/core](https://github.com/MetaMask/core) ([v165.0.0](https://github.com/MetaMask/core/releases/tag/v165.0.0), 2 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.31.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.31.0), 2 weeks ago) - Transaction validation using blockaid&#39;s PPOM
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.1.2](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.1.2), 1 month ago) - GitHub Action to publish to NPM
 </details>
@@ -34,7 +34,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [remove default channel](https://github.com/MetaMask/action-npm-publish/pull/73) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 month ago)
 - [Improve Dry Run Output](https://github.com/MetaMask/action-npm-publish/pull/64) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
 - [Disallow publishing packages with version 0.0.0](https://github.com/MetaMask/action-npm-publish/pull/63) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
-- [Disallow publishing packages with version 0.0.0](https://github.com/MetaMask/action-npm-publish/pull/61) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
+- [Disallow publishing packages with version 0.0.0](https://github.com/MetaMask/action-npm-publish/pull/61) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
