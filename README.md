@@ -9,7 +9,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (1 month ago)
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 month ago)
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) - Transaction validation using blockaid&#39;s PPOM (8 months ago)
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (9 months ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (10 months ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -23,8 +23,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v170.0.0](https://github.com/MetaMask/core/releases/tag/v170.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.32.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.32.0), 5 days ago) - Transaction validation using blockaid&#39;s PPOM
+- [MetaMask/core](https://github.com/MetaMask/core) ([v170.0.0](https://github.com/MetaMask/core/releases/tag/v170.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.32.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.32.0), 6 days ago) - Transaction validation using blockaid&#39;s PPOM
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.1.2](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.1.2), 1 month ago) - GitHub Action to publish to NPM
 </details>
 
