@@ -6,7 +6,7 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (6 days ago)
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (1 week ago)
 - [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (2 months ago)
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) - Transaction validation using blockaid&#39;s PPOM (9 months ago)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (10 months ago)
@@ -23,14 +23,14 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v178.0.0](https://github.com/MetaMask/core/releases/tag/v178.0.0), 2 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/core](https://github.com/MetaMask/core) ([v178.0.0](https://github.com/MetaMask/core/releases/tag/v178.0.0), 3 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.2.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.2.0), 1 week ago) - GitHub Action to publish to NPM
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.32.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.32.0), 3 weeks ago) - Transaction validation using blockaid&#39;s PPOM
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Disable debug output in non-debug environments](https://github.com/MetaMask/action-npm-publish/pull/94) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (6 days ago)
+- [Disable debug output in non-debug environments](https://github.com/MetaMask/action-npm-publish/pull/94) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 week ago)
 - [Only show packages in the dry run that need publishing](https://github.com/MetaMask/action-npm-publish/pull/90) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 month ago)
 - [remove default channel](https://github.com/MetaMask/action-npm-publish/pull/73) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 months ago)
 - [Improve Dry Run Output](https://github.com/MetaMask/action-npm-publish/pull/64) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
