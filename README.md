@@ -9,7 +9,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (2 weeks ago)
 - [MetaMask/core](https://github.com/MetaMask/core) - This monorepo is a collection of packages used across multiple MetaMask clients (2 months ago)
 - [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) - Transaction validation using blockaid&#39;s PPOM (9 months ago)
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (10 months ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (also: dat://ricky.codes) (11 months ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
