@@ -22,8 +22,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v199.0.0](https://github.com/MetaMask/core/releases/tag/v199.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
-- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.34.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.34.0), 5 days ago) - Transaction validation using blockaid&#39;s PPOM
+- [MetaMask/core](https://github.com/MetaMask/core) ([v199.0.0](https://github.com/MetaMask/core/releases/tag/v199.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/ppom-validator](https://github.com/MetaMask/ppom-validator) ([v0.34.0](https://github.com/MetaMask/ppom-validator/releases/tag/v0.34.0), 6 days ago) - Transaction validation using blockaid&#39;s PPOM
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.2.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.2.0), 2 months ago) - GitHub Action to publish to NPM
 </details>
 
@@ -33,7 +33,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [Only show packages in the dry run that need publishing](https://github.com/MetaMask/action-npm-publish/pull/90) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
 - [remove default channel](https://github.com/MetaMask/action-npm-publish/pull/73) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (4 months ago)
 - [Improve Dry Run Output](https://github.com/MetaMask/action-npm-publish/pull/64) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 months ago)
-- [Disallow publishing packages with version 0.0.0](https://github.com/MetaMask/action-npm-publish/pull/63) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 months ago)
+- [Disallow publishing packages with version 0.0.0](https://github.com/MetaMask/action-npm-publish/pull/63) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (6 months ago)
 </details>
 
 <details><summary>📜 My recent blog posts</summary><br />
