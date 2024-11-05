@@ -21,7 +21,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v239.0.0](https://github.com/MetaMask/core/releases/tag/v239.0.0), 2 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/core](https://github.com/MetaMask/core) ([v239.0.0](https://github.com/MetaMask/core/releases/tag/v239.0.0), 3 days ago) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.2.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.2.0), 3 months ago) - GitHub Action to publish to NPM
 </details>
 
@@ -29,7 +29,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 - [Disable debug output in non-debug environments](https://github.com/MetaMask/action-npm-publish/pull/94) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (3 months ago)
 - [Only show packages in the dry run that need publishing](https://github.com/MetaMask/action-npm-publish/pull/90) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 months ago)
-- [remove default channel](https://github.com/MetaMask/action-npm-publish/pull/73) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (5 months ago)
+- [remove default channel](https://github.com/MetaMask/action-npm-publish/pull/73) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (6 months ago)
 - [Improve Dry Run Output](https://github.com/MetaMask/action-npm-publish/pull/64) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (7 months ago)
 - [Disallow publishing packages with version 0.0.0](https://github.com/MetaMask/action-npm-publish/pull/63) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (7 months ago)
 </details>
