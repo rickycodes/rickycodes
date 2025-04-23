@@ -21,7 +21,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/core](https://github.com/MetaMask/core) ([v372.0.0](https://github.com/MetaMask/core/releases/tag/v372.0.0), 1 day ago) - This monorepo is a collection of packages used across multiple MetaMask clients
+- [MetaMask/core](https://github.com/MetaMask/core) ([v373.0.0](https://github.com/MetaMask/core/releases/tag/v373.0.0), today) - This monorepo is a collection of packages used across multiple MetaMask clients
 - [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.2.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.2.0), 9 months ago) - GitHub Action to publish to NPM
 </details>
 
