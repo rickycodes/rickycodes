@@ -6,7 +6,7 @@ I write software with one of those clicky keyboards (he/him)
 linux, cyling, type systems, camping, rustlang, webassembly, command line interfaces, tooling/automation, DOS, vintage hardware/software/industrial design, retro video gaming and pinball!
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (3 months ago)
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) - GitHub Action to publish to NPM (4 months ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -20,7 +20,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.2.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.2.0), 10 months ago) - GitHub Action to publish to NPM
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.2.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.2.0), 11 months ago) - GitHub Action to publish to NPM
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
