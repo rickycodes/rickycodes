@@ -34,7 +34,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>📜 My recent blog posts</summary><br />
 
-- [Publishing my Website to the peer-to-peer Web](//ricky.codes/blog/posts/publishing-to-the-peer-to-peer-web/) (6 years ago)
+- [Publishing my Website to the peer-to-peer Web](//ricky.codes/blog/posts/publishing-to-the-peer-to-peer-web/) (7 years ago)
 </details>
 
 <details><summary>🔗 Elsewhere</summary><br />
