@@ -20,7 +20,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.3.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.3.0), today) - GitHub Action to publish to NPM
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.3.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.3.0), 1 day ago) - GitHub Action to publish to NPM
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
