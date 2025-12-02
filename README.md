@@ -20,12 +20,12 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.3.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.3.0), 1 week ago) - GitHub Action to publish to NPM
+- [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) ([v5.3.0](https://github.com/MetaMask/action-npm-publish/releases/tag/v5.3.0), 2 weeks ago) - GitHub Action to publish to NPM
 </details>
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Fix backwards diff](https://github.com/MetaMask/action-npm-publish/pull/98) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (9 months ago)
+- [Fix backwards diff](https://github.com/MetaMask/action-npm-publish/pull/98) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (10 months ago)
 - [Disable debug output in non-debug environments](https://github.com/MetaMask/action-npm-publish/pull/94) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 year ago)
 - [Only show packages in the dry run that need publishing](https://github.com/MetaMask/action-npm-publish/pull/90) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 years ago)
 - [remove default channel](https://github.com/MetaMask/action-npm-publish/pull/73) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (2 years ago)
