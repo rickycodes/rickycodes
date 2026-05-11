@@ -7,20 +7,20 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
+- [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local video files from a PC to MiSTerFPGA over plain HTTP, using ffmpeg   and mplayer (today)
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (3 days ago)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (4 days ago)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (6 days ago)
 - [rickycodes/kaleidos](https://github.com/rickycodes/kaleidos) - :cyclone: &lt;canvas&gt; kaleidoscope node module https://rickycodes.github.io/kaleidos/ (1 week ago)
-- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (1 month ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
 
+- [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local video files from a PC to MiSTerFPGA over plain HTTP, using ffmpeg   and mplayer
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable.
 - [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www
 - [rickycodes/misterfpga_font_randomizer](https://github.com/rickycodes/misterfpga_font_randomizer) - randomise the font setting for MiSTer FPGA
 - [rickycodes/win98config](https://github.com/rickycodes/win98config) - Example multi-boot setup for window98
-- [rickycodes/kitties](https://github.com/rickycodes/kitties) - micro site to browse CryptoKitties
 </details>
 
 
