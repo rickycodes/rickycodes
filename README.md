@@ -7,10 +7,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local video files from a PC to MiSTerFPGA over plain HTTP, using ffmpeg   and mplayer (today)
-- [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (3 days ago)
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (4 days ago)
-- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (6 days ago)
+- [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local video files from a PC to MiSTerFPGA over plain HTTP, using ffmpeg   and mplayer (1 day ago)
+- [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (4 days ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (5 days ago)
+- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (1 week ago)
 - [rickycodes/kaleidos](https://github.com/rickycodes/kaleidos) - :cyclone: &lt;canvas&gt; kaleidoscope node module https://rickycodes.github.io/kaleidos/ (1 week ago)
 </details>
 
@@ -34,7 +34,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [Add resume offset param](https://github.com/mrchrisster/mister_plex/pull/8) on [mrchrisster/mister_plex](https://github.com/mrchrisster/mister_plex) (1 day ago)
+- [Add resume offset param](https://github.com/mrchrisster/mister_plex/pull/8) on [mrchrisster/mister_plex](https://github.com/mrchrisster/mister_plex) (2 days ago)
 - [Ratatui wasm](https://github.com/rickycodes/card/pull/1) on [rickycodes/card](https://github.com/rickycodes/card) (1 week ago)
 - [update ricky.codes](https://github.com/bradleytaunt/1mb-club/pull/1086) on [bradleytaunt/1mb-club](https://github.com/bradleytaunt/1mb-club) (1 month ago)
 - [Fix backwards diff](https://github.com/MetaMask/action-npm-publish/pull/98) on [MetaMask/action-npm-publish](https://github.com/MetaMask/action-npm-publish) (1 year ago)
