@@ -7,7 +7,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (1 day ago)
+- [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (today)
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (1 week ago)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (1 week ago)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (1 week ago)
