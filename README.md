@@ -7,10 +7,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (2 days ago)
+- [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (3 days ago)
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (3 weeks ago)
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (3 weeks ago)
-- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (4 weeks ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (4 weeks ago)
+- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (1 month ago)
 - [rickycodes/kaleidos](https://github.com/rickycodes/kaleidos) - :cyclone: &lt;canvas&gt; kaleidoscope node module https://rickycodes.github.io/kaleidos/ (1 month ago)
 </details>
 
@@ -34,7 +34,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [WebUI: paste torrent links anywhere to add them immediately](https://github.com/qbittorrent/qBittorrent/pull/24400) on [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) (6 days ago)
+- [WebUI: paste torrent links anywhere to add them immediately](https://github.com/qbittorrent/qBittorrent/pull/24400) on [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) (1 week ago)
 - [milkdrop](https://github.com/rickycodes/mister_rastercast/pull/1) on [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) (2 weeks ago)
 - [Add resume offset param](https://github.com/mrchrisster/mister_plex/pull/8) on [mrchrisster/mister_plex](https://github.com/mrchrisster/mister_plex) (3 weeks ago)
 - [Ratatui wasm](https://github.com/rickycodes/card/pull/1) on [rickycodes/card](https://github.com/rickycodes/card) (1 month ago)
