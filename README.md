@@ -27,7 +27,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) ([v0.1.0-alpha.4](https://github.com/rickycodes/proxmox_znc/releases/tag/v0.1.0-alpha.4), today) - 
+- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) ([v0.1.0-alpha.5](https://github.com/rickycodes/proxmox_znc/releases/tag/v0.1.0-alpha.5), today) - 
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) ([v0.1.1](https://github.com/rickycodes/oysterclip/releases/tag/v0.1.1), 2 months ago) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable.
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.6.17](https://github.com/rickycodes/card/releases/tag/v1.6.17), 4 years ago) - npx business card built with rust targeting wasm
 </details>
