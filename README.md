@@ -7,7 +7,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) -  (1 day ago)
+- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) -  (today)
 - [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (3 days ago)
 - [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (2 weeks ago)
 - [rickycodes/rastercast-tui](https://github.com/rickycodes/rastercast-tui) -  (2 weeks ago)
@@ -27,7 +27,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) ([v0.1.0-alpha.7](https://github.com/rickycodes/proxmox_znc/releases/tag/v0.1.0-alpha.7), today) - 
+- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) ([v0.1.0-alpha.9](https://github.com/rickycodes/proxmox_znc/releases/tag/v0.1.0-alpha.9), today) - 
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) ([v0.1.1](https://github.com/rickycodes/oysterclip/releases/tag/v0.1.1), 2 months ago) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable.
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.6.17](https://github.com/rickycodes/card/releases/tag/v1.6.17), 4 years ago) - npx business card built with rust targeting wasm
 </details>
