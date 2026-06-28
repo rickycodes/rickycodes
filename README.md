@@ -7,9 +7,9 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) - A small Proxmox host-side installer that creates an Alpine LXC and bootstraps a basic ZNC bounce. (2 days ago)
-- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (6 days ago)
-- [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (2 weeks ago)
+- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) - A small Proxmox host-side installer that creates an Alpine LXC and bootstraps a basic ZNC bounce. (3 days ago)
+- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (1 week ago)
+- [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (3 weeks ago)
 - [rickycodes/rastercast-tui](https://github.com/rickycodes/rastercast-tui) -  (3 weeks ago)
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (1 month ago)
 </details>
@@ -27,7 +27,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) ([v0.1.0](https://github.com/rickycodes/proxmox_znc/releases/tag/v0.1.0), 2 days ago) - A small Proxmox host-side installer that creates an Alpine LXC and bootstraps a basic ZNC bounce.
+- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) ([v0.1.0](https://github.com/rickycodes/proxmox_znc/releases/tag/v0.1.0), 3 days ago) - A small Proxmox host-side installer that creates an Alpine LXC and bootstraps a basic ZNC bounce.
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) ([v0.1.1](https://github.com/rickycodes/oysterclip/releases/tag/v0.1.1), 2 months ago) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable.
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.6.17](https://github.com/rickycodes/card/releases/tag/v1.6.17), 4 years ago) - npx business card built with rust targeting wasm
 </details>
