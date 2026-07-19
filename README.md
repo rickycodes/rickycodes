@@ -7,9 +7,9 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (5 days ago)
+- [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (6 days ago)
 - [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) - A small Proxmox host-side installer that creates an Alpine LXC and bootstraps a basic ZNC bounce. (3 weeks ago)
-- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (3 weeks ago)
+- [rickycodes/card](https://github.com/rickycodes/card) - npx business card built with rust targeting wasm (4 weeks ago)
 - [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (1 month ago)
 - [rickycodes/rastercast-tui](https://github.com/rickycodes/rastercast-tui) -  (1 month ago)
 </details>
