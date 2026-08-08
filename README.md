@@ -37,7 +37,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 - [WebUI: paste torrent links anywhere to add them immediately](https://github.com/qbittorrent/qBittorrent/pull/24400) on [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) (2 months ago)
 - [milkdrop](https://github.com/rickycodes/mister_rastercast/pull/1) on [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) (2 months ago)
-- [Add resume offset param](https://github.com/mrchrisster/mister_plex/pull/8) on [mrchrisster/mister_plex](https://github.com/mrchrisster/mister_plex) (2 months ago)
+- [Add resume offset param](https://github.com/mrchrisster/mister_plex/pull/8) on [mrchrisster/mister_plex](https://github.com/mrchrisster/mister_plex) (3 months ago)
 - [Ratatui wasm](https://github.com/rickycodes/card/pull/1) on [rickycodes/card](https://github.com/rickycodes/card) (3 months ago)
 - [update ricky.codes](https://github.com/bradleytaunt/1mb-club/pull/1086) on [bradleytaunt/1mb-club](https://github.com/bradleytaunt/1mb-club) (4 months ago)
 </details>
