@@ -7,10 +7,10 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (today)
-- [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (1 day ago)
-- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (1 day ago)
-- [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (4 days ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (1 day ago)
+- [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (2 days ago)
+- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (2 days ago)
+- [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (5 days ago)
 - [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) - A small Proxmox host-side installer that creates an Alpine LXC and bootstraps a basic ZNC bounce. (2 months ago)
 </details>
 
@@ -35,8 +35,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [feat: add dark mode](https://github.com/rickycodes/www/pull/12) on [rickycodes/www](https://github.com/rickycodes/www) (5 days ago)
-- [feat: add dark mode](https://github.com/rickycodes/www/pull/11) on [rickycodes/www](https://github.com/rickycodes/www) (5 days ago)
+- [feat: add dark mode](https://github.com/rickycodes/www/pull/12) on [rickycodes/www](https://github.com/rickycodes/www) (6 days ago)
+- [feat: add dark mode](https://github.com/rickycodes/www/pull/11) on [rickycodes/www](https://github.com/rickycodes/www) (6 days ago)
 - [WebUI: paste torrent links anywhere to add them immediately](https://github.com/qbittorrent/qBittorrent/pull/24400) on [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) (2 months ago)
 - [milkdrop](https://github.com/rickycodes/mister_rastercast/pull/1) on [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) (3 months ago)
 - [Add resume offset param](https://github.com/mrchrisster/mister_plex/pull/8) on [mrchrisster/mister_plex](https://github.com/mrchrisster/mister_plex) (3 months ago)
