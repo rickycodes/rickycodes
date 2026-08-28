@@ -7,11 +7,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recordings to twitter (today)
-- [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (today)
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (2 days ago)
-- [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (4 days ago)
-- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (4 days ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (today)
+- [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recordings to twitter (1 day ago)
+- [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (1 day ago)
+- [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (5 days ago)
+- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (5 days ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
