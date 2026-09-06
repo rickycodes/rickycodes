@@ -7,11 +7,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (3 days ago)
-- [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (6 days ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (4 days ago)
+- [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (1 week ago)
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recordings to twitter (1 week ago)
-- [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (1 week ago)
-- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (1 week ago)
+- [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (2 weeks ago)
+- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (2 weeks ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
