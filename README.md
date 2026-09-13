@@ -7,11 +7,11 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (3 days ago)
-- [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (1 week ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (stdweb) → .wasm (4 days ago)
+- [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (2 weeks ago)
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recordings to twitter (2 weeks ago)
-- [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (2 weeks ago)
-- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (2 weeks ago)
+- [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (3 weeks ago)
+- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (3 weeks ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -39,7 +39,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [feat: add dark mode](https://github.com/rickycodes/www/pull/12) on [rickycodes/www](https://github.com/rickycodes/www) (3 weeks ago)
 - [feat: add dark mode](https://github.com/rickycodes/www/pull/11) on [rickycodes/www](https://github.com/rickycodes/www) (3 weeks ago)
 - [WebUI: paste torrent links anywhere to add them immediately](https://github.com/qbittorrent/qBittorrent/pull/24400) on [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) (3 months ago)
-- [milkdrop](https://github.com/rickycodes/mister_rastercast/pull/1) on [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) (3 months ago)
+- [milkdrop](https://github.com/rickycodes/mister_rastercast/pull/1) on [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) (4 months ago)
 - [Add resume offset param](https://github.com/mrchrisster/mister_plex/pull/8) on [mrchrisster/mister_plex](https://github.com/mrchrisster/mister_plex) (4 months ago)
 </details>
 
