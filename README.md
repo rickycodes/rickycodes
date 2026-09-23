@@ -7,7 +7,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (wasm-bindgen) → .wasm (5 days ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (wasm-bindgen) → .wasm (6 days ago)
 - [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (3 weeks ago)
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recordings to twitter (3 weeks ago)
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (1 month ago)
@@ -27,7 +27,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) ([v0.1.0](https://github.com/rickycodes/proxmox_znc/releases/tag/v0.1.0), 2 months ago) - A small Proxmox host-side installer that creates an Alpine LXC and bootstraps a basic ZNC bounce.
+- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) ([v0.1.0](https://github.com/rickycodes/proxmox_znc/releases/tag/v0.1.0), 3 months ago) - A small Proxmox host-side installer that creates an Alpine LXC and bootstraps a basic ZNC bounce.
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) ([v0.1.1](https://github.com/rickycodes/oysterclip/releases/tag/v0.1.1), 5 months ago) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable.
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.6.17](https://github.com/rickycodes/card/releases/tag/v1.6.17), 4 years ago) - npx business card built with rust targeting wasm
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) ([v0.1.0](https://github.com/rickycodes/retrorecord/releases/tag/v0.1.0), 7 years ago) - 🎮 share screenshots and recordings to twitter
