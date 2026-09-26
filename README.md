@@ -9,7 +9,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (wasm-bindgen) → .wasm (1 week ago)
 - [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (3 weeks ago)
-- [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recordings to twitter (4 weeks ago)
+- [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recordings to twitter (1 month ago)
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable. (1 month ago)
 - [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (1 month ago)
 </details>
