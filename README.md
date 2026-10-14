@@ -7,8 +7,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (today)
-- [rickycodes/emoji-picker](https://github.com/rickycodes/emoji-picker) - :poop: A lightweight, accessible emoji picker built with vanilla JavaScript. (1 day ago)
+- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (1 day ago)
+- [rickycodes/emoji-picker](https://github.com/rickycodes/emoji-picker) - :poop: A lightweight, accessible emoji picker built with vanilla JavaScript. (2 days ago)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (wasm-bindgen) → .wasm (3 weeks ago)
 - [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (1 month ago)
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) - 🎮 share screenshots and recordings to twitter (1 month ago)
@@ -27,7 +27,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [rickycodes/emoji-picker](https://github.com/rickycodes/emoji-picker) ([v1.0.0](https://github.com/rickycodes/emoji-picker/releases/tag/v1.0.0), 1 day ago) - :poop: A lightweight, accessible emoji picker built with vanilla JavaScript.
+- [rickycodes/emoji-picker](https://github.com/rickycodes/emoji-picker) ([v1.0.0](https://github.com/rickycodes/emoji-picker/releases/tag/v1.0.0), 2 days ago) - :poop: A lightweight, accessible emoji picker built with vanilla JavaScript.
 - [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) ([v0.1.0](https://github.com/rickycodes/proxmox_znc/releases/tag/v0.1.0), 3 months ago) - A small Proxmox host-side installer that creates an Alpine LXC and bootstraps a basic ZNC bounce.
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) ([v0.1.1](https://github.com/rickycodes/oysterclip/releases/tag/v0.1.1), 6 months ago) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable.
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.6.17](https://github.com/rickycodes/card/releases/tag/v1.6.17), 4 years ago) - npx business card built with rust targeting wasm
@@ -37,7 +37,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔨 My recent Pull Requests</summary><br />
 
-- [refactor(wasm): migrate to wasm-bindgen](https://github.com/rickycodes/www/pull/14) on [rickycodes/www](https://github.com/rickycodes/www) (4 weeks ago)
+- [refactor(wasm): migrate to wasm-bindgen](https://github.com/rickycodes/www/pull/14) on [rickycodes/www](https://github.com/rickycodes/www) (1 month ago)
 - [feat: add dark mode](https://github.com/rickycodes/www/pull/12) on [rickycodes/www](https://github.com/rickycodes/www) (1 month ago)
 - [feat: add dark mode](https://github.com/rickycodes/www/pull/11) on [rickycodes/www](https://github.com/rickycodes/www) (1 month ago)
 - [WebUI: paste torrent links anywhere to add them immediately](https://github.com/qbittorrent/qBittorrent/pull/24400) on [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) (4 months ago)
