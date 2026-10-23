@@ -28,7 +28,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
 - [rickycodes/emoji-picker](https://github.com/rickycodes/emoji-picker) ([v1.0.0](https://github.com/rickycodes/emoji-picker/releases/tag/v1.0.0), 1 week ago) - :poop: A lightweight, accessible emoji picker built with vanilla JavaScript.
-- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) ([v0.1.0](https://github.com/rickycodes/proxmox_znc/releases/tag/v0.1.0), 3 months ago) - A small Proxmox host-side installer that creates an Alpine LXC and bootstraps a basic ZNC bounce.
+- [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) ([v0.1.0](https://github.com/rickycodes/proxmox_znc/releases/tag/v0.1.0), 4 months ago) - A small Proxmox host-side installer that creates an Alpine LXC and bootstraps a basic ZNC bounce.
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) ([v0.1.1](https://github.com/rickycodes/oysterclip/releases/tag/v0.1.1), 6 months ago) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable.
 - [rickycodes/card](https://github.com/rickycodes/card) ([v1.6.17](https://github.com/rickycodes/card/releases/tag/v1.6.17), 4 years ago) - npx business card built with rust targeting wasm
 - [rickycodes/retrorecord](https://github.com/rickycodes/retrorecord) ([v0.1.0](https://github.com/rickycodes/retrorecord/releases/tag/v0.1.0), 7 years ago) - 🎮 share screenshots and recordings to twitter
