@@ -40,7 +40,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [refactor(wasm): migrate to wasm-bindgen](https://github.com/rickycodes/www/pull/14) on [rickycodes/www](https://github.com/rickycodes/www) (1 month ago)
 - [feat: add dark mode](https://github.com/rickycodes/www/pull/12) on [rickycodes/www](https://github.com/rickycodes/www) (2 months ago)
 - [feat: add dark mode](https://github.com/rickycodes/www/pull/11) on [rickycodes/www](https://github.com/rickycodes/www) (2 months ago)
-- [WebUI: paste torrent links anywhere to add them immediately](https://github.com/qbittorrent/qBittorrent/pull/24400) on [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) (4 months ago)
+- [WebUI: paste torrent links anywhere to add them immediately](https://github.com/qbittorrent/qBittorrent/pull/24400) on [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) (5 months ago)
 - [milkdrop](https://github.com/rickycodes/mister_rastercast/pull/1) on [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) (5 months ago)
 </details>
 
