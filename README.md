@@ -7,8 +7,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (wasm-bindgen) → .wasm (1 week ago)
-- [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (1 week ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (wasm-bindgen) → .wasm (1 day ago)
+- [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (2 weeks ago)
 - [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (2 weeks ago)
 - [rickycodes/emoji-picker](https://github.com/rickycodes/emoji-picker) - :poop: A lightweight, accessible emoji picker built with vanilla JavaScript. (2 weeks ago)
 - [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (1 month ago)
