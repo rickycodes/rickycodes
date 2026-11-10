@@ -11,7 +11,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [rickycodes/weup](https://github.com/rickycodes/weup) - Checks website HTTPS and email MX records, with optional outage and recovery email alerts via GitHub Actions. (1 week ago)
 - [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (1 week ago)
 - [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (3 weeks ago)
-- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (3 weeks ago)
+- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (4 weeks ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
