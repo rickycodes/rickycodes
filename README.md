@@ -11,7 +11,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [rickycodes/weup](https://github.com/rickycodes/weup) - Checks website HTTPS and email MX records, with optional outage and recovery email alerts via GitHub Actions. (2 weeks ago)
 - [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (2 weeks ago)
 - [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (4 weeks ago)
-- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (4 weeks ago)
+- [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (1 month ago)
 </details>
 
 <details><summary>🌱 My latest projects</summary><br />
@@ -41,7 +41,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [feat: add dark mode](https://github.com/rickycodes/www/pull/12) on [rickycodes/www](https://github.com/rickycodes/www) (2 months ago)
 - [feat: add dark mode](https://github.com/rickycodes/www/pull/11) on [rickycodes/www](https://github.com/rickycodes/www) (2 months ago)
 - [WebUI: paste torrent links anywhere to add them immediately](https://github.com/qbittorrent/qBittorrent/pull/24400) on [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) (5 months ago)
-- [milkdrop](https://github.com/rickycodes/mister_rastercast/pull/1) on [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) (5 months ago)
+- [milkdrop](https://github.com/rickycodes/mister_rastercast/pull/1) on [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) (6 months ago)
 </details>
 
 <details><summary>🔗 Elsewhere</summary><br />
