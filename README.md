@@ -7,7 +7,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (1 day ago)
+- [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (today)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (wasm-bindgen) → .wasm (3 weeks ago)
 - [rickycodes/weup](https://github.com/rickycodes/weup) - Checks website HTTPS and email MX records, with optional outage and recovery email alerts via GitHub Actions. (3 weeks ago)
 - [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (1 month ago)
