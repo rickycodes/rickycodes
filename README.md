@@ -7,8 +7,8 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (today)
-- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (wasm-bindgen) → .wasm (3 days ago)
+- [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (1 day ago)
+- [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (wasm-bindgen) → .wasm (4 days ago)
 - [rickycodes/weup](https://github.com/rickycodes/weup) - Checks website HTTPS and email MX records, with optional outage and recovery email alerts via GitHub Actions. (3 weeks ago)
 - [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) - Stream local and YouTube video from a PC to MiSTerFPGA over plain HTTP, with ffmpeg   transcoding and CRT-focused playback controls. (1 month ago)
 - [rickycodes/www-assets](https://github.com/rickycodes/www-assets) - static assets for www (1 month ago)
@@ -40,7 +40,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 - [refactor(wasm): migrate to wasm-bindgen](https://github.com/rickycodes/www/pull/14) on [rickycodes/www](https://github.com/rickycodes/www) (2 months ago)
 - [feat: add dark mode](https://github.com/rickycodes/www/pull/12) on [rickycodes/www](https://github.com/rickycodes/www) (3 months ago)
 - [feat: add dark mode](https://github.com/rickycodes/www/pull/11) on [rickycodes/www](https://github.com/rickycodes/www) (3 months ago)
-- [WebUI: paste torrent links anywhere to add them immediately](https://github.com/qbittorrent/qBittorrent/pull/24400) on [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) (5 months ago)
+- [WebUI: paste torrent links anywhere to add them immediately](https://github.com/qbittorrent/qBittorrent/pull/24400) on [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) (6 months ago)
 - [milkdrop](https://github.com/rickycodes/mister_rastercast/pull/1) on [rickycodes/mister_rastercast](https://github.com/rickycodes/mister_rastercast) (6 months ago)
 </details>
 
