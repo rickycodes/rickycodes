@@ -7,7 +7,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>👀 Check out what I'm currently working on</summary><br />
 
-- [rickycodes/gpui-pass](https://github.com/rickycodes/gpui-pass) - A Rust and GPUI desktop client for pass password stores, with GPG and YubiKey support. (1 day ago)
+- [rickycodes/gpui-pass](https://github.com/rickycodes/gpui-pass) - A Rust and GPUI desktop client for pass password stores, with GPG and YubiKey support. (today)
 - [rickycodes/cv](https://github.com/rickycodes/cv) - curriculum vitae (4 days ago)
 - [rickycodes/www](https://github.com/rickycodes/www) - my website built using Rust (wasm-bindgen) → .wasm (1 week ago)
 - [rickycodes/weup](https://github.com/rickycodes/weup) - Checks website HTTPS and email MX records, with optional outage and recovery email alerts via GitHub Actions. (1 month ago)
