@@ -27,7 +27,7 @@ linux, cyling, type systems, camping, rustlang, webassembly, command line interf
 
 <details><summary>🔭 Latest releases I've contributed to</summary><br />
 
-- [rickycodes/gpui-pass](https://github.com/rickycodes/gpui-pass) ([v1.0.2](https://github.com/rickycodes/gpui-pass/releases/tag/v1.0.2), 1 day ago) - A Rust and GPUI desktop client for pass password stores, with GPG and YubiKey support.
+- [rickycodes/gpui-pass](https://github.com/rickycodes/gpui-pass) ([v1.0.3](https://github.com/rickycodes/gpui-pass/releases/tag/v1.0.3), today) - A Rust and GPUI desktop client for pass password stores, with GPG and YubiKey support.
 - [rickycodes/emoji-picker](https://github.com/rickycodes/emoji-picker) ([v1.0.0](https://github.com/rickycodes/emoji-picker/releases/tag/v1.0.0), 1 month ago) - :poop: A lightweight, accessible emoji picker built with vanilla JavaScript.
 - [rickycodes/proxmox_znc](https://github.com/rickycodes/proxmox_znc) ([v0.1.0](https://github.com/rickycodes/proxmox_znc/releases/tag/v0.1.0), 5 months ago) - A small Proxmox host-side installer that creates an Alpine LXC and bootstraps a basic ZNC bounce.
 - [rickycodes/oysterclip](https://github.com/rickycodes/oysterclip) ([v0.1.1](https://github.com/rickycodes/oysterclip/releases/tag/v0.1.1), 7 months ago) - A lightweight clipboard manager that captures and stores your  clipboard history locally—text and images, encrypted and searchable.
